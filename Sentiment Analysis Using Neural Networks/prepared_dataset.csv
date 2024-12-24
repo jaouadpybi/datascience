@@ -1,0 +1,2732 @@
+,review_cleaned_text,sentiment
+0,"['way', 'plug', 'converter']",0
+1,"['good', 'case', 'excellent', 'value']",1
+2,"['great', 'jawbone']",1
+3,"['tie', 'charger', 'conversation', '45', 'minute', 'major', 'problems']",0
+4,"['mic', 'great']",1
+5,"['jiggle', 'plug', 'line', 'right', 'decent', 'volume']",0
+6,"['dozen', 'contact', 'imagine', 'fun', 'send']",0
+7,"['razr', 'owner', '...']",1
+8,"['needless', 'waste', 'money']",0
+9,"['waste', 'money', 'time']",0
+10,"['sound', 'quality', 'great']",1
+11,"['impressed', 'original', 'battery', 'extended', 'battery']",1
+12,"['seperate', 'mere', '5', 'ft', 'start', 'notice', 'excessive', 'static', 'garbled', 'sound', 'headset']",0
+13,"['good', 'quality']",1
+14,"['design', 'odd', 'ear', 'clip', 'comfortable']",0
+15,"['highly', 'recommend', 'blue', 'tooth', 'phone']",1
+16,"['advise', 'fool']",0
+17,"['far', 'good']",1
+18,"['work', 'great']",1
+19,"['click', 'place', 'way', 'wonder', 'long', 'mechanism']",0
+20,"['motorola', 'website', 'follow', 'direction', 'pair']",0
+21,"['buy', 'use', 'kindle', 'fire', 'absolutely', 'love']",1
+22,"['commercial', 'misleading']",0
+23,"['run', 'new', 'battery', 'bar', 'day', 'charge']",1
+24,"['buy', 'mother', 'problem', 'battery']",0
+25,"['great', 'pocket', 'pc', 'phone', 'combination']",1
+26,"['phone', '7', 'month', 'good', 'mobile', 'phone']",1
+27,"['think', 'instruction', 'provide', 'helpful']",0
+28,"['people', 'hear', 'talk', 'pull', 'earphone', 'talk', 'phone']",0
+29,"['hold', 'charge']",0
+30,"['simple', 'little', 'phone', 'use', 'breakage', 'unacceptible']",0
+31,"['product', 'ideal', 'people', 'like', 'ear', 'sensitive']",1
+32,"['unusable', 'car', 'freeway', 'speed']",0
+33,"['year', 'leave', 'contract', 'hate', 'phone']",0
+34,"['car', 'charger', 'ac', 'charger', 'include', 'sure', 'run', 'juice', 'highy', 'recommend']",1
+35,"['need', '3', 'min', 'phone', 'book', 'time', 'turn', 'phone', 'battery', 'life', 'short']",0
+36,[],1
+37,"['poor', 'talk', 'time', 'performance']",0
+38,"['case', 'great', 'work', 'fine', '680']",1
+39,"['worthless', 'product']",0
+40,"['great', 'camera', 's', '2mp', 'pic', 'nice', 'clear', 'great', 'picture', 'quality']",1
+41,"['impress', 'product']",0
+42,"['nice', 'headset', 'price', 'right']",1
+43,"['hear', 'garbage', 'audio']",0
+44,"['excellent', 'bluetooth', 'headset']",1
+45,"['feature', 'want']",1
+46,"['right', 'mind', 'buy', 'battery']",0
+47,"['argue', 'verizon', 'regard', 'dropped', 'calls', 'return', 'phones', 'day']",0
+48,['case'],1
+49,"['disappoint', 'battery']",0
+50,"['loud', 'turn', 'like']",0
+51,"['good', 'protection', 'phone', 'bulky']",1
+52,"['usable', 'keyboard', 'actually', 'turn', 'pda', 'real', 'world', 'useful', 'machine', 'instead', 'neat', 'gadget']",1
+53,"['phone', 'pretty', 'sturdy', 'large', 'problem']",1
+54,"['love', 'thing']",1
+55,"['fine', 'reasonable', 'price', 'i.e.']",1
+56,['disappointed'],0
+57,"['drop', 'phone', 'stream', 'submerge', '15', 'second', 'work', 'great']",1
+58,"['happy', '510', 'complaint', 'regard', 'sound', 'quality', 'end']",1
+59,"['button', 'bad']",0
+60,"['essentially', 'forget', 'microsoft', 'tech', 'support']",0
+61,"['recommend', 'faceplate', 'look', 'nice', 'elegant', 'cool']",1
+62,"['headphone', 'great', 'find', 'think', 'good', 'purchase', 'year', 'seriously']",1
+63,"['buy', 'different', 'phone']",0
+64,"['hold', 'phone', 'particular', 'angle', 'party', 'hear', 'clearly']",0
+65,"['big', 'drawback', 'mp3', 'player', 'button', 'phone', 'cover', 'let', 'pause', 'skip', 'song', 'lock', 'second']",0
+66,"['week', 'later', 'activate', 'suddenly', 'die']",0
+67,"['feel', 'comfortable', 'headset', 'wear', 'glass', 'way']",1
+68,"['great', 'ipod']",1
+69,"['device', 'great', 'situations:1']",1
+70,"['mic', 'work']",0
+71,"['bmw', '3', 'series', 'fairly', 'quiet', 'trouble', 'hear', 'person']",0
+72,"['great', 'choice']",1
+73,"['nice', 'docking', 'station', 'home', 'work']",1
+74,"['beautiful', 'phone']",1
+75,"['love', 'product']",1
+76,"['buy', 'd807', '...', 'wrongly', 'advertise', 'd807']",0
+77,"['great', 'little', 'item']",1
+78,"['love', 'phone', 'handy', 'lot', 'feature']",1
+79,"['purchase', '2', 'day', 'long', 'work']",0
+80,"['wear', 'everyday', 'hold']",1
+81,"['good', 'bargain']",0
+82,"['package', 'arrive', 'time', 'work', 'intend']",1
+83,"['battery', 'run', 'quickly']",0
+84,"['item', 'work', 'great', 'break', '6', 'month', 'use']",0
+85,"['headset', 'easy', 'use', 'love']",1
+86,"['phone', 'work', 'great']",1
+87,"['construction', 'headset', 'poor']",0
+88,"['product', 'excellent', 'work', 'verizon', 'boy', 'cheap']",1
+89,"['phone', 'load', 'super']",1
+90,"['product', 'cost', 'expect', 'work', 'far', 'great', 'ease', 'thing']",0
+91,['sturdy'],1
+92,"['work', 'great']",1
+93,"['ear', 'bud', 'play', 'music', 'ear']",0
+94,"['waste', 'money', '...']",0
+95,['order'],1
+96,"['plan', 'use', 'car', 'forget']",0
+97,"['find', 'product', 'waaay', 'big']",0
+98,"['find', 'far', '....', 'try', '2', 'bluetooth', 'good', 'quality', 'listener', 'ease', 'use']",1
+99,"['disappointed', 'decision']",0
+100,"['integrate', 'seamlessly', 'motorola', 'razr', 'phone']",1
+101,"['buyer', 'beware', 'flush', 'money', 'right', 'toilet']",0
+102,"['definitely', 'bargain']",1
+103,"['price', 'good', 'free', 'shipping', 'good', 'purchase']",1
+104,"['receive', 'supposedly', 'new', 'motorola', '375', 'apparently', 'match', 'phone', 'charger']",0
+105,"['pros:-good', 'camera', 'nice', 'picture', 'cool', 'style', 'like', 'black', 'white']",1
+106,"['huge', 'design', 'flaw', 'use', 'correctly', 'think', 'case']",0
+107,"['love', '350', 'headset', '..', 'jabra350', 'bluetooth', 'headset', 'great', 'reception', 'good', 'ear', 'piece', 'comfortable', 'fit']",1
+108,"['camera', 'rate', 'impressive', '1.3', 'megapixel', 'render', 'image', 'fall', 'expectation', 'relatively', 'high', 'resolution']",0
+109,"['purcashe', 'car', 'charger', 'work']",0
+110,"['sound', 'quality', 'end', 'excellent', 'use', 'headset', 'wife', 'ask', 'wife', 'use', 'headset', '2']",1
+111,"['phone', 'slim', 'light', 'display', 'beautiful']",1
+112,"['little', 'geeky', 'think', 's', 'sex', 'toast', 'rock', 'ooze', 'sex', 'right', 'battery', 'embed', 'sleek', 'stylish', 'leather', 'case']",1
+113,"['great', 'product', 'fast', 'shipping']",1
+114,"['absolutely', 'great']",1
+115,"['keyboard', 'nice', 'compromise', 'qwerty', 'basic', 'cell', 'phone', 'number', 'keypad']",1
+116,"['phone', 'end', 'completely', 'unhappy']",0
+117,"['comfortable', 'ear']",1
+118,['winner'],1
+119,"['setup', 'simple']",1
+120,"['try', 'different', 'earpiece', 'cell', 'phone', 'jabra', 'find', 'fit', 'ear', 'comfortably']",1
+121,"['strong', 'signal']",0
+122,"['iam', 'pleased', 'purchase']",1
+123,"['bad', 'quality']",0
+124,['job'],1
+125,"['great', 'audio']",1
+126,"['basically', 'service', 'bad']",0
+127,"['work', 'cell', 'phone', 'plug', 'set', 'charger']",0
+128,"['bluetooth', 'week', 'like']",1
+129,"['bt', 'headset', 'disapoinment']",0
+130,"['small', 'realize', 'getting', 'use']",1
+131,"['accompanied', 'software', 'brilliant']",1
+132,"['headset', 'work', 'great', 'package', 'nicely', 'avoid', 'damage']",1
+133,"['definitly', 'recommend']",1
+134,"['buyer', '--', 'careful']",0
+135,"['majority', 'logitech', 'earbud', 'headset', 'fail']",0
+136,"['good', 'stuff', 'price']",1
+137,"['headset', 'work', 'peachy', 'keen']",1
+138,"['house', 'getting', 'drop', 'coverage', 'upstairs', 'coverage', 'basement']",0
+139,"['voice', 'recognition', 'tremendous']",1
+140,['waste'],0
+141,"['different', '2', 'minute', 'experience', '5', 'drop', 'area', '5', 'bar']",0
+142,"['happy', 'item']",0
+143,['disappointed'],0
+144,"['phone', 'forever', 'charge', 'like', '2', '5', 'hour', 'literally']",0
+145,"['phone', 'reccomendation', 'relative', 'glad']",1
+146,"['waste', 'time']",0
+147,"['reception', 'poor']",0
+148,"['item', 'state', 'include', 'description', 'include']",0
+149,"['3', 'month', 'screen', 'black', 'sudden']",0
+150,['hope'],0
+151,"['audio', 'quality', 'poor', 'poor']",0
+152,"['absolutely', 'problem', 'headset', 'link', '8530', 'blackberry', 'curve']",1
+153,"['know', 'sound', 'funny', 'like', 'sketchy', 'technology', 'work', 'work', 'great']",1
+154,"['buy', '5', 'wire', 'headphone', 'sound']",0
+155,"['phone', 'fast', 'send', 'kind', 'message', 'web', 'browsing', 'significantly', 'fast', 'previous', 'phone', 'use']",1
+156,"['nice', 'quality', 'build', 'unlike', 'cheap', 's']",1
+157,"['item', 'fantastic', 'work', 'perfectly']",1
+158,"['love', 'color']",1
+159,"['w810i', 'superb']",1
+160,"['whine', 'internet', 'use', 'thing', 'like']",0
+161,"['great', 'charger']",1
+162,"['essentially', 'communication', 'tool', 'communicate']",0
+163,"['work', 'like', 'charm', 'work', 'phone']",1
+164,"['maintain', 'monkey', 'headphone', 'obviously', 'share', 'dna', 'copy', 'design', 'human']",0
+165,"['great', 'value']",1
+166,"['work', '..', 'bougth', 'l7c', 'work']",0
+167,"['look', 'sharp', 'screen', 'nice', 'clear', 'great', 'graphic']",1
+168,['long'],0
+169,"['thing', 'hate', 'mode', 'set', 'button']",0
+170,"['excellent', 'service']",1
+171,"['thank', 'waste', 'money']",0
+172,"['be?the', 'audio', 'quality', 'poor']",0
+173,"['igo', 'charger', 'tip', 'great']",1
+174,"['file', 'browser', 'offer', 'option', 'need', 'handsfree', 'great']",1
+175,"['superb', 'phone', 'great', 'network']",1
+176,"['connect', 'wife', 'bluetooth,(motorola', 'hs850', 'phone', 'work', 'like', 'charm', 'phone', 'pocket', 'case']",1
+177,"['late', 'os', 'v1.15', 'g', 'like', 'slow', 'crawl', 'lock']",0
+178,"['recognize', 'phone', 'storage', 'device']",0
+179,"['like', 'loud', 'buzzing', 'override', 'conversation', 'phone']",0
+180,"['buy', 'product']",0
+181,"['bluetoooth', 'headset', 'time', 'comfortable', 'way', 'fit', 'ear']",0
+182,"['sound', 'quality', 'good', 'functionality', 'awesome']",1
+183,"['phone', 'thorn', 'abhor']",0
+184,"['recently', 'problem', 'stay', 'connected', '10', 'minute', 'disconnect']",0
+185,['incredible'],1
+186,"['design', 'flaw']",0
+187,"['great', 'phone']",1
+188,"['waste', '13', 'buck']",0
+189,"['check', 'voice', 'mail', 'night', 'keypad', 'backlight', 'turn', 'second', 'message', 'lose']",0
+190,"['replacement', 'die', 'week']",0
+191,"['ring', 'tone', '..', 'overall', 'good', 'phone', 'buy', '..']",1
+192,"['lately', 'extremely', 'nice', 'helpful', 'phone']",1
+193,"['problem', 'wit', 'hit', 'dropping', 'signal']",0
+194,['impressed'],0
+195,"['light', 'weight', 'hardly', 'notice']",1
+196,"['love', 'thin']",1
+197,"['bad', 'choice']",0
+198,"['pleather', 'case', 'fit']",0
+199,"['useless', 'phone', 'simply', 'deaf']",0
+200,"['color', 'pretty', 'think', 'graphic', 'incredibly', 'sharp']",1
+201,"['think', 'good', 'investment']",1
+202,"['strange', 'tick', 'noise', 'end']",0
+203,"['good', 'electronic', 'available', 'fm', 'transmitters']",1
+204,"['battery', 'hour']",0
+205,"['great', 'headset', 'impressed', 'h500']",1
+206,"['1.2', 'mega', 'pixel', 'camera', 'phone', 'reasonably', 'good7']",1
+207,"['nearly', '2', 'year', 'work', 'great']",1
+208,"['good', 'transmit', 'audio']",1
+209,['send'],0
+210,"['bother', 'contact', 'company', 'dollar', 'product', 'learn', 'lesson', 'buy', 'form', 'online']",0
+211,"['hate', 'earbug', 'avoid', 'phone', 'mean']",0
+212,"['great', 'price']",1
+213,"['range', 'decent', 'able', 'roam', 'house', 'phone', 'living', 'room', 'reception', 'sound', 'quality', 'issue']",1
+214,"['fast', 'service']",1
+215,"['highly', 'recommend']",1
+216,['recommend'],1
+217,"['like', 'button', 'feel', 'like', 'crack', 'use']",0
+218,"['bad', 'phone']",0
+219,"['infatuate', 'phone']",1
+220,"['freezes', 'frequently4']",0
+221,"['kind', 'embarrassing', 'use', 'look', 'embarrassing', 'child', 'like', 'company']",0
+222,"['simple', 'lightweight', 'great', 'fit']",1
+223,"['expect', 'consumer', 'experience', 'motorola']",0
+224,"['horrible', 'tick', 'sound', 'background', 'experience']",0
+225,"['certainly', 'comfortable', 'functionality', 'decent']",1
+226,"['usually', 'like', 'headband', 'lightweight', 'mess', 'hair']",1
+227,"['bit', 'disappointed']",0
+228,"['phone', 'year', 'tell', 'great']",0
+229,"['order', 'sony', 'ericsson', 'w810i', 'think', 'work', 's', 'use']",0
+230,"['battery', 'completely', 'useless']",0
+231,"['big', 'waste', 'time']",0
+232,['waste'],0
+233,"['great', 'sound', 'service']",1
+234,"['pleased', 'product', 'far']",1
+235,"['favorite', 'purchase']",1
+236,"['bluetooth', 'market']",1
+237,"['authentic', 'leather', 'nice', 'shine', 'comfort', '.i', 'recommend', 'case']",1
+238,"['excited', 'headset', 'think', 'cute']",1
+239,['mistake'],0
+240,"['big', 'disappointment', 'calendar', 'sync']",0
+241,"['phone', 'unusable', 'new']",0
+242,"['bad', 'customer', 'service']",0
+243,"['additional', 'ear', 'gel', 'provide', 'instruction', 'whatsoever']",0
+244,"['defeat', 'purpose', 'bluetooth', 'headset']",0
+245,"['worth', 'penny']",1
+246,"['excellent', 'wallet', 'type', 'phone', 'case']",1
+247,"['nice', 'headphone', 'price', 'work', 'great']",1
+248,"['internet', 'excrutiatingly', 'slow']",0
+249,"['comfortable', 'wear', 'probably', 'important', 'aspect', 'use', 'case']",1
+250,"['fit', 'like', 'glove', 'strong', 'secure', 'durable']",1
+251,"['o', 'gosh', 'good', 'phone']",1
+252,"['attractive', 'appear', 'good', 'quality']",1
+253,"['love', 'feature', 'form', 'factor']",1
+254,"['product', 'strong', 'rubber', 'petroleum', 'smell', 'unbearable', 'cause', 'return']",0
+255,"['poor', 'quality', 'service']",0
+256,"['cable', 'look', 'thin', 'flimsy', 'scary']",0
+257,"['great', 'earpiece']",1
+258,"['excellent', 'hand', 'free', 'tool']",1
+259,"['great', 'use', 'home', 'stereo']",1
+260,"['good', 'product', 'incredible', 'value']",1
+261,"['month', 'work', 'flawlessly', 'far']",1
+262,"['work', 'great']",1
+263,"['absolutel', 'junk']",0
+264,['work'],0
+265,"['battery', 'life', 'real', 'good']",1
+266,"['return', '8', 'hour', 'later']",0
+267,"['great', 'item']",1
+268,"['waste', 'money']",0
+269,"['love', 'headset']",1
+270,"['drain', 'player', 'potentially', 'fry']",0
+271,"['work', 'perfectly']",1
+272,['unreliable'],0
+273,"['5', 'star', 'sound', 'quality']",1
+274,['avoid'],0
+275,"['reversible', 'plug', 'work', 'great']",1
+276,"['waste', 'little', 'money', 'earpiece']",0
+277,"['good', 'phone']",1
+278,"['good', 'rotate', 'feature', 'helpful']",1
+279,"['comfort', 'family']",1
+280,"['good', 'product', 'good', 'seller']",1
+281,"['love', 'bluetooth']",1
+282,['wear'],0
+283,"['impressed', 'headset', 'plantronics']",1
+284,"['small', 'adorable']",1
+285,"['recommend', 'buy', 'product']",0
+286,"['piece', 'junk']",0
+287,"['poorly', 'contstruct', 'hinge']",0
+288,"['item', 'great', 'instal', 'let', 'charge', 'overnite', 'work', 'good', 'problem']",1
+289,"['great', 'phone']",1
+290,['buy'],0
+291,"['excellent', 'phone']",1
+292,"['purchase', 'phone']",0
+293,"['voice', 'recognition', 'handset', 'excellent']",1
+294,"['hand', 'good', 'phone']",1
+295,"['work', 'great', 'cat', 'attack', 'phone', 'scratch', 'protective', 'strip', 'instead', 'destroy', 'screen']",1
+296,"['work', 'price', 'right']",1
+297,"['customer', 'service', 'terrible']",0
+298,"['battery', 'life', 'long', 'motorola', 'razor', 'v3i']",0
+299,['send'],0
+300,"['know', 'wise', 'decision']",1
+301,"['ve', 'invent', 'soon']",1
+302,"['good', 'price']",1
+303,"['work', 'try', 'device', 'certainly', 'engineer', 'clever', 'way', 'construction', 'feel', 'good']",1
+304,"['receive', 'quickly', 'work', 'great']",1
+305,"['work', 'great']",1
+306,"['people', 'complain', 'find', 'headset', 'microphone', 'weak']",0
+307,"['5', 'year', 'old', 'nokia', '2160', 'tracfone', 'hold', 'charge', 'lot']",0
+308,"['care', 'consumer', 'bit']",0
+309,"['good', 'battery', 'fast']",1
+310,"['instruction', 'manual', 'lack']",0
+311,"['slim', 'fit', 'alarm', 'clock', 'docking', 'station', 'remove', 'case']",1
+312,"['phone', 'hold', 'charge', 'like', 'new']",1
+313,"['battery', 'unreliable', 'service', 'use', 'antena']",0
+314,"['uncomfortable', 'sound', 'quality', 'poor', 'compare', 'phone', 'razr', 'previous', 'wire', 'headset', 'plug', 'lg']",0
+315,"['lot', 'compliment']",1
+316,"['definitely', 'state', 'allow', 'cell', 'phone', 'usage', 'drive']",1
+317,"['want', 'money']",0
+318,"['love', 'device']",1
+319,"['happy', 'price']",1
+320,"['order', 'product', 'unhappy', 'immediately']",0
+321,"['ngage', 'lack', 'earbud']",0
+322,"['able', 'voice', 'dialing', 'car', 'problem']",1
+323,"['2', '3', 'bar', 'cell', 'phone', 'home', 'hear']",0
+324,"['good', 'item', 'low', 'price']",1
+325,"['riingtone', 'good', 'game']",0
+326,"['plug', 'work']",0
+327,"['amazon', 'sucks']",0
+328,"['rip', 'off----', 'charge', 'shipping']",0
+329,['comfortable'],1
+330,"['battery', 'work', 'replacement', 'original', 'come', 'phone', '2', 'year', 'ago']",1
+331,"['reception', 'excellent']",1
+332,"['fit', 'comfortably', 'ear', 'sound', 'clear', 'loud', 'charge', 'couple', 'day']",1
+333,"['clear', 'quality', 'sound', 'mess', 'sound', 'ipod', 'sound', 'button', 'headset']",1
+334,"['1', 'long', 'battery', 'recharge', 'frequentyly', 'flip', 'phones)2']",0
+335,"['obviously', 'problem', 'adhesive']",0
+336,['disappointing'],0
+337,"['inexpensive', 'piece', 'expect', 'quality']",0
+338,"['practically', 'useless', 'add', 'kind', 'boost', 'reception', 'buy']",0
+339,"['excellent', 'sound', 'quality']",1
+340,['happy'],0
+341,"['piece', 'junk', 'break', 'phone', '2', 'day']",0
+342,"['new', 'battery', 'work', 'great', 'phone']",1
+343,"['bad', 'customer', 'service']",0
+344,"['drop', 'phone', 'time', 'concrete', 'phone', 'great', 'knock', 'wood']",1
+345,"['reception', 'terrible', 'static']",0
+346,"['good', 'audio', 'quality']",1
+347,"['little', 'device', 'transform', 'organizational', 'capability', 'life', 'lot', 'easy']",1
+348,"['sit', 'vehicle', 'cradle', 'belt', 'headset', 'lose', 'signal']",0
+349,"['jerks', 'phone']",0
+350,"['work', 'like', 'charm', '..', 'work', 'advertise']",1
+351,"['comfortable', 'nice', 'range', 'good', 'battery', 'life']",1
+352,"['network', 'coverage', 'los', 'angeles', 'horrible']",0
+353,"['excellent', 'starter', 'wireless', 'headset']",0
+354,"['loudspeaker', 'option', 'great', 'bumper', 'light', '...', 'appeal']",0
+355,"['thing', 'think', 'improve', 'sound', 'leak', 'headset']",0
+356,"['reception', 'suck', '2', 'bar']",0
+357,"['phone', 'extremely', 'hot']",0
+358,"['microphone', 'work', 'accord', 'people', 'applifie']",1
+359,"['nice', 'design', 'quality']",1
+360,"['phone', 'drop', 'case', 'save', 'specially', 'drop', 'face']",0
+361,"['light', 'easy', 'use', 'clear', 'reception', 'transmission']",1
+362,"['bad', 'fit', 'way', 'big']",0
+363,"['definitely', 'good', 's11']",1
+364,"['awesome', 'device']",1
+365,"['waste', 'money']",0
+366,"['order', 'motorola', 'data', 'cable', 'finished', 'work', 'product']",1
+367,"['love', 'phone']",1
+368,"['look', 'headset', 'long', 'time', 'happy']",1
+369,"['drivng', 'headset', 'start', 'ring', 'reason']",0
+370,"['display', 'excellent', 'camera', 'good', 'year']",1
+371,"['battery', 'life', 'great']",1
+372,"['bad', 'phone', '....', 'month']",0
+373,"['good', 'item', '..', 'work', 'start', 'problem', 'auto', 'reverse', 'tape', 'player']",0
+374,"['embarasse', 'ear', 'hurt', 'try', 'push', 'ear', 'plug', 'ear']",0
+375,"['protect', 'phone']",1
+376,"['average', 'phone', 'bad', 'battery', 'life', 'operate', 'weak', 'network']",0
+377,"['clear', 'skype', 'long', 'battery', 'life', 'long', 'range']",1
+378,"['soyo', 'technology', 'suck']",0
+379,"['great', 'hands', 'free', 'device']",1
+380,"['self', 'portrait', 'outside', 'exterior', 'display', 'cool']",1
+381,"['problem', 'mention']",0
+382,"['try', 'handsfree', 'gadget', 'finally', 'work']",1
+383,"['magical', 'help']",1
+384,"['bad', 'piece', 'crap', 'verizon', 'customer', 'service']",0
+385,"['poor', 'sound', 'quality']",0
+386,"['good', 'phone', 'market', ':)']",1
+387,['work'],1
+388,"['company', 'ship', 'product', 'promptly', 'work']",1
+389,"['exactly', 'want']",1
+390,"['picture', 'resolution', 'far', 'comparably', 'price', 'phone', 'offer', 'today']",0
+391,"['great', 'deal']",1
+392,"['excellent', 'product', 'satisfied', 'purchase']",1
+393,"['highly', 'recommend', 'encourage', 'people', 'try']",1
+394,['expect'],1
+395,"['use', 'earpiece', 'leave', 'right', 'thing', 'stay', 'ear']",0
+396,"['great', 'product', 'price']",1
+397,"['sound', 'good', 'reasonably', 'price', 'effective', 'simple']",1
+398,"['wait', '......', 'sure', 'item', 'work', '..', 'recieve']",0
+399,['disappointment'],0
+400,"['prompt', 'service']",1
+401,"['excellent', 'product', 'price']",1
+402,"['pleased', 'headset']",1
+403,"['waste', 'money', 'time']",0
+404,"['especially', 'love', 'long', 'battery', 'life']",1
+405,"['stupid', 'buy', 'new', 'charger', 'car', 'charger', 'cradle', 'headphone', 'car', 'kit', 'time', 'new', 'phone', 'come']",0
+406,"['plantronics', 'bluetooth', 'excelent', 'buy']",1
+407,"['come', 'verizon', 'cingulair', 'nice', 'cell', 'phone', '....', 'thing', 'notice', 'bad', 'service']",0
+408,"['look', 'new', 'earpiece']",0
+409,"['highly', 'recommend', 'device']",1
+410,"['jawbone', 'era', 'awesome']",1
+411,"['receive', 'white', 'colored', 'battery', 'dead', 'couple', 'hoursthe', 'original', 'use', 'week', 'long', 'thereplacement']",0
+412,"['year', 'battery', 'completely', 'dead', 'headset']",0
+413,"['use', 'phone', 'year', 'good']",1
+414,"['awesome', 'new', 'look', 'fall', '2000']",1
+415,"['phone', 'cheaply']",0
+416,"['att', 'clear', 'sound', 'distorted', 'yell', 'talk']",0
+417,"['plastic', 'break', 'easy', 'clip']",0
+418,"['price', 'good']",1
+419,['mistake'],0
+420,"['oh', 'forget', 'mention', 'weird', 'color', 'effect', 'phone']",0
+421,"['use', 'iriver', 'spinn', 'case', 'fit', 'fine']",1
+422,"['area', 'unit', 'broke).-', 'fond', 'magnetic', 'strap']",0
+423,"['overall', 'psyche', 'phone', 'appointment', 'contact', 'great', 'reception']",1
+424,"['thing', 'phone', 'work', 'perfectly', 'like']",1
+425,"['note', 'phone', 'appearance', 'look', 'bland', 'especially', 'black', 'model']",0
+426,['easy'],1
+427,"['sanyo', 'survive', 'dozen', 'drop', 'blacktop', 'ill', 'effect']",1
+428,"['fantastic', 'earphone']",1
+429,"['find', 'cell', 'phone', 'right', 'away', 'enter', 'car']",1
+430,"['low', 'quality']",0
+431,"['highly', 'recommend', 'modest', 'price', 'cellular', 'phone']",1
+432,"['reception', 'clarity', 'phone']",1
+433,"['warning', 'stay', 'away']",0
+434,"['wish', 'return', 'unit', 'money']",0
+435,"['awsome', 'device', 'work', 'great']",1
+436,"['use', 'talk', '1', '1', '1/2', 'hour', 'battery', 'literally', 'drain', 'die']",0
+437,"['find', 'bad', 'unit', 'come', 'earpad', 'recommend']",0
+438,['displeased'],0
+439,"['defect', 'risk', 'buy', 'build', 'quality']",0
+440,"['case', 'small', 'difficult', 'install']",0
+441,"['restore', 'phone', 'like', 'new', 'performance']",1
+442,"['recommend', 'purchase', 'jabra', 'jx-10', 'series', '2', 'work', 'flawlessly', 'moto', 'q', 'figure']",1
+443,"['search', 'internet', 'find', 'good', 'value']",1
+444,['fit'],0
+445,"['happy', 'product']",1
+446,"['screen', 'size', 'big', 'key', 'pad', 'light', 'camera', 'quality', 'excellent', 'camera', 'phone']",1
+447,"['bad', 'headset']",0
+448,"['glad', 'find', 'product', 'amazon', 'hard', 'find', 'high', 'price']",1
+449,"['portable', 'work']",1
+450,"['colleague', 'great', 'reception', 'little', 'expensive', 'performance', 'great']",1
+451,"['fully', 'charge', 'bed', 'turn', 'blue', 'tooth', 'wi', 'fi', 'notice', '20', 'leave', 'morning']",0
+452,"['problem', 'phone', 'read', 'memory', 'card', 'turn']",0
+453,"['good', 'wear', 'hat', 'sunglass']",0
+454,"['timely', 'shipment', 'quality', 'product']",1
+455,"['nice', 'solid', 'keyboard']",1
+456,"['fit', 'surefire', 'gx2', 'perfectly']",1
+457,"['horrible', 'phone']",0
+458,"['bt50', 'battery', 'junk']",0
+459,['recommend'],1
+460,"['software', 'work', 'computer']",0
+461,['disappointed'],0
+462,"['poor', 'voice', 'clarity']",0
+463,"['battery', 'work', 'great']",1
+464,"['buyer', 'remorse']",0
+465,"['disappointed', 'accessoryone']",0
+466,"['find', 'inexcusable', 'probably', 'return', 'phone', 'change', 'carrier']",0
+467,"['look', 'great', 'strong']",1
+468,"['tmobile', 'service', '2', '3', 'year', 'pretty', 'happy']",1
+469,"['update', 'procedure', 'difficult', 'cumbersome']",0
+470,"['disappointment', '..', 'hate', 'ear']",0
+471,"['great', 'software', 'motorolas']",1
+472,"['delivery', 'time']",1
+473,"['easy', 'use']",1
+474,"['uncomfortable', 'ear', 'use', 'lg', 'vx9900', 'env']",0
+475,"['volume', 'switch', 'rocket', 'unit', 'destination', 'unknown']",0
+476,"['hold', 'charge', 'long', 'time', 'reasonably', 'comfortable', 'long', 'wear', 'condition', 'quality', 'sound', 'tremendous']",1
+477,"['like', 'return']",0
+478,"['keyboard', 'worthwhile', 'usefulness', 'sturdy', 'expect', 'problem']",1
+479,"['verizon', 'bill', 'difficult', 'understand', 'pricing', 'plan', 'simple']",0
+480,"['charge', 'overnight', 'battery', 'work', 'great']",1
+481,['regret'],1
+482,"['love', 'phone']",1
+483,['disappointment'],0
+484,"['user', 'friendly']",0
+485,"['unfortunately', 'ability', 'actually', 'know', 'receive', 'important', 'feature', 'phone', 'pitiful', 'respect']",0
+486,"['exchange', 'phone', 'problem']",0
+487,"['result', 'phone', 'stick', 'max', 'volume', 'mute']",0
+488,"['pda', 'rock']",1
+489,"['super', 'charge', 'use', 'small', 'hybrid', 'palmtop', 'camera', 'cellphone', 'excel', 'role']",1
+490,"['definitely', 'recommend', 'jabra', 'bt250v', 'look', 'comfort', 'clarity', 'great', 'price']",1
+491,"['verizon', '2', 'year', 'ago', 'like', 'service']",1
+492,"['pretty', 'piece', 'junk']",0
+493,"['plug', 'wrong', 'size']",0
+494,"['work', 'describe']",1
+495,"['save', 'money', '....', 'item', '11', 'month']",0
+496,"['bad', 'purchase']",0
+497,"['im', 'satisfied']",1
+498,"['bose', 'noise', 'cancelling', 'amazing', 'important', 'nyc', 'commuter']",1
+499,"['battery', 'excellent', 'bargain']",1
+500,"['defective', 'crap']",0
+501,"['star', 'able']",0
+502,"['wear', 'glass', 'fit', 'fine']",1
+503,"['sound', 'quality', 'device', 'unacceptable', 'quiet', 'area', 'hear']",0
+504,"['recommend', 'item']",0
+505,"['holster', 'arrive', 'match', 'photo', 'ad']",0
+506,"['great', '...', 'problem']",1
+507,"['early', 'review', 'note', 'plug', 'charger', 'happen']",0
+508,"['frog', 'phone', 'charm', 'adorable', 'eye', 'catch']",1
+509,"['know', 'push', 'hard', 'right', 'number', 'time', 'function', 'want']",0
+510,"['sound', 'clear', 'people', 'talk', 'amazed', 'quality']",1
+511,"['aluminum', 'case', 'new', 'palm', 'vx', 'work', '--', 'protect', 'handheld', 'perfectly', 'far']",1
+512,"['good', 'product']",1
+513,"['mobile', 'phone', 'tools']",1
+514,"['impressed', 'job', 'motorola', 'sturdiness', 'phone']",1
+515,"['receive', 'order', 'shipping', 'timeframe', 'good', 'working', 'order', 'overall', 'excited', 'source']",1
+516,"['phone', 'sturdy', 'waterproof']",1
+517,"['impressed', 'recommend', 'item']",0
+518,"['complaint', 'standard', 'sound', 'volume', 'little', 'low', 'turn', '5(of', '5']",0
+519,"['thank', 'amazon', 'thing', 'need', 'good', 'price']",1
+520,"['end', 'slide', 'edge', 'pant', 'pocket', 'instead']",1
+521,"['store', 'buy', 'new', 'nokia', 'phone', 'work', 'great']",1
+522,['ugly'],0
+523,"['horrible', 'switch', '3', 'time']",0
+524,"['noise', 'shield', 'incrediable']",1
+525,"['real', 'improvement']",0
+526,"['razr', 'battery', 'good', 'buy']",1
+527,"['good', 'work', 'amazon']",1
+528,"['refuse', 'refund', 'replace']",0
+529,"['unfortunately', 'easy', 'accidentally', 'activate', 'gentle', 'touch', 'button', 'accidentally', 'touch', 'phone', 'face', 'listen']",0
+530,"['basically', 'throw', 'money', 'window']",0
+531,"['great', 'case', 'price']",1
+532,"['drop', '6', 'inch', 'kitchen', 'counter', 'crack', 'impressed', 'laugh']",0
+533,"['bluetooth', 'range', 'good', 'day', 'ago', 'leave', 'phone', 'trunk', 'carry', 'conversation', 'hitch']",1
+534,"['small', 'sleek', 'impressive', 'look', 'practical', 'setup', 'ample', 'storage', 'place']",1
+535,"['eargel', 'channel', 'sound', 'directly', 'ear', 'increase', 'sound', 'volume', 'clarity']",1
+536,"['new', 'work', 'properly']",0
+537,"['glad', 'purchase']",1
+538,"['miss', 'numerous', 'reason']",0
+539,"['phone', 'defective', 'people', 'hear', 'use']",0
+540,"['suck', 'stuff', 'work', 'phone']",0
+541,"['shifting', 'bubbling', 'peeling', 'scratch', 'nothing!i', 'happy', 'new', 'droid']",1
+542,"['bad', 'software', 'use', '....', 'zero', 'star']",0
+543,"['try', 'exercise', 'frustration']",0
+544,"['case', 'flimsy', 'piece', 'plastic', 'protection', 'whatsoever']",0
+545,"['jabra', 'earset', 'happy', 'sound', 'quality', 'especially', 'outgoing']",1
+546,"['love', 'camera', 'pretty', 'good', 'quality']",1
+547,"['thank', 'great', 'service']",1
+548,"['total', 'package']",1
+549,"['seller', 'understanding', 'patient', 'definitely', 'buy']",1
+550,"['wirefly', '1', 'star', 'contact', 'cingular', 'at&t', 'inform', 'practice']",0
+551,['aggravating'],0
+552,"['great', 'product', 'price']",1
+553,"['purchase', 'family', 'friend', 'enjoy', 'clarity', 'ease', 'use']",1
+554,"['virgin', 'wireless', 'rock', 'cheap', 'little', 'phone']",1
+555,"['work', 'buy']",0
+556,"['muddy', 'low', 'quality', 'sound', 'casing', 'wire', 'insert', 'poorly', 'super', 'glue', 'slide']",0
+557,"['waste', 'money']",0
+558,"['satisfied', 'purchase']",1
+559,"['look', 'good', 'quality', 'motorola', 'headset', 'look']",0
+560,"['plantronincs', 'continue', 'use', 'flawed', 'charger', 'design']",0
+561,"['disapointing', 'result']",0
+562,"['cumbersome', 'design']",0
+563,"['great', 'new', 'package', 'nice', 'work', 'good', 'problem', 'come', 'time', 'expect']",1
+564,"['great', 'product']",1
+565,"['piece', 'crap']",0
+566,"['experience', 'terrible', '.....', 'fourth', 'bluetooth', 'headset', 'comfortable', 'jabra', 'hate']",0
+567,"['fix', 'problem']",1
+568,['bad'],0
+569,['happy'],1
+570,"['trouble', 'access', 'internet', 'download', 'ringtone', 'perform', 'function']",1
+571,"['barely', 'hear', 'constantly']",0
+572,"['battery', 'life', 'highly', 'unacceptable']",0
+573,"['company', 'joke']",0
+574,['description'],1
+575,"['happen', 'force', 'stop', 'use', 'headset']",0
+576,"['work', 'great', 'car', 'charger', 'especially', 'plug', 'adapter', 'time']",1
+577,"['verizon', 'tech', 'support', 'walk', 'procedure', 'work', 'end', 'hard', 'set', 'wipe', 'datum']",0
+578,"['voice', 'quality', 'signal', 'strength', 'dropped', 'calls']",0
+579,"['play', 'louder', 'speaker', 'size', 'price', 'low', 'think', 'quality', 'lack']",1
+580,['expect'],1
+581,"['feels', 'poorly', 'construct', 'menu', 'difficult', 'navigate', 'button', 'recessed', 'difficult', 'push']",0
+582,"['battery', 'hold']",1
+583,"['difficult', ""i'd"", 'recommend', 'avoid', 'product']",0
+584,"['use', 'day', 'easy', 'hear']",0
+585,"['car', 'charger', 'week', 'charger', 'break', '...', 'plug', 'start', 'smoke']",0
+586,"['sprint', 'terrible', 'customer', 'service']",0
+587,"['link', 'phone', 'effort']",1
+588,['cool'],1
+589,"['easy', 'use']",1
+590,['new'],1
+591,"['possese', 'junk', 'idea', '...']",0
+592,"['piece', 'trash']",0
+593,"['pretty', 'good', 'product']",1
+594,"['great', 'phone']",1
+595,"['price', 'amazon', 'excellent', 'product', 'highly', 'recommend']",1
+596,"['research', 'development', 'division', 'obviously', 'know']",1
+597,"['real', 'killer', 'volume', 'course', 'break']",0
+598,"['phone', 'work', 'fine']",1
+599,"['happy', 'product']",1
+600,"['poor', 'construction']",0
+601,['infuriate'],0
+602,"['overall', 'recommend', 'phone', 'new', 'walkman']",1
+603,"['sprint', 'charge', 'service']",0
+604,"['cheap', 'feel', 'look', 'cheap']",0
+605,"['fit', 'ear', 'comfortable']",1
+606,"['work', 'europe', 'asia']",0
+607,"['clip', 'belt', 'deffinitely', 'feel', 'like', '50', 'cent', 'come']",1
+608,"['like', 'design', 'look', 'jabra', 'behe', 'ear', 'headset', '5020', 'pretty', 'comfortible', 'wear', '24', 'hour', 'day', 'pain', 'ear']",1
+609,"['amazed', 'quick', 'arrival', 'original', 'lg', 'cell', 'phone', 'battery', 'fraction', 'price']",1
+610,"['bad', 'phone', 'samsung', '...', 'crap', '.....', 'crappy', 'samsung', 'e715', '..', 'bad', 'seeen']",0
+611,"['charger', 'work', 'week', 'completely', 'stop', 'charge', 'phone']",0
+612,"['poor', 'product']",0
+613,"['need', 'instruction']",0
+614,"['need', 'hand', 'operate', 'screen', 'software', 'interface', 'decade', 'old', 'compete', 'new', 'software', 'design']",0
+615,"['work', 'pair', 'treo', '700w', 'skype', 'headset', 'pc', 'use', 'usb', 'bluetooth', 'transceiver']",1
+616,"['steer', 'clear', 'product', 'genuine', 'palm', 'replacementr', 'pen', 'come', 'pack']",0
+617,"['buy', 'buyit', 'suck']",0
+618,"['great', 'product', '.....', 'sure', 'beat', 'use', 'finger']",1
+619,"['plus', 'seriously', 'believe', 'worth', 'steep', 'price', 'point']",0
+620,"['case', 'try', 'normally', 'fall', 'apart', 'month', 'long', 'haul']",1
+621,"['dissapointing', 'performance']",0
+622,"['mistake', 'buy', 'phone']",0
+623,"['phone', 'bad', 'brand']",0
+624,"['case', 'extra', 'originally', 'later', 'discard', 'scratch', 'ear']",0
+625,"['recommend', 'igo', 'different', 'brand', 'cell', 'phone', 'mp3', 'player', 'family']",1
+626,"['bother', 'store']",0
+627,"['post', 'detailed', 'comment', 'grey', 'black', 'phone', 'fire', 'red', 'great', 'color']",1
+628,"['problem', 'item', 'order', 'need']",1
+629,"['pay', 'guess']",0
+630,"['software', 'great', 'job', 'ringtone', 'form', 'exist', 'cd', 'internet', 'connection']",1
+631,"['m', 'surprised', 'good', 'quality', 'car', 'charger', 'review']",1
+632,['fabulous'],1
+633,"['bt', 'headset', 'currently', 'good', 'real', 'time', 'game', 'like', 'person', 'shooter', 'audio', 'delay', 'mess']",0
+634,"['use', 'bitpim', 'free', 'program', 'find', 'internet)to', 'transfer', 'datum', 'phone', 'price', 'cable', 'excellent']",1
+635,"['disappointing', 'accessory', 'good', 'manufacturer']",0
+636,"['performed', 'awful', '--', 'muffle', 'tinny', 'incoming', 'sound', 'severe', 'echo', 'end']",0
+637,"['wind', 'resistant']",1
+638,"['obviously', 'terrible', 'customer', 'service', 'pay']",0
+639,"['forever', 'overly', 'expensive', 'replace', 'easy', 'operate', 'sound', 'try']",1
+640,"['contact', 'company', 'tell', 'unit', 'warranty', 'produce', 'receipt', 'luck']",0
+641,"['linksy', 'way', 'exchange', 'bad', 'phone', 'refurb', 'unit']",0
+642,"['phone', 'sturdy', 'nokia', 'bar', 'phone']",1
+643,"['great', 'phone']",1
+644,"['place', 'treo', 'case', 'snug', 'lot', 'extra', 'room']",0
+645,['pleased'],1
+646,"['battery', 'terrible']",0
+647,"['find', 'product', 'easy', 'set', 'use']",1
+648,"['earpiece', 'large', 'heavy', '...', 'fall', 'ear']",0
+649,"['utter', 'crap', '..', 'sound', 'quality', 'terrible']",0
+650,"['charger', 'arrive', 'promise', 'timeframe', 'work']",0
+651,"['ear', 'loop', 'need', 'tiny', 'sound', 'great']",1
+652,"['finally', 'time', 'spring', 'latch', 'break', 'use', 'long', 'visor']",0
+653,"['handsfree', 'work', 'fine', 'car', 'try', 'download', 'address', 'book', 'treo', 'reboot', 'overall', 'rate', 'device', 'high']",1
+654,"['talk', 'useless', 'customer', 'service']",0
+655,"['feel', 'light', 'tinny']",0
+656,"['fit', 'palm', 'tungsten', 'e2', 'break', 'time', 'try', 'plug']",0
+657,"['happy', 'purchase-', 'good', 'quality', 'low', 'price']",1
+658,"['love', 'look', 'feel', 'samsung', 'flipphone']",1
+659,"['design', 'sharp', '--', 'blue', 'nice', 'color']",1
+660,[],1
+661,['recommend'],0
+662,"['nice', 'sound']",1
+663,"['look', 'good', 'picture', 'case', 'huge', 'disappointment']",0
+664,"['jawbone', 'replace']",1
+665,"['setup', 'smoothly']",1
+666,"['extremely', 'slow', 'forever']",0
+667,"['study', 'interested', 'bad', 'sin', 'industrial', 'design']",0
+668,"['thing', 'happen', 'tracking']",0
+669,"['easy', 'access', 'phone', 'handy', 'detachable', 'belt', 'clip']",1
+670,"['continue', 'pair', 'periodically', 'drop']",0
+671,"['upload', 'ringtone', 'party']",0
+672,"['bluetooth', 'work', 'phone', 'lock', 'screen', 'flash', 'randomly', 'pocket', 'lock']",0
+673,"['truly', 'awful']",0
+674,"['work', 'fine', 'motorola', '325', 'cellphone', 'lot', 'wear', 'battery']",1
+675,"['volume', 'ringer', 'real', 'good', 'choice', 'loud']",1
+676,"['tone', 'acceptable']",0
+677,"['camera', 'color', 'balance', 'awful']",0
+678,"['product', 'clearly', 'ready', 'prime', 'time', 'care', 'cool', 'look', 'tell', 'come', 'worthless']",0
+679,"['love', 'ringtone', 'upbeat']",1
+680,"['chinese', 'forgeries', 'abound']",0
+681,"['easy', 'pair', 'samsung', 'cell']",1
+682,"['instruction', 'explain', 'microphone', 'jack', 'use']",0
+683,"['advise', 'purchase', 'item', 'work']",0
+684,"['bad', 'pay', 'month', 'service']",0
+685,['work'],1
+686,"['nokia', 'ca-42', 'usb', 'cable', 'work', 'phone']",0
+687,"['clear', 'crisp', 'sound']",1
+688,"['use', 'small', 'earpiece', 'provide', 'stay', 'pretty']",1
+689,"['big', 'complaint', 'battery', 'drain', 'superfast']",0
+690,"['design', 'ergonomic', 'theory', 'stand', 'ear']",0
+691,"['buy', 'want', 'use', 'holster']",0
+692,"['phone', 'great', 'picture', 'video', 'clip']",1
+693,"['look', 'cool']",0
+694,"['ear', 'occupy', 'background', 'distract']",1
+695,"['comfortable', 'fit', 'need', 'headset', 'comfortable', 'hour', 'time', 'entire', 'day']",1
+696,"['phone', 'accept', 'cbr', 'mp3s', 'preferably', 'rip', 'windows', 'media', 'player']",0
+697,"['beat', 'price']",1
+698,"['come', 'strong', 'light', 'use', 'light', 'camera', 'shot', 'flash', 'sos', 'signal', 'seriously']",1
+699,"['lightweight', 'work']",1
+700,['beware'],0
+701,"['love', 'cable', 'allow', 'connect', 'mini', 'usb', 'device', 'pc']",1
+702,"['near', 'hear', 'conversation']",0
+703,"['cool', 'case', 'open', 'allow', 'screen', 'scratch']",1
+704,"['buy', 'phone', 'replacement', 'startac', 'regret']",0
+705,"['appear', 'actually', 'outperform', 'original', 'battery', 'china', 'come', 'v325i']",1
+706,"['store', 'phone', 'number', 'sim']",0
+707,"['3o', 'minute', 'actually', 'try', 'use', 'phone', 'wife', 'phone', 'problem']",0
+708,"['poor', 'quality']",0
+709,"['jabra', 'ear', 'gel', 'r', 'good']",1
+710,['worth'],0
+711,"['phone', 'crash', 'completely', 'replace']",0
+712,"['quit', 'work', 'use', '18', 'month', 'purchase', 'good', 'headset']",1
+713,"['unfortunately', 'recharge', 'iphone', '4s', 'despite', 'connect', 'multiple', 'power', 'source', 'imac', 'external', 'battery', 'wall', 'outlet', 'etc']",0
+714,"['great', 'phone']",1
+715,"['simply', 'want', 'small', 'flip', 'phone', '--', 'look', 'extra', 'bell', 'whistle', 'mediocre']",0
+716,"['good', 'value', 'work', 'fine', 'power', 'usb', 'car', 'wall', 'outlet']",1
+717,"['phone', 'slide', 'car', 'grip', 'prevent', 'phone', 'slip', 'hand']",1
+718,"['simply', 'best', 'bluetooth', 'headset', 'sound', 'quality']",1
+719,"['think', 'plan', 'one!this', 'sure', 'moto', 'phone']",0
+720,"['span', 'hour', 'people', 'exclaim', 'whoa', 'new', 'phone', 'tv']",1
+721,"['use', 'cord', 'headset', 'freedom', 'wireless', 'helpful']",1
+722,"['case', 'pass', 'year', 'mark', 'sign', 'wear', '100', 'functional']",1
+723,"['leather', 'nice', 'soft', 'fit', 'tight', 'cut', 'face', 'good', 'shape']",1
+724,"['need', 'ask']",1
+725,"['receive', 'use', 'product', '2', 'day', 'break']",0
+726,"['product', 'great', '...', 'work', 'lot', 'easy', 'copier', 'wait', 'hold']",1
+727,"['size', 'send', 'headset', 'stay', 'ear']",0
+728,"['t', 'mobile', 'good', 'customer', 'service']",1
+729,"['arrive', 'quickly', 'expensive', 'sell']",1
+730,"['try', '2', 'unit', 'fail', '2', 'month', '..', 'pro']",0
+731,"['provide', 'good', 'protection', 'look', 'classy']",1
+732,"['krussel', 'good']",1
+733,"['tracfonewebsite', 'user', 'friendly', 'easy', 'toactivate', 'etc']",1
+734,"['design', 'good.4']",1
+735,"['great', 'reception', 'time']",1
+736,"['highly', 'recommend', 'product']",1
+737,"['use', 'unit', 'sunglass', 'good', 'texas']",0
+738,"['dit', 'work', 'time', 'nokia', '5320']",0
+739,"['buy', 'mainly', 'charger', 'break', 'soon', 'purchase']",0
+740,"['fantastic', 'buy', 'phone']",1
+741,"['stay', 'away', 'store', 'careful']",0
+742,"['blueant', 'supertooth', 'hand', 'free', 'phone', 'speaker', 'awesome']",1
+743,"['....', 'item', 'arrive', 'quickly', 'work', 'great', 'metro', 'pcs', 'samsung', 'sch', 'r450', 'slider', 'phone', 'sony', 'premium', 'sound', 'ear', 'plug']",1
+744,"['light', 'plenty', 'battery', 'capacity', 'confortable', 'wear', 'somewhat', 'extend', 'period', 'time']",1
+745,['disappointing'],0
+746,"['blue', 'ant', 'easy', 'use']",1
+747,"['cheap', 'hey', 'work', '..', 'pleasantly', 'suprise', 'low', 'cost', 'item']",1
+748,"['camera', 'phone', 'use', 'dustpan', 'indoor', '...', 'use', 'disposable']",0
+749,"['day', 'later', 'puff', 'smoke', 'come', 'phone', 'use']",0
+750,"['convenient', 'simple', 'use', 'job', 'car', 'ride', 'smooth']",1
+751,"['nano', 'state', 'son', 'dissapointe']",0
+752,"['sound', 'quality', 'excellent']",1
+753,"['good', 'headset', 'use']",1
+754,['reccommend'],0
+755,"['year', 'carry', 'high', 'quality', 'anti', 'glare', 'screen', 'protector', 'find', 'date']",1
+756,['want'],1
+757,"['particular', 'model', 'work', 'motorola', 'q', 'smartphone']",0
+758,"['work', 'right', 'atleast']",0
+759,"['addition', 'feel', 'amp', 'look', 'phone', 'lightweight', 'cheap', 'plastic']",0
+760,"['warranty', 'problem', 'reoccure', 'line', '...', 'money', '...', 'cingular', 'support']",0
+761,"['want', 'plantronics', '510', 'right', 'issue', 'good']",0
+762,"['great', 'product']",1
+763,"['crisp', 'clear']",1
+764,"['charge', 'dead', '12', 'minute']",0
+765,"['cheap', 'plastic', 'creak', 'like', 'old', 'wooden', 'floor']",0
+766,"['absolutely', 'horrible', 'reception', 'apartment', 'phone', 'problem']",0
+767,"['reception', 'generally', 'good']",1
+768,"['excellent', 'sound', 'battery', 'life', 'inconspicuous', 'boot']",1
+769,"['great', 'bluetooth']",1
+770,"['highly', 'recommend', 'case']",1
+771,['worthwhile'],1
+772,"['phone', 'year', 'old', 'slowly', 'break', 'despite', 'care']",0
+773,"['sorry', 'purchase']",0
+774,"['buy', 'hope', 'bluetooth', 'headset', 'fit', 'thing', 'impossible', 'wear']",0
+775,"['treo', 't', 'mobile', 'refuse', 'replace', 'force', 'buy', 'phone', 'kind', 'upgrade', 'discount']",0
+776,['horrible'],0
+777,"['think', 'hold', 'securly', 'belt']",0
+778,"['allow', 'possibility', 'double', 'booking', 'date', 'time']",0
+779,"['work', '2', 'week', 'break']",0
+780,"['simple', 'use', 'like']",1
+781,"['great', 'tool', 'entertainment', 'communication', 'datum', 'management', 'oh', 'sure', 'use', 'activesync', '4.2', 'optimal', 'datum', 'synchronization', 'result']",1
+782,"['use', 'case', 'smell', 'disgusting']",0
+783,['want'],0
+784,"['2', 'case', 'order']",1
+785,"['buy', 'battery', 'coupon', 'amazon', 'happy', 'purchase']",1
+786,"['internet', 'access', 'fine', 'rare', 'instance', 'work']",0
+787,"['perfect', 'ps3']",1
+788,"['star', 'plus', 'plus']",1
+789,"['good', 'quality', 'bargain', '..', 'buy', 'buy', 'cheapy', 'big', 'lot', 'sound', 'awful', 'people', 'end', 'hear']",1
+790,"['50', 'drain']",0
+791,"['try', 'talk', 'real', 'loud', 'shout', 'telephone', 'old', 'tell', 'great']",0
+792,"['good', 'work', 'fine']",1
+793,"['price', 'great', 'deal']",1
+794,"['great', 'price']",1
+795,"['wind', 'completely', 'useless']",0
+796,"['yes', 'shiny', 'love']",1
+797,['work'],0
+798,"['think', 'grtte', 'good', 'deal', '7.44', 'plug', 'phone', 'v3c', 'razr']",0
+799,"['reception', 'headset', 'excellent']",1
+800,"['2', 'thumb', 'seller']",1
+801,"['verizon', 'lg', 'phone', 'work', 'good', 'reception', 'range', 'exceed', '20', 'foot', 'line', 'sight']",1
+802,"['improper', 'description', '....', 'return']",0
+803,"['1', 'work', '2', 'comfortable']",1
+804,"['battery', 'charge', 'life', 'long']",1
+805,"['jabra', 'eargels', 'fit', 'ear']",1
+806,"['battery', 'life']",0
+807,"['check', 'feature', 'disappointing']",0
+808,"['product', 'exactly', 'describe']",1
+809,"['signal', 'verizon', 'phone']",1
+810,['job'],0
+811,['recommend'],1
+812,"['plan', 'order']",1
+813,"['phone', 'camera', 'nice', 'cool', 'effect', 'play', 'video', 'decent']",1
+814,"['satisfied', 'cell', 'phone', 'day']",1
+815,"['numerous', 'palms']",1
+816,"['awkward', 'use', 'unreliable']",0
+817,"['shipping', 'time', 'quick']",1
+818,"['good', 'hope']",0
+819,"['good', 'case']",1
+820,['work'],0
+821,"['good', 'product']",1
+822,"['unfortunately', 'work']",0
+823,"['break', 'month', 'use']",0
+824,['buy'],0
+825,"['father', 'v265', 'battery', 'die']",0
+826,"['ear', 'pad', 'come', 'easily', 'week', 'lose']",0
+827,"['drop', 'phone', 'come', 'screen', 'black', 'bad', 'stop', 'ring', 'intermittently']",0
+828,"['horrible', 'horrible', 'protector']",0
+829,"['like', 'nokia']",0
+830,"['reach', 'row', 'uncomfortable', 'send', 'end', 'key', 'expect', 'be.3']",0
+831,"['buy', 'nokia', 'cell', 'phone', 'week', 'ago', 'nightmare']",0
+832,"['long', 'describe', 'bad', 'customer', 'service', 'experience', 'amazon']",0
+833,"['disappointing', 'thing', 'speakerphone']",0
+834,"['terrible', '..', 'car', 'accept', 'cassette']",0
+835,"['product', 'useless', 'charge', 'current', 'charge', '2', 'cellphone', 'plan', 'use']",0
+836,[],0
+837,"['stay', 'away', 'q']",0
+838,['dirty'],0
+839,"['unreliable', 'service', 't', 'mobile']",0
+840,"['good', 'price']",0
+841,"['buy', 'charge']",0
+842,"['look', 'nice']",1
+843,"['excellent', 'tool', 'especially', 'pair', 'phone', 'auto', 'answer']",1
+844,"['read', 'review', 'problem']",1
+845,"['product', 'cover', 'important', 'light', 'sensor', 'ear', 'outlet']",0
+846,"['comfortable', 'hand']",1
+847,['work'],0
+848,"['poor', 'reliability']",0
+849,['work'],1
+850,"['picture', 'battery', 'drop', 'bar', 'start', 'beep', 'let', 'know', 'dieing']",0
+851,"['terrible', 'product', 'waste', 'money']",0
+852,"['time', 'buy']",0
+853,"['waste', 'money']",0
+854,"['far', 'work', 'like', 'charm']",1
+855,"['week', 'far', 'good']",1
+856,"['case', 'good', 'download', 'picture', 'laptop', 'use', 'ir', 'send', 'picture', 'laptop', 'phone']",1
+857,"['recommend', 'item']",1
+858,"['choice', 'headset', 'year', 'great', 'sound', 'good', 'volume', 'good', 'noise', 'cancellation']",1
+859,"['nice', 'case', 'feel', 'good', 'hand']",1
+860,"['item', 'receive', 'counterfeit']",0
+861,"['good', '..', 'far', 'probably', 'good', 'bt', 'headset']",1
+862,"['work', 'fine']",1
+863,"['receive', 'headset', 'good', 'time', 'happy']",1
+864,"['pleased', 'replace', 'travle', 'swivel', 'holster', 'blackberry', 'flip']",1
+865,"['sister', 'love']",1
+866,"['good', 'quality']",1
+867,"['far', 'bad', 'purchase', 'amazon']",0
+868,"['excellent', 'dual', 'purpose', 'headset']",1
+869,['excellent'],1
+870,"['work', 'listen', 'music', 'cingular', '8125']",0
+871,"['completely', 'secure', 'hold', 'belt', 'iphone', 'inside']",1
+872,"['bottowm', 'line', '...', 'worthless', 'cheap', 'gimmick', 'sprint']",0
+873,"['trouble', 'volume']",0
+874,"['good', 'thing', 'fit', 'comfortably', 'small', 'ear']",1
+875,"['warning', 'buy']",0
+876,"['pair', 'iphone', 'happy', 'far']",1
+877,"['open', 'battery', 'connection', 'break', 'device', 'turn']",0
+878,"['want', 'clip', 'ear', 'cause', 'discomfort']",0
+879,"['good', 'headset']",1
+880,"['trust', 'website', 'expect', 'helpful', 'support']",0
+881,"['loud', 'glad', 'plantronics', '510', 'maintain', 'flawless', 'connection', 'cell', 'static', 'normal', 'use']",1
+882,"['speaker', 'low', 'quality', 'ring', 'tone', 'sound', 'cheap']",0
+883,"['fit', 'comfortably', 'come', 'size', 'earbud', 'tips']",1
+884,"['bad', 'reception']",0
+885,"['product', 'high', 'quality', 'chinese', 'crap']",0
+886,"['comfortable', 'ear']",1
+887,"['buy', 'product', 'fail']",0
+888,"['product', 'wrong']",0
+889,"['pairing', 'device', 'easy', 'barely', 'couple', 'minute', 'start', 'voice', 'dialing', 'feature']",1
+890,"['utterly', 'confusing', 'cause', 'lose', 'couple', 'important', 'contact']",0
+891,"['terrible', 'phone', 'holder']",0
+892,"['cutout', 'button', 'place', 'perfectly']",1
+893,"['love', 'able', 'use', 'headset', 'land', 'line', 'cell']",1
+894,"['problem', 'ear', 'loop', 'weak', 'material', 'break', 'easily']",0
+895,"['nearly', 'good', 'look', 'amazon', 'picture', 'look']",0
+896,"['despite', 'flaw', 'case', 'exceptional', 'quality', 'worth', 'additional', 'cost', 'official', 'oem', 'product']",1
+897,['stupid'],0
+898,"['hear', 'drive', 'car', 'usually', 'loud', 'setting']",1
+899,"['seller', 'ship', 'quickly', 'cheap', 'competitor']",1
+900,"['good', 'samsung']",1
+901,"['buy', '10', 'save', 'alot', 'money']",1
+902,"['cut', 'beep', 'beep', 'beep', 'sound', 'signal', 'fail']",0
+903,['figure'],0
+904,"['phone', 'sound', 'ok', 'great', 'ok', 'wife', 'phone', 'totally', 'unintelligible', 'understand', 'word']",0
+905,"['battery', 'phone', 'restart']",0
+906,"['manage', 'bend', 'leaf', 'spring', 'place', 'metal', 'stress', 'break', 'drop']",0
+907,"['leopard', 'print', 'wonderfully', 'wild']",1
+908,['work'],1
+909,"['saggy', 'floppy', 'piece', 'junk']",0
+910,"['hard', 'plastic', 'case']",1
+911,"['new', 'problem']",0
+912,"['happy', 'far']",1
+913,"['cool', 'phone']",1
+914,"['work', 'good']",1
+915,"['motorola', 'finally', 'voice', 'quality', 'bluetooth', 'headset', 'right']",1
+916,"['loose', 'connection', 'phone', 'couple', 'foot']",0
+917,"['great', 'recommend']",1
+918,"['easy', 'bluetooth', 'wear']",0
+919,"['....', 'pretty', 'useless']",0
+920,[],0
+921,"['pair', 'headphone', 'bad', 'sound', 'wise']",0
+922,"['...', 'drain', 'weak', 'snap']",0
+923,"['charge', 'cingular', 'att', '8525', 'phone']",0
+924,"['extra', 'minute', 'carry', 'cut']",1
+925,"['year', 'fliptop', 'start', 'loose', 'wobbly', 'eventually', 'screen', 'black', 'receive', 'place']",0
+926,"['catch', 'cable', 'seat', 'pull', 'phone', 'turn']",0
+927,"['headset', 'fulfill', 'requirement', 'happy', 'purchase']",1
+928,"['logitech', 'bluetooth', 'headset', '10']",1
+929,"['like', 'fact', 'rest', 'lightly', 'ear', 'inside']",1
+930,"['lot', 'website', 'rate', 'good', 'phone', 'i.']",1
+931,"['try', 'cable', 'computer', 'ipod', 'work', 'fine']",1
+932,"['mic', 'joke', 'volume', 'low']",0
+933,['return'],0
+934,"['maintain', 'connection', 'computer', 'lap']",0
+935,"['easy', 'turn', 'car', 'volume', 'control', 'accessable']",1
+936,"['year', 'christmas', 'buy', 'rest', 'family']",1
+937,"['easy', 'install', 'use', 'clear', 'sound']",1
+938,"['nice', 'leather']",1
+939,"['purchase', 'different', 'case']",0
+940,"['joy', 'use']",1
+941,"['disappointed', 'company']",0
+942,['satisifed'],1
+943,['charge'],0
+944,"['phone', '2005', '....', 'buy', 's710a', 'wow']",1
+945,"['button', 'small']",0
+946,"['read', 'spec', 'wow']",1
+947,"['love', '..', 'great', 'armband']",1
+948,"['like', 'product', 'motorola', 'allot', 'clear', 'ear', 'piece', 'mic']",1
+949,"['keypad', 'tinny', 'reach', 'wrong', 'button']",0
+950,"['exchange', 'sony', 'ericson', 'z500a', 'pretty', 'happy', 'decision']",1
+951,"['impressed', 'price', 'case']",1
+952,"['easy', 'hold']",1
+953,"['use', 'product', 'motor', 'control', 'center', 'lot', 'high', 'voltage', 'hum', 'equipment', 'work', 'great']",1
+954,"['pretty', 'easy']",1
+955,"['certain', 'place']",0
+956,"['girl', 'complain', 'time', 'phone', 'wake', 'like', 'normal', 'phone']",0
+957,"['beautiful', 'styling']",1
+958,"['company', 'charge', 'restock', 'fee', 'refund']",0
+959,"['try', 'return', 'refund']",0
+960,"['plug', 'find', 'darn', 'thing', 'work']",0
+961,"['excellent', 'product']",1
+962,"['earbud', 'piece', 'break', 'easily']",0
+963,"['lousy', 'product']",0
+964,"['phone', 'try', 'hard', 'fail', 'ability', 'phone']",0
+965,"['good', 'charger', 'market']",1
+966,"['sweetest', 'phone']",1
+967,"['-)oh', 'charger', 'work', 'fine']",1
+968,"['fit', 'securely', 'ear', 'hook', 'need', 'use', 'sound', 'direct', 'ear', 'canal']",1
+969,['volume'],0
+970,"['echo', 'problem', '....', 'unsatisfactory']",0
+971,"['2', 'video', 'time', 'quality', 'poor']",0
+972,"['waste', 'money']",0
+973,"['negatively', 'review', 'product']",0
+974,"['adapter', 'provide', 'charge', 'current']",0
+975,"['hype', 'phone', 'assume', 'good', 'mistake']",0
+976,"['picture', 'case', 'lense', 'cover']",0
+977,"['phone', 'fall', 'easily']",0
+978,"['work', 'people', 'hear', 'talk']",0
+979,"['text', 'message', 'feature', 'tricky', 'use']",0
+980,"['disappointed', 'charger', 'work']",0
+981,"['painful', 'ear']",0
+982,"['day', 'blow']",0
+983,['disappointed'],0
+984,"['kind', 'flop']",0
+985,"['screen', 'smudge', 'easily', 'touch', 'ear', 'face']",0
+986,"['piece', 'junk', '..', 'lose', 'phone']",0
+987,"['item', 'match', 'picture']",0
+988,"['thing', 'disappoint', 'infra', 'red', 'port', 'irda']",0
+989,"['answer', 'unit', 'work']",0
+990,"['wow', '...', 'love', 'place']",1
+991,"['crust', 'good']",0
+992,"['tasty', 'texture', 'nasty']",0
+993,"['stop', 'late', 'bank', 'holiday', 'rick', 'steve', 'recommendation', 'love']",1
+994,"['selection', 'menu', 'great', 'price']",1
+995,"['angry', 'want', 'damn', 'pho']",0
+996,"['honeslty', 'taste', 'fresh']",0
+997,"['potato', 'like', 'rubber', 'tell', 'ahead', 'time', 'warmer']",0
+998,"['fry', 'great']",1
+999,"['great', 'touch']",1
+1000,"['service', 'prompt']",1
+1001,[],0
+1002,"['cashier', 'care', 'end', 'wayyy', 'overpriced']",0
+1003,"['try', 'cape', 'cod', 'ravoli', 'chicken', 'cranberry', '...', 'mmmm']",1
+1004,"['disgusted', 'pretty', 'sure', 'human', 'hair']",0
+1005,"['shock', 'sign', 'indicate', 'cash']",0
+1006,"['highly', 'recommend']",1
+1007,"['waitress', 'little', 'slow', 'service']",0
+1008,"['place', 'worth', 'time', 'let', 'vegas']",0
+1009,['like'],0
+1010,"['burrittos', 'blah']",0
+1011,"['food', 'amazing']",1
+1012,"['service', 'cute']",1
+1013,"['care', '...', 'interior', 'beautiful']",1
+1014,['perform'],1
+1015,"['right', '....', 'red', 'velvet', 'cake', '.....', 'ohhh', 'stuff', 'good']",1
+1016,"['bring', 'salad', 'ask']",0
+1017,"['hole', 'wall', 'great', 'mexican', 'street', 'taco', 'friendly', 'staff']",1
+1018,"['hour', 'food', '4', 'table', 'restaurant', 'food', 'luke', 'warm', 'sever', 'run', 'like', 'totally', 'overwhelmed']",0
+1019,"['bad', 'salmon', 'sashimi']",0
+1020,"['combo', 'like', 'burger', 'fry', 'beer', '23', 'decent', 'deal']",1
+1021,"['like', 'final', 'blow']",0
+1022,"['find', 'place', 'accident', 'happy']",1
+1023,"['like', 'good', 'quick', 'place', 'grab', 'bite', 'familiar', 'pub', 'food', 'favor', 'look']",0
+1024,"['overall', 'like', 'place', 'lot']",1
+1025,"['redeem', 'quality', 'restaurant', 'inexpensive']",1
+1026,"['ample', 'portion', 'good', 'price']",1
+1027,"['poor', 'service', 'waiter', 'feel', 'like', 'stupid', 'time', 'come', 'table']",0
+1028,"['visit', 'hiro', 'delight']",1
+1029,"['service', 'suck']",0
+1030,"['shrimp', 'tender', 'moist']",1
+1031,"['deal', 'good', 'drag', 'establishment']",0
+1032,"['hard', 'judge', 'good', 'gross', 'melt', 'styrofoam', 'want', 'eat', 'fear', 'sick']",0
+1033,"['positive', 'note', 'server', 'attentive', 'provide', 'great', 'service']",1
+1034,"['frozen', 'puck', 'disgust', 'bad', 'people', 'register']",0
+1035,"['thing', 'like', 'prime', 'rib', 'dessert', 'section']",1
+1036,"['bad', 'food', 'damn', 'generic']",0
+1037,"['burger', 'good', 'beef', 'cook', 'right']",1
+1038,"['want', 'sandwich', 'firehouse']",1
+1039,"['greek', 'salad', 'greek', 'dressing', 'tasty', 'pita', 'hummus', 'refreshing']",1
+1040,"['order', 'duck', 'rare', 'pink', 'tender', 'inside', 'nice', 'char', 'outside']",1
+1041,"['come', 'run', 'realize', 'husband', 'leave', 'sunglass', 'table']",1
+1042,"['chow', 'mein', 'good']",1
+1043,"['horrible', 'attitude', 'customer', 'talk', 'customer', 'enjoy', 'food']",0
+1044,"['portion', 'huge']",1
+1045,"['love', '...', 'friendly', 'server', 'great', 'food', 'wonderful', 'imaginative', 'menu']",1
+1046,"['heart', 'attack', 'grill', 'downtown', 'vegas', 'absolutely', 'flat', 'line', 'excuse', 'restaurant']",0
+1047,"['seafood', 'like', '5', 'string', 'pasta']",0
+1048,"['salad', 'right', 'sauce', 'power', 'scallop', 'perfectly', 'cook']",1
+1049,"['rip', 'banana', 'rip', 'petrified', 'tasteless']",0
+1050,"['think', 'refill', 'water', 'struggle', 'wave', '10', 'minute']",0
+1051,"['place', 'receive', 'star', 'appetizer']",1
+1052,"['cocktail', 'handmade', 'delicious']",1
+1053,['definitely'],1
+1054,"['glad', 'find', 'place']",1
+1055,"['great', 'food', 'service', 'huge', 'portion', 'military', 'discount']",1
+1056,"['great', 'time', 'dos', 'gringos']",1
+1057,"['update', '.....', 'second', 'time', 'amazing']",1
+1058,"['food', 'apparently', 'hear', 'salt', 'batter', 'fish', 'chewy']",0
+1059,"['great', 'way', 'finish', 'great']",1
+1060,"['deal', 'include', '5', 'tasting', '2', 'drink', 'jeff', 'expect']",1
+1061,"['good', 'rice', 'time']",1
+1062,"['service', 'meh']",0
+1063,"['30', 'min', 'milkshake', 'chocolate', 'milk']",0
+1064,"['guess', 'know', 'place', 'suck', 'inside', 'excalibur', 'use', 'common', 'sense']",0
+1065,"['scallop', 'dish', 'appalling', 'value']",0
+1066,"['2', 'time', 'bad', 'customer', 'service']",0
+1067,"['sweet', 'potato', 'fry', 'good', 'season']",1
+1068,"['today', 'second', 'time', 'lunch', 'buffet', 'pretty', 'good']",1
+1069,"['good', 'food', 'vegas', 'feel', 'cheat', 'waste', 'eat', 'opportunity', 'rice', 'company']",0
+1070,"['come', 'like', 'experience', 'underwhelming', 'relationship', 'party', 'wait', 'person', 'ask', 'break']",0
+1071,"['walk', 'place', 'smell', 'like', 'old', 'grease', 'trap', '2', 'eat']",0
+1072,"['turkey', 'roast', 'beef', 'bland']",0
+1073,['place'],1
+1074,"['pan', 'cake', 'rave', 'taste', 'like', 'sugary', 'disaster', 'tailor', 'palate', 'year', 'old']",0
+1075,"['love', 'pho', 'spring', 'roll', 'oh', 'yummy', 'try']",1
+1076,"['poor', 'batter', 'meat', 'ratio', 'chicken', 'tender', 'unsatisfying']",0
+1077,"['food', 'amazing']",1
+1078,"['omelet', 'die']",1
+1079,"['fresh', 'delicious']",1
+1080,"['summary', 'largely', 'disappointing', 'dining', 'experience']",0
+1081,"['like', 'sexy', 'party', 'mouth', 'outrageously', 'flirt', 'hot', 'person', 'party']",1
+1082,"['hard', 'rock', 'casino', 'step', 'forward']",0
+1083,"['good', 'breakfast', 'buffet']",1
+1084,"['bye', 'bye', 'tip', 'lady']",0
+1085,[],0
+1086,[],1
+1087,"['food', 'arrive', 'quickly']",1
+1088,['good'],0
+1089,"['cafe', 'serve', 'good', 'food']",1
+1090,"['server', 'fantastic', 'find', 'wife', 'love', 'roasted', 'garlic', 'bone', 'marrow', 'add', 'extra', 'meal', 'marrow']",1
+1091,"['good', 'thing', 'waiter', 'helpful', 'bloddy', 'mary', 'come']",1
+1092,"['best', 'buffet', 'town', 'price', 'beat']",1
+1093,"['love', 'mussel', 'cook', 'wine', 'reduction', 'duck', 'tender', 'potato', 'dish', 'delicious']",1
+1094,['buffet'],1
+1095,"['tigerlilly', 'fantastic', 'afternoon']",1
+1096,"['food', 'delicious', 'bartender', 'attentive', 'personable', 'great', 'deal']",1
+1097,"['ambience', 'wonderful', 'music', 'play']",1
+1098,['trip'],1
+1099,"['sooooo', 'good']",1
+1100,"['real', 'sushi', 'lover', 'let', 'honest', 'yama', 'good']",0
+1101,"['40min', 'pass', 'order', 'food', 'arrive', 'busy']",0
+1102,"['fantastic', 'thai', 'restaurant', 'definitely', 'worth', 'visit']",1
+1103,"['nice', 'spicy', 'tender']",1
+1104,"['good', 'price']",1
+1105,['check'],1
+1106,"['pretty', 'gross']",0
+1107,['atmosphere'],0
+1108,"['kind', 'hard', 'mess', 'steak']",0
+1109,"['like', 'look', 'sound', 'place', 'actual', 'experience', 'bit', 'disappointing']",0
+1110,"['know', 'place', 'manage', 'serve', 'blandest', 'food', 'eat', 'prepare', 'indian', 'cuisine']",0
+1111,"['bad', 'service', 'boot', 'worry']",0
+1112,"['service', 'fine', 'waitress', 'friendly']",1
+1113,"['guy', 'steak', 'steak', 'love', 'son', 'steak', 'good', 'bad', 'place', 'good', 'steak', 'eat']",1
+1114,"['think', 'venture', 'far', 'away', 'good', 'sushi', 'place', 'hit', 'spot', 'night']",1
+1115,"['host', 'staff', 'lack', 'word', 'bitches']",0
+1116,"['bland', '...', 'like', 'place', 'number', 'reason', 'want', 'waste', 'time', 'bad', 'reviewing', '..', 'leave', '...']",0
+1117,"['phenomenal', 'food', 'service', 'ambiance']",1
+1118,['return'],0
+1119,"['definitely', 'worth', 'venture', 'strip', 'pork', 'belly', 'return', 'time', 'vegas']",1
+1120,"['place', 'way', 'overpriced', 'mediocre', 'food']",0
+1121,"['penne', 'vodka', 'excellent']",1
+1122,"['good', 'selection', 'food', 'include', 'massive', 'meatloaf', 'sandwich', 'crispy', 'chicken', 'wrap', 'delish', 'tuna', 'melt', 'tasty', 'burger']",1
+1123,"['management', 'rude']",0
+1124,"['delicious', 'nyc', 'bagel', 'good', 'selection', 'cream', 'cheese', 'real', 'lox', 'caper']",1
+1125,"['great', 'subway', 'fact', 'good', 'come', 'subway', 'meet', 'expectation']",1
+1126,"['seriously', 'solid', 'breakfast']",1
+1127,"['good', 'bar', 'food', 'vegas']",1
+1128,"['extremely', 'rude', 'restaurant', 'love', 'dine', 'weekend', 'vegas']",0
+1129,"['drink', 'great', 'menu', 'suggestion']",1
+1130,[],0
+1131,"['waiter', 'helpful', 'friendly', 'rarely', 'check']",0
+1132,"['husband', 'eat', 'lunch', 'disappointed', 'food', 'service']",0
+1133,"['red', 'curry', 'bamboo', 'shoot', 'tasty']",0
+1134,"['nice', 'blanket', 'moz', 'feel', 'like', 'cover', 'subpar', 'food']",1
+1135,"['bathroom', 'clean', 'place', 'decorate']",1
+1136,"['menu', 'change', 'food', 'quality', 'service', 'extremely', 'slow']",0
+1137,"['service', 'little', 'slow', 'consider', 'serve', '3', 'people', 'server', 'food', 'come', 'slow', 'pace']",0
+1138,"['2', 'thumb']",0
+1139,"['watch', 'waiter', 'pay', 'lot', 'attention', 'table', 'ignore']",0
+1140,"['fiancé', 'come', 'middle', 'day', 'greet', 'seat', 'right', 'away']",1
+1141,"['great', 'restaurant', 'mandalay', 'bay']",1
+1142,"['wait', 'minute', 'vain']",0
+1143,"['crostini', 'come', 'salad', 'stale']",0
+1144,"['highlight', 'great', 'quality', 'nigiri']",1
+1145,"['staff', 'friendly', 'joint', 'clean']",1
+1146,"['different', 'cut', 'piece', 'day', 'wonderful', 'tender', 's', 'flavor']",1
+1147,"['order', 'voodoo', 'pasta', 'time', 'excellent', 'pasta', 'going', 'gluten', 'free', 'year', 'ago']",1
+1148,"['place', 'good']",1
+1149,"['unfortunately', 'hit', 'bakery', 'leftover', 'day', 'order', 'stale']",0
+1150,"['come', 'today', 'relocate', 'impressed']",0
+1151,"['seat', 'immediately']",1
+1152,"['menu', 'diverse', 'reasonably', 'price']",1
+1153,"['avoid', 'cost']",0
+1154,"['restaurant', 'wait']",1
+1155,['delicious'],1
+1156,"['place', 'hand', 'good', 'place', 'eat', 'phoenix', 'metro', 'area']",1
+1157,"['look', 'good', 'food', '...']",0
+1158,"['treat', 'bad']",0
+1159,"['bacon', 'hella', 'salty']",1
+1160,"['order', 'spinach', 'avocado', 'salad', 'ingredient', 'sad', 'dressing', 'literally', 'zero', 'taste']",0
+1161,"['vegas', 'fine', 'dining', 'use', 'right', 'menu', 'hand', 'lady', 'price', 'list']",1
+1162,"['waitress', 'friendly']",1
+1163,"['lordy', 'khao', 'soi', 'dish', 'miss', 'curry', 'lover']",1
+1164,"['menu', 'terrific', 'thrill', 'amazing', 'accommodation', 'vegetarian', 'daughter']",1
+1165,"['catch', 'night', 'judge', 'review', 'inspire']",0
+1166,"['service', 'leave', 'lot', 'desire']",0
+1167,"['atmosphere', 'modern', 'hip', 'maintain', 'touch', 'coziness']",1
+1168,"['weekly', 'haunt', 'definitely', 'place', 'come']",1
+1169,"['literally', 'sit', '20', 'minute', 'ask', 'order']",0
+1170,"['burger', 'absolutely', 'flavor', 'meat', 'totally', 'bland', 'burger', 'overcooked', 'charcoal', 'flavor']",0
+1171,"['decide', 'send', 'waitress', 'look', 'like', 'verge', 'heart', 'attack']",0
+1172,"['dress', 'treat', 'rudely']",0
+1173,"['probably', 'dirt']",0
+1174,"['love', 'place', 'hit', 'spot', 'want', 'healthy', 'lack', 'quantity', 'flavor']",1
+1175,"['order', 'lemon', 'raspberry', 'ice', 'cocktail', 'incredible']",1
+1176,"['food', 'suck', 'expect', 'suck', 'imagine']",0
+1177,"['interesting', 'decor']",1
+1178,"['like', 'crepe', 'station']",1
+1179,"['serve', 'hot', 'bread', 'butter', 'home', 'potato', 'chip', 'bacon', 'bit', '....', 'original', 'good']",1
+1180,"['watch', 'prepare', 'delicious', 'food']",1
+1181,"['egg', 'roll', 'fantastic']",1
+1182,"['order', 'arrive', 'gyro', 'miss']",0
+1183,"['salad', 'wing', 'ice', 'cream', 'dessert', 'leave', 'feel', 'satisfied']",1
+1184,"['sure', 'joey', 'vote', 'good', 'hot', 'dog', 'valley', 'reader', 'phoenix', 'magazine']",0
+1185,"['good', 'place', 'tasty', 'bowl', 'pho']",1
+1186,"['live', 'music', 'fridays', 'totally', 'blow']",0
+1187,"['insulted', 'feel', 'disrespected']",0
+1188,"['friendly', 'staff']",1
+1189,"['worth', 'drive']",1
+1190,"['hear', 'good', 'thing', 'place', 'exceed', 'hope', 'dream']",1
+1191,"['food', 'great', 'serivce']",1
+1192,"['warm', 'beer', 'help']",0
+1193,"['great', 'brunch', 'spot']",1
+1194,"['service', 'friendly', 'invite']",1
+1195,"['good', 'lunch', 'spot']",1
+1196,"['live', '1979', 'time', 'step', 'foot', 'place']",0
+1197,"['bad', 'experience']",0
+1198,"['night', 'place']",0
+1199,"['delish', 'mixed', 'mushroom', 'yukon', 'gold', 'puree', 'white', 'corn', 'beateous']",1
+1200,"['bug', '4', 'sure', 'wall', 'bug', 'climb', 'kitchen']",0
+1201,"['10', 'minute', 'wait', 'salad', 'realize', 'come', 'time', 'soon']",0
+1202,"['friend', 'love', 'salmon', 'tartar']",1
+1203,[],0
+1204,"['extremely', 'tasty']",1
+1205,"['waitress', 'good']",1
+1206,"['soggy', 'good']",0
+1207,"['jamaican', 'mojito', 'delicious']",1
+1208,"['small', 'worth', 'price']",0
+1209,"['food', 'rich', 'order', 'accordingly']",1
+1210,"['shower', 'area', 'outside', 'rinse', 'shower', 'mind', 'nude']",0
+1211,"['service', 'bit', 'lacking']",0
+1212,"['lobster', 'bisque', 'bussell', 'sprouts', 'risotto', 'filet', 'need', 'salt', 'pepper', '..', 'course', 'table']",0
+1213,"['hopefully', 'bode', 'business', 'cook', 'come']",0
+1214,"['cold', 'flavor', 'bad']",0
+1215,"['love', 'bacon', 'wrap', 'date']",1
+1216,"['unbelievable', 'bargain']",1
+1217,"['folk', 'otto', 'feel', 'welcome', 'special']",1
+1218,"['main', 'uninspired']",0
+1219,"['place', 'pho', 'amazing']",1
+1220,"['wonderful', 'experience', 'place', 'stop', 'town']",1
+1221,"['food', 'bad', 'enjoy', 'deal', 'world', 'bad', 'annoying', 'drunk', 'people']",0
+1222,"['fun', 'chef']",1
+1223,"['order', 'double', 'cheeseburger', 'single', 'patty', 'fall', 'apart', 'picture', 'upload', 'yeah', 'suck']",0
+1224,"['great', 'place', 'couple', 'drink', 'watch', 'sport', 'event', 'wall', 'cover', 'tv']",1
+1225,"['possible', 'zero', 'star']",0
+1226,"['description', 'yum', 'yum', 'sauce', 'eel', 'sauce', 'spicy', 'mayo""', '...', 'roll', 'sauce']",0
+1227,"['hard', 'decision', '...', 'honestly', 'm', 'dish', 'taste', 'suppose', 'taste', 'amazing']",1
+1228,"['roll', 'eye', 'stay', '...', 'sure', 'try']",0
+1229,"['attentive', 'provide', 'excellent', 'customer', 'service']",1
+1230,"['horrible', 'waste', 'time', 'money']",0
+1231,"['dish', 'flavourful']",1
+1232,"['time', 'restaurant', 'excuse']",0
+1233,"['busy', 'building', 'freezing', 'cold']",0
+1234,"['like', 'reviewer', 'pay', 'eat', 'place']",0
+1235,"['-drink', 'close', '30', 'minute', 'come', 'point']",0
+1236,"['seriously', 'flavorful', 'delight', 'folk']",1
+1237,"['ayce', 'sushi', 'place', 'vegas']",1
+1238,"['lighting', 'dark', 'set', 'mood']",1
+1239,"['base', 'sub', 'par', 'service', 'receive', 'effort', 'gratitude', 'business']",0
+1240,"['owner', 'great', 'people']",1
+1241,"['privileged', 'work', 'eat']",0
+1242,"['greek', 'dressing', 'creamy', 'flavorful']",1
+1243,"['overall', 'think', 'parent', 'place', 'similar', 'complaint', 'silently', 'feel']",0
+1244,"['pizza', 'good', 'peanut', 'sauce', 'tasty']",1
+1245,"['7', 'table', 'service', 'pretty', 'fast']",1
+1246,"['fantastic', 'service']",1
+1247,"['godfather', 'zero', 'star', 'possible']",0
+1248,['know'],1
+1249,"['tough', 'short', 'flavor']",0
+1250,"['hope', 'place', 'stick']",1
+1251,"['bar', 'vegas', 'recall', 'charge', 'tap', 'water']",0
+1252,"['restaurant', 'atmosphere', 'exquisite']",1
+1253,"['good', 'service', 'clean', 'inexpensive', 'boot']",1
+1254,"['seafood', 'fresh', 'generous', 'portion']",1
+1255,"['plus', '8', 'buck']",1
+1256,"['service', 'par']",0
+1257,"['far', 'visit', 'twice', 'food', 'absolutely', 'delicious', 'time']",1
+1258,"['good', 'year', 'ago']",1
+1259,"['self', 'proclaim', 'coffee', 'cafe', 'wildly', 'disappointed']",0
+1260,"['veggitarian', 'platter', 'world']",1
+1261,"['wrong', 'food']",1
+1262,['beat'],1
+1263,"['stop', 'place', 'madison', 'ironman', 'friendly', 'kind', 'staff']",1
+1264,"['chef', 'friendly', 'good', 'job']",1
+1265,"['dedicated', 'boba', 'tea', 'spot', 'jenni', 'pho']",0
+1266,"['like', 'patio', 'service', 'outstanding']",1
+1267,"['goat', 'taco', 'skimp', 'meat', 'wow', 'flavor']",1
+1268,['think'],0
+1269,"['mac', 'salad', 'pretty', 'bland']",0
+1270,"['bachi', 'burger', 'friend', 'recommendation', 'disappoint']",1
+1271,"['service', 'stink']",0
+1272,"['wait', 'wait']",0
+1273,"['place', 'quality', 'sushi', 'quality', 'restaurant']",0
+1274,"['definitely', 'recommend', 'wing', 'pizza']",1
+1275,"['great', 'pizza', 'salad']",1
+1276,"['thing', 'wrong', 'burn', 'saganaki']",0
+1277,"['wait', 'hour', 'breakfast', '100', 'time', 'home']",0
+1278,"['place', 'amazing']",1
+1279,"['hate', 'disagree', 'fellow', 'yelper', 'husband', 'disappointed', 'place']",0
+1280,"['wait', '2', 'hour', 'pizza', 'come', 'later']",0
+1281,"['know', 'slow']",0
+1282,"['staff', 'great', 'food', 'delish', 'incredible', 'beer', 'selection']",1
+1283,"['live', 'neighborhood', 'disappoint', 'convenient', 'location']",0
+1284,"['know', 'pull', 'pork', 'soooo', 'delicious']",1
+1285,"['incredibly', 'fresh', 'fish', 'prepare', 'care']",1
+1286,"['1', 'star', 'rating', 'know', 'time', 'eat', 'bachi', 'burger', 'write', 'review']",0
+1287,"['love', 'fact', 'menu', 'worth']",1
+1288,"['dine', 'place']",0
+1289,"['food', 'excellent', 'service', 'good']",1
+1290,"['good', 'beer', 'drink', 'selection', 'good', 'food', 'selection']",1
+1291,"['stay', 'away', 'shrimp', 'stir', 'fried', 'noodle']",0
+1292,"['potato', 'chip', 'order', 'sad', '...', 'probably', 'count', 'chip', 'box', 'probably', '12']",0
+1293,"['food', 'boring']",0
+1294,"['good', 'service', 'check']",1
+1295,"['greedy', 'corporation', 'dime']",0
+1296,[],0
+1297,"['like', 'pass', 'atrocious', 'service', 'return']",0
+1298,"['summer', 'dine', 'charming', 'outdoor', 'patio', 'delightful']",1
+1299,"['expect', 'good']",1
+1300,"['fantastic', 'food']",1
+1301,"['order', 'toasted', 'english', 'muffin', 'come', 'untoasted']",0
+1302,"['food', 'good']",1
+1303,[],0
+1304,"['great', 'food', 'price', 'high', 'quality', 'house']",1
+1305,"['bus', 'boy', 'hand', 'rude']",0
+1306,"['point', 'friend', 'basically', 'figure', 'place', 'joke', 'mind', 'publicly', 'loudly', 'know']",0
+1307,"['good', 'bbq', 'light', 'fare', 'reasonable', 'pricing', 'tell', 'public', 'old', 'way']",1
+1308,"['consider', 'leave', 'happy', '20', 'wrong']",1
+1309,"['bread', 'house']",1
+1310,"['downside', 'service']",0
+1311,"['fry', 'doubt', 'bad', 'fry']",0
+1312,"['service', 'exceptional', 'food', 'good', 'review']",1
+1313,"['couple', 'month', 'later', 'return', 'amazing', 'meal']",1
+1314,"['favorite', 'place', 'town', 'shawarrrrrrma']",1
+1315,"['black', 'eyed', 'pea', 'sweet', 'potato', '...', 'unreal']",1
+1316,['disappoint'],1
+1317,"['serve', 'vinaigrette', 'overall', 'dish', 'good']",1
+1318,"['far', 'place', 'restaurant', 'serve', '1', 'egg', 'breakfast', 'especially', '4.00']",0
+1319,"['mom', 'home', 'immediately', 'sick', 'bite', 'salad']",0
+1320,"['server', 'pleasant', 'deal', 'honor', 'pizza', 'hut', 'coupon']",0
+1321,"['truly', 'unbelievably', 'good', 'glad']",1
+1322,"['fantastic', 'service', 'pleased', 'atmosphere']",1
+1323,['gross'],0
+1324,"['love', 'place']",1
+1325,"['great', 'service', 'food']",1
+1326,"['bathroom', 'location', 'dirty-', 'seat', 'cover', 'replenish', 'plain', 'yucky']",0
+1327,"['burger', '...', 'gold', 'standard', '17', 'burger', 'kind', 'disappointed']",0
+1328,"['omg', 'food', 'delicioso']",1
+1329,"['authentic', 'place']",0
+1330,"['spaghetti', 'special', 'whatsoever']",0
+1331,"['dish', 'salmon', 'good', 'great']",1
+1332,"['vegetable', 'fresh', 'sauce', 'feel', 'like', 'authentic', 'thai']",1
+1333,"['worth', 'drive', 'tucson']",1
+1334,"['selection', 'probably', 'bad', 'vegas', '.....']",0
+1335,"['pretty', 'good', 'beer', 'selection']",1
+1336,"['place', 'like', 'chipotle', 'better']",1
+1337,"['classy', 'warm', 'atmosphere', 'fun', 'fresh', 'appetizer', 'succulent', 'steak', 'baseball', 'steak']",1
+1338,"['5', 'star', 'brick', 'oven', 'bread', 'app']",1
+1339,"['eat', 'multiple', 'time', 'time', 'food', 'delicious']",1
+1340,"['sit', 'minute', 'finally', 'leave']",0
+1341,['terrible'],0
+1342,"['treat', 'equally', 'special']",1
+1343,"['30', 'min', 'pancake', 'egg']",0
+1344,['delicious'],1
+1345,"['good', 'staff', 'genuinely', 'pleasant', 'enthusiastic', 'real', 'treat']",1
+1346,"['sadly', 'gordon', 'ramsey', 'steak', 'place', 'shall', 'sharply', 'avoid', 'trip', 'vegas']",0
+1347,"['evening', 'wonderful', 'food', 'delicious']",1
+1348,"['good', 'fish', 'life']",1
+1349,"['bathroom', 'door', 'nice']",1
+1350,"['buffet', 'small', 'food', 'offer', 'bland']",0
+1351,"['outstanding', 'little', 'restaurant', 'best', 'food', 'taste']",1
+1352,"['pretty', 'cool']",1
+1353,"['definitely', 'turn', 'doubt', 'buy']",0
+1354,"['server', 'great', 'job', 'handle', 'large', 'rowdy', 'table']",1
+1355,"['find', 'waste', 'food', 'despicable', 'food']",0
+1356,"['wife', 'lobster', 'bisque', 'soup', 'lukewarm']",0
+1357,"['come', 'sushi', 'craving', 'vegas']",1
+1358,"['staff', 'great', 'ambiance', 'great']",1
+1359,"['deserve', '5', 'star']",1
+1360,"['leave', 'stomach', 'ache', 'feel', 'sick', 'rest', 'day']",0
+1361,"['drop', 'ball']",0
+1362,"['dining', 'space', 'tiny', 'elegantly', 'decorate', 'comfortable']",1
+1363,"['customize', 'order', 'way', 'like', 'usual', 'eggplant', 'green', 'bean', 'stir', 'fry', 'love']",1
+1364,"['bean', 'rice', 'mediocre']",0
+1365,"['good', 'taco', 'town', 'far']",1
+1366,"['money', 'outta']",0
+1367,"['interesting', 'town', 'place', 'amazing']",1
+1368,"['rude', 'inconsiderate', 'management']",0
+1369,"['staff', 'friendly', 'wait', 'time', 'serve', 'horrible', 'hi', '10', 'minute']",0
+1370,[],0
+1371,"['great', 'dinner']",1
+1372,"['service', 'outshine', 'definitely', 'recommend', 'halibut']",1
+1373,"['food', 'terrible']",0
+1374,"['tell', 'people', 'happened']",0
+1375,"['recommend', 'car', 'break', 'starve']",0
+1376,"['come', 'time', 'vegas']",1
+1377,"['place', 'deserve', 'star', '90', 'food']",0
+1378,['disgrace'],0
+1379,"['def', 'come', 'bowl', 'time']",1
+1380,"['want', 'healthy', 'authentic', 'ethic', 'food', 'try', 'place']",1
+1381,"['continue', 'come', 'lady', 'night', 'andddd', 'date', 'night', '...', 'highly', 'recommend', 'place', 'area', '(;']",1
+1382,"['time', 'past', 'experience', 'great']",1
+1383,"['walk', 'away', 'stuff', 'happy', 'vegas', 'buffet', 'experience']",1
+1384,"['service', 'excellent', 'price', 'pretty', 'reasonable', 'consider', 'vegas', 'locate', 'inside', 'crystals', 'shopping', 'mall', 'aria']",1
+1385,"['summarize', '...', 'food', 'incredible', 'nay', 'transcendant', '...', 'bring', 'joy', 'like', 'memory', 'pneumatic', 'condiment', 'dispenser']",1
+1386,"['probably', 'people', 'ians', 'like']",0
+1387,"['kid', 'pizza', 'hit', 'lot', 'great', 'dish', 'option', 'kiddo']",1
+1388,"['service', 'perfect', 'family', 'atmosphere', 'nice']",1
+1389,"['cook', 'perfection', 'service', 'impeccable']",1
+1390,"['simply', 'disappointment']",0
+1391,"['overall', 'disappointed', 'quality', 'food', 'bouchon']",0
+1392,"['accountant', 'know', 'getting', 'screw']",0
+1393,"['great', 'place', 'eat', 'remind', 'little', 'mom', 'pop', 'shop', 'san', 'francisco', 'bay', 'area']",1
+1394,"['today', 'taste', 'buldogis', 'gourmet', 'hot', 'dog', 'tell', 'think', 'possible']",1
+1395,"['leave', 'frustrated']",0
+1396,"['definitely', 'soon']",1
+1397,"['food', 'good', 'petty', 'fast']",1
+1398,"['service', 'fantastic']",1
+1399,"['total', 'waste', 'time']",0
+1400,"['know', 'kind', 'good', 'iced', 'tea']",1
+1401,"['come', 'hungry', 'leave', 'happy', 'stuff']",1
+1402,"['service', 'star']",0
+1403,"['assure', 'disappoint']",1
+1404,"['little', 'bad', 'service', 'food', 'suck']",0
+1405,"['try', 'eat', 'crust', 'tooth', 'sore']",0
+1406,"['completely', 'gross']",0
+1407,"['enjoy', 'eat']",1
+1408,"['time', 'think', 'quickly', 'regular']",1
+1409,"['server', 'nice', 'look', 'little', 'overwhelmed', 'need', 'stay', 'professional', 'friendly', 'end']",1
+1410,"['dinner', 'companion', 'tell', '...', 'fresh', 'nice', 'texture', 'taste']",1
+1411,"['ground', 'right', 'table', 'large', 'smear', 'step', 'track', 'pile', 'green', 'bird', 'poop']",0
+1412,"['furthermore', 'find', 'hour', 'operation', 'website']",0
+1413,"['try', 'like', 'place', '10', 'time', 'think']",0
+1414,['mistake'],0
+1415,['complaint'],1
+1416,"['seriously', 'good', 'pizza', 'expert', 'connisseur', 'topic']",1
+1417,"['waiter', 'jerk']",0
+1418,"['strike', '2', 'want', 'rush']",0
+1419,"['nice', 'restaurant', 'owner', 'come']",1
+1420,['come'],0
+1421,"['love', 'biscuit']",1
+1422,"['service', 'quick', 'friendly']",1
+1423,"['order', 'appetizer', '40', 'minute', 'pizza', '10', 'minute']",0
+1424,"['absolutley', 'fantastic']",1
+1425,"['huge', 'awkward', '1.5', 'lb', 'piece', 'cow', '3/4th', 'gristle', 'fat']",0
+1426,"['definitely', 'come']",1
+1427,"['like', 'steiner', 'dark', 'feel', 'like', 'bar']",1
+1428,"['wow', 'spicy', 'delicious']",1
+1429,"['familiar', 'check']",1
+1430,"['business', 'dinner', 'dollar']",0
+1431,['love'],1
+1432,"['fs', 'restaurant', 'wonderful', 'breakfast', 'lunch']",1
+1433,['special'],0
+1434,"['day', 'week', 'different', 'deal', 'delicious']",1
+1435,"['mention', 'combination', 'pear', 'almond', 'bacon', 'big', 'winner']",1
+1436,[],0
+1437,"['sauce', 'tasteless']",0
+1438,"['food', 'delicious', 'spicy', 'sure', 'ask', 'spicy', 'prefer', 'way']",1
+1439,"['ribeye', 'steak', 'cook', 'perfectly', 'great', 'mesquite', 'flavor']",1
+1440,"['think', 'anytime', 'soon']",0
+1441,"['food', 'gooodd']",1
+1442,"['far', 'sushi', 'connoisseur', 'definitely', 'tell', 'difference', 'good', 'food', 'bad', 'food', 'certainly', 'bad', 'food']",0
+1443,['insult'],0
+1444,"['3', 'time', 'lunch', 'bad']",0
+1445,"['chicken', 'wing', 'contain', 'dry', 'chicken', 'meat', 'eat']",0
+1446,"['food', 'good', 'enjoy', 'mouthful', 'enjoyable', 'relaxed', 'venue', 'couple', 'small', 'family', 'group', 'etc']",1
+1447,"['nargile', 'think', 'great']",1
+1448,"['good', 'tater', 'tot', 'southwest']",1
+1449,"['love', 'place']",1
+1450,"['definitely', 'worth', '3', 'pay']",0
+1451,"['vanilla', 'ice', 'cream', 'creamy', 'smooth', 'profiterole', 'choux', 'pastry', 'fresh']",1
+1452,"['m', 'az', 'time', 'new', 'spot']",1
+1453,"['manager', 'bad']",0
+1454,"['inside', 'nice', 'clean']",1
+1455,"['food', 'outstanding', 'price', 'reasonable']",1
+1456,"['think', 'run', 'carly', 'anytime', 'soon', 'food']",0
+1457,"['fact', '20', 'minute', 'acknowledge', '35', 'minute', 'food', '...', 'forget', 'thing']",0
+1458,"['love', 'margarita']",1
+1459,"['vegas', 'buffet', 'disappoint']",1
+1460,['good'],1
+1461,"['note', 'ventilation', 'use', 'upgrading']",0
+1462,"['great', 'pork', 'sandwich']",1
+1463,"['waste', 'time']",0
+1464,"['total', 'letdown', 'camelback', 'flower', 'shop', 'cartel', 'coffee']",0
+1465,"['cheese', 'friend', 'burger', 'cold']",0
+1466,"['enjoy', 'pizza', 'brunch']",1
+1467,"['steak', 'trim', 'perfectly', 'cook']",1
+1468,"['group', '70', 'claim', '40', 'handle', 'beautifully']",1
+1469,['love'],1
+1470,"['ask', 'bill', 'leave', 'eat', 'bring']",0
+1471,"['place', 'jewel', 'las', 'vegas', 'exactly', 'hope', 'find', 'nearly', 'year', 'live']",1
+1472,"['seafood', 'limit', 'boil', 'shrimp', 'crab', 'leg', 'crab', 'leg', 'definitely', 'taste', 'fresh']",0
+1473,"['selection', 'food', 'good']",0
+1474,"['delicious', 'absolutely']",1
+1475,"['small', 'family', 'restaurant', 'fine', 'dining', 'establishment']",1
+1476,"['toro', 'tartare', 'cavier', 'extraordinary', 'like', 'thinly', 'slice', 'wagyu', 'white', 'truffle']",1
+1477,"['think', 'long', 'time']",0
+1478,"['attach', 'gas', 'station', 'rarely', 'good', 'sign']",0
+1479,['awesome'],1
+1480,"['time', 'soon']",1
+1481,"['menu', 'good', 'stuff', 'decide']",1
+1482,"['bad', 'humiliate', 'worker', 'right', '..', 'bunch', 'horrible', 'calling']",0
+1483,"['conclusion', 'fill', 'meal']",1
+1484,"['daily', 'special', 'hit', 'group']",1
+1485,"['tragedy', 'strike']",0
+1486,"['pancake', 'good', 'pretty', 'large']",1
+1487,"['crawfish', 'experience', 'delicious']",1
+1488,"['monster', 'chicken', 'fry', 'steak', 'egg', 'time', 'favorite']",1
+1489,"['waitress', 'sweet', 'funny']",1
+1490,"['taste', 'mom', 'multi', 'grain', 'pumpkin', 'pancake', 'pecan', 'butter', 'amazing', 'fluffy', 'delicious']",1
+1491,"['eat', 'airline', 'food', 'seriously']",0
+1492,"['good', 'thing', 'place']",1
+1493,"['ambiance', 'incredible']",1
+1494,"['waitress', 'manager', 'friendly']",1
+1495,"['recommend', 'place']",0
+1496,"['overall', 'impressed', 'noca']",0
+1497,"['gyro', 'basically', 'lettuce']",0
+1498,"['terrible', 'service']",0
+1499,"['thoroughly', 'disappointed']",0
+1500,"['pasta', 'love', 'homemade', '/hand', 'pasta', 'thin', 'pizza']",1
+1501,"['try', 'happy']",1
+1502,"['far', 'best', 'cheesecurd']",1
+1503,"['reasonably', 'price']",1
+1504,"['perfect', 'night']",1
+1505,"['food', 'good', 'typical', 'bar', 'food']",1
+1506,['drive'],0
+1507,"['glance', 'lovely', 'bakery', 'cafe', 'nice', 'ambiance', 'clean', 'friendly', 'staff']",1
+1508,['think'],0
+1509,"['point', 'finger', 'item', 'menu', 'order', 'disappoint']",1
+1510,"['oh', 'thing', 'beauty', 'restaurant']",1
+1511,[],1
+1512,"['greasy', 'unhealthy', 'meal']",0
+1513,['time'],0
+1514,"['burger', 'amazing']",1
+1515,"['similarly', 'delivery', 'man', 'word', 'apology', 'food', '45', 'minute', 'late']",0
+1516,"['way', 'expensive']",0
+1517,"['sure', 'order', 'dessert', 'need', 'pack', 'tiramisu', 'cannoli', 'die']",1
+1518,"['time', 'wait']",1
+1519,"['bartender', 'nice']",1
+1520,"['good', 'tasty']",1
+1521,"['place', 'thumb', '....', 'way']",1
+1522,"['good', 'place', 'vegas', 'breakfast', 'check', 'sat', 'sun']",1
+1523,"['love', 'authentic', 'mexican', 'food', 'want', 'bunch', 'interesting', 'delicious', 'meat', 'choose', 'need', 'try', 'place']",1
+1524,"['terrible', 'management']",0
+1525,"['excellent', 'new', 'restaurant', 'experienced', 'frenchman']",1
+1526,"['zero', 'star', 'zero', 'star']",0
+1527,"['great', 'steak', 'great', 'great', 'wine', 'amazing', 'dessert']",1
+1528,"['bad', 'martini']",0
+1529,"['steak', 'shrimp', 'opinion', 'good', 'entree', 'gc']",1
+1530,"['opportunity', 'today', 'sample', 'amazing', 'pizza']",1
+1531,"['wait', 'thirty', 'minute', 'seat', '8', 'vacant', 'table', 'folk', 'wait']",0
+1532,"['yellowtail', 'carpaccio', 'melt', 'mouth', 'fresh']",1
+1533,['try'],0
+1534,"['eat', 'potato', 'find', 'stranger', 'hair']",0
+1535,"['spicy', '..', 'perfect', 'actually']",1
+1536,"['night', 'second', 'time', 'dining', 'happy', 'decide']",1
+1537,"['hello', 'right']",0
+1538,"['dessert', 'bit', 'strange']",0
+1539,"['boyfriend', 'come', 'time', 'recent', 'trip', 'vegas', 'pleased', 'quality', 'food', 'service']",1
+1540,"['recommend', 'place', 'wrong', 'donut', 'place']",1
+1541,"['nice', 'ambiance']",1
+1542,"['recommend', 'saving', 'room']",1
+1543,"['guess', 'maybe', 'night', 'disgraceful']",0
+1544,"['recent', 'experience', 'particular', 'location', 'good']",0
+1545,"['know', 'like', 'restaurant']",0
+1546,"['avoid', 'establishment']",0
+1547,"['think', 'restaurant', 'suffer', 'try', 'hard']",0
+1548,"['tapa', 'dish', 'delicious']",1
+1549,"['heart', 'place']",1
+1550,"['salad', 'bland', 'vinegrette', 'baby', 'green', 'heart', 'palm']",0
+1551,"['feel', 'disgusting']",0
+1552,"['good', 'time']",1
+1553,"['believe', 'place', 'great', 'stop', 'huge', 'belly', 'hanker', 'sushi']",1
+1554,"['generous', 'portion', 'great', 'taste']",1
+1555,"['place', 'recommend', 'place']",0
+1556,"['server', 'forth', 'time', 'help']",0
+1557,"['food', 'delicious']",1
+1558,"['hour', '...', 'seriously']",0
+1559,"['consider', 'theft']",0
+1560,"['eew', '...', 'location', 'need', 'complete', 'overhaul']",0
+1561,"['recently', 'witness', 'poor', 'quality', 'management', 'guest']",0
+1562,"['wait', 'wait', 'wait']",0
+1563,"['come', 'check', 'regularly', 'excellent', 'service']",1
+1564,"['server', 'super', 'nice', 'check', 'time']",1
+1565,"['pizza', 'taste', 'old', 'super', 'chewy', 'good', 'way']",0
+1566,"['swing', 'try', 'deeply', 'disappointed']",0
+1567,"['service', 'good', 'company']",1
+1568,"['staff', 'friendly', 'efficient']",1
+1569,"['service', 'fan', 'quick', 'serve', 'nice', 'folk']",1
+1570,"['boy', 'sucker', 'dry']",0
+1571,['rate'],0
+1572,"['look', 'authentic', 'thai', 'food']",0
+1573,"['steak', '100', 'recommend']",1
+1574,"['pull', 'car', 'wait', '15', 'minute', 'acknowledge']",0
+1575,"['great', 'food', 'great', 'service', 'clean', 'friendly', 'setting']",1
+1576,['assure'],1
+1577,"['hate', 'thing', 'cheap', 'quality', 'black', 'olive']",0
+1578,"['breakfast', 'perpare', 'great', 'beautiful', 'presentation', '3', 'giant', 'slice', 'toast', 'lightly', 'dust', 'powdered', 'sugar']",1
+1579,"['kid', 'play', 'area', 'nasty']",0
+1580,"['great', 'place', 'fo', 'eat']",1
+1581,"['waitress', 'friendly', 'happy', 'accomodate', 'vegan', 'veggie', 'option']",1
+1582,"['omg', 'feel', 'like', 'eat', 'thai', 'food', 'dish']",1
+1583,"['extremely', 'crumby', 'pretty', 'tasteless']",0
+1584,"['pale', 'color', 'instead', 'nice', 'char', 'flavor']",0
+1585,"['crouton', 'taste', 'homemade', 'extra', 'plus']",1
+1586,"['home', 'dry', 'damn', 'wing']",0
+1587,"['regular', 'stop', 'trip', 'phoenix']",1
+1588,"['enjoy', 'crema', 'café', 'expand', 'tell', 'friend', 'best', 'breakfast']",1
+1589,"['good', 'money']",0
+1590,"['miss', 'wish', 'philadelphia']",1
+1591,"['got', 'sit', 'fairly', 'fast', 'end', 'wait', '40', 'minute', 'place', 'order', '30', 'minute', 'food', 'arrive']",0
+1592,"['good', 'cheese', 'crisp', 'town']",1
+1593,"['good', 'value', 'great', 'food', 'great', 'service']",1
+1594,"['ask', 'satisfying', 'meal']",1
+1595,"['food', 'good']",1
+1596,['awesome'],1
+1597,"['want', 'leave']",0
+1598,"['drive', 'way', 'north', 'scottsdale', '...', 'bit', 'disappointed']",1
+1599,['eat'],0
+1600,"['....', 'owners', 'need', 'quit', 'soooooo', 'cheap', 'let', 'wrap', 'freaking', 'sandwich', 'paper']",0
+1601,"['check', 'place', 'couple', 'year', 'ago', 'impressed']",0
+1602,"['chicken', 'definitely', 'reheat', 'ok', 'wedge', 'cold', 'soggy']",0
+1603,"['sorry', 'food', 'anytime', 'soon', ':(']",0
+1604,"['absolute', 'visit']",1
+1605,"['cow', 'tongue', 'cheek', 'taco', 'amazing']",1
+1606,"['friend', 'like', 'bloody', 'mary']",0
+1607,"['despite', 'hard', 'rate', 'business', 'actually', 'rare', '1', 'star']",0
+1608,"['want', 'experience', 'good']",1
+1609,['return'],0
+1610,"['chicken', 'pho', 'taste', 'bland']",0
+1611,['disappointing'],0
+1612,"['grill', 'chicken', 'tender', 'yellow', 'saffron', 'seasoning']",1
+1613,"['drive', 'mean', 'want', 'wait', 'half', 'hour', 'food', 'end', 'wait', 'wait']",0
+1614,"['pretty', 'awesome', 'place']",1
+1615,"['ambience', 'perfect']",1
+1616,"['good', 'luck', 'rude', 'non', 'customer', 'service', 'focus', 'new', 'management']",0
+1617,"['grandmother', 'roasted', 'chicken']",0
+1618,"['ask', 'multiple', 'time', 'wine', 'list', 'time', 'ignore', 'hostess']",0
+1619,"['staff', 'super', 'friendly', 'helpful', 'especially', 'cool', 'bring', 'small', 'boy', 'baby']",1
+1620,"['star', 'food', 'guy', 'blue', 'shirt', 'great', 'vibe', 'let', 'eat']",1
+1621,"['roast', 'beef', 'sandwich', 'taste', 'good']",1
+1622,"['evening', 'drastically', 'sick']",0
+1623,"['high', 'quality', 'chicken', 'chicken', 'caesar', 'salad']",1
+1624,"['order', 'burger', 'rare', 'come']",0
+1625,"['promptly', 'greet', 'seat']",1
+1626,"['try', 'lunch', 'madhouse']",0
+1627,"['prove', 'dead', 'wrong', 'sushi', 'bar', 'quality', 'great', 'service', 'fast', 'food', 'impeccable']",1
+1628,"['wait', 'hour', 'seat', 'great', 'mood']",0
+1629,"['good', 'joint']",1
+1630,"['macaron', 'insanely', 'good']",1
+1631,['eat'],0
+1632,"['waiter', 'attentive', 'friendly', 'informative']",1
+1633,"['maybe', 'cold', 'somewhat', 'edible']",0
+1634,"['place', 'lot', 'promise', 'fail', 'deliver']",0
+1635,"['bad', 'experience']",0
+1636,['mistake'],0
+1637,"['food', 'average']",0
+1638,"['great', 'food']",1
+1639,"['anytime', 'soon']",0
+1640,"['disappointed', 'order', '35', 'big', 'bay', 'plater']",0
+1641,"['great', 'place', 'relax', 'awesome', 'burger', 'beer']",1
+1642,"['perfect', 'sit', 'family', 'meal', 'friend']",1
+1643,"['flavor', 'poorly', 'construct']",0
+1644,"['patio', 'seating', 'comfortable']",1
+1645,"['fried', 'rice', 'dry']",0
+1646,"['hand', 'favorite', 'italian', 'restaurant']",1
+1647,"['scream', 'legit', 'book', '...', 'somethat', 'pretty', 'rare', 'vegas']",1
+1648,"['fun', 'experience']",1
+1649,"['atmosphere', 'great', 'lovely', 'duo', 'violinist', 'play', 'song', 'request']",1
+1650,"['personally', 'love', 'hummus', 'pita', 'baklava', 'falafel', 'baba', 'ganoush', 'amazing', 'eggplant']",1
+1651,"['convenient', 'stay', 'mgm']",1
+1652,"['owner', 'super', 'friendly', 'staff', 'courteous']",1
+1653,['great'],1
+1654,"['eclectic', 'selection']",1
+1655,"['sweet', 'potato', 'tot', 'good', 'onion', 'ring', 'perfection', 'close']",1
+1656,"['staff', 'attentive']",1
+1657,"['chef', 'generous', 'time', 'come', 'twice', 'picture']",1
+1658,"['owner', 'use', 'work', 'nobu', 'place', 'similar', 'half', 'price']",1
+1659,"['google', 'mediocre', 'imagine', 'smashburger', 'pop']",0
+1660,[],0
+1661,"['promise', 'disappoint']",1
+1662,"['sushi', 'lover', 'avoid', 'place', 'mean']",0
+1663,"['great', 'double', 'cheeseburger']",1
+1664,"['awesome', 'service', 'food']",1
+1665,"['fantastic', 'neighborhood', 'gem']",1
+1666,['wait'],1
+1667,"['plantain', 'bad', 'taste']",0
+1668,"['great', 'place', 'highly', 'recommend']",1
+1669,"['service', 'slow', 'attentive']",0
+1670,"['5', 'star', '5', 'star']",1
+1671,"['staff', 'spend', 'time', 'talk']",0
+1672,"['dessert', 'panna', 'cotta', 'amazing']",1
+1673,"['good', 'food', 'great', 'atmosphere.1']",1
+1674,"['damn', 'good', 'steak']",1
+1675,"['total', 'brunch', 'fail']",0
+1676,"['price', 'reasonable', 'flavor', 'spot', 'sauce', 'home', 'slaw', 'drench', 'mayo']",1
+1677,"['decor', 'nice', 'piano', 'music', 'soundtrack', 'pleasant']",1
+1678,"['steak', 'amazing', '...', 'rge', 'fillet', 'relleno', 'good', 'seafood', 'plate']",1
+1679,"['good', 'food', 'good', 'service']",1
+1680,"['absolutely', 'amazing']",1
+1681,"['probably', 'honest']",0
+1682,['definitely'],1
+1683,"['sergeant', 'pepper', 'beef', 'sandwich', 'auju', 'sauce', 'excellent', 'sandwich']",1
+1684,"['hawaiian', 'breeze', 'mango', 'magic', 'pineapple', 'delight', 'smoothie', 'try', 'far', 'good']",1
+1685,"['lunch', 'service', 'slow']",0
+1686,"['place', 'walk', 'expect', 'amazing', 'quickly', 'disappointed']",0
+1687,['mortify'],0
+1688,['needless'],0
+1689,"['anyways', 'food', 'definitely', 'fill', 'price', 'pay', 'expect']",0
+1690,"['chip', 'come', 'dripping', 'grease', 'edible']",0
+1691,"['impressed', 'strip', 'steak']",0
+1692,"['2007', 'meal', 'awesome']",1
+1693,"['server', 'nice', 'attentive', 'serve', 'staff']",1
+1694,"['cashier', 'friendly', 'bring', 'food']",1
+1695,"['work', 'hospitality', 'industry', 'paradise', 'valley', 'refrain', 'recommend', 'cibo', 'long']",0
+1696,"['atmosphere', 'fun']",1
+1697,['recommend'],0
+1698,"['service', 'quick', 'order', 'like', 'like']",1
+1699,"['mean', 'famous', 'fish', 'chip', 'terrible']",0
+1700,"['mouth', 'belly', 'pleased']",1
+1701,['thing'],0
+1702,"['2', 'thumb']",1
+1703,['read'],0
+1704,"['love', 'grill', 'pizza', 'remind', 'legit', 'italian', 'pizza']",1
+1705,"['pro', 'large', 'seating', 'area/', 'nice', 'bar', 'area/', 'great', 'simple', 'drink', 'menu/', 'best', 'brick', 'oven', 'pizza', 'homemade', 'dough']",1
+1706,"['nice', 'atmosphere']",1
+1707,"['tonight', 'elk', 'filet', 'special', '...', 'suck']",0
+1708,"['bite', 'hook']",1
+1709,"['order', 'old', 'classic', 'new', 'dish', 'time', 'sorely', 'disappoint']",0
+1710,"['cute', 'quaint', 'simple', 'honest']",1
+1711,"['chicken', 'deliciously', 'season', 'perfect', 'fry', 'outside', 'moist', 'chicken', 'inside']",1
+1712,"['food', 'great', 'compliment', 'chef']",1
+1713,"['special', 'thank', 'dylan', 't.', 'recommendation', 'order', ':)', 'yummy', 'tummy']",1
+1714,"['awesome', 'selection', 'beer']",1
+1715,"['great', 'food', 'awesome', 'service']",1
+1716,"['nice', 'thing', 'add', 'gratuity', 'bill', 'party', 'large', '6', '8', 'expect', 'tip']",1
+1717,"['fly', 'apple', 'juice', '..', 'fly']",0
+1718,"['han', 'nan', 'chicken', 'tasty']",1
+1719,"['service', 'think', 'good']",1
+1720,"['food', 'barely', 'lukewarm', 'sit', 'wait', 'server', 'bring']",0
+1721,"['ryan', 'bar', 'definitely', 'edinburgh', 'establishment', 'revisit']",0
+1722,"['nice', 'chinese', 'restaurant']",1
+1723,"['overall', 'like', 'food', 'service']",1
+1724,"['serve', 'indian', 'naan', 'bread', 'hummus', 'spicy', 'pine', 'nut', 'sauce', 'world']",1
+1725,"['probably', 'come', 'recommend']",0
+1726,"['friend', 'pasta', '--', 'bad', 'barely', 'touch']",0
+1727,"['try', 'airport', 'experience', 'tasty', 'food', 'speedy', 'friendly', 'service']",1
+1728,"['love', 'decor', 'chinese', 'calligraphy', 'wall', 'paper']",1
+1729,['complain'],1
+1730,"['restaurant', 'clean', 'family', 'restaurant', 'feel']",1
+1731,"['way', 'fry']",0
+1732,"['sure', 'long', 'stand', 'long', 'begin', 'feel', 'awkwardly', 'place']",0
+1733,"['open', 'sandwich', 'impressed', 'good', 'way']",0
+1734,[],0
+1735,"['warm', 'feeling', 'service', 'feel', 'like', 'guest', 'special', 'treat']",1
+1736,"['extensive', 'menu', 'provide', 'lot', 'option', 'breakfast']",1
+1737,"['order', 'vegetarian', 'menu', 'dinner', 'wide', 'array', 'option', 'choose']",1
+1738,"['watch', 'price', 'inflate', 'portion', 'small', 'management', 'attitude', 'grow', 'rapidly']",0
+1739,"['wonderful', 'lil', 'tapa', 'ambience', 'feel', 'warm', 'fuzzy', 'inside']",1
+1740,"['enjoy', 'seafood', 'salad', 'fabulous', 'vinegrette']",1
+1741,"['wonton', 'thin', 'thick', 'chewy', 'melt', 'mouth']",1
+1742,"['level', '5', 'spicy', 'perfect', 'spice', 'whelm', 'soup']",1
+1743,"['sit', 'right', 'time', 'server', 'fantastic']",1
+1744,"['main', 'thing', 'enjoy', 'crowd', 'old', 'crowd', 'mid', '30']",0
+1745,"['town', 'definitely', 'spot', 'hit']",1
+1746,"['wait', '30', 'minute', 'drink', 'long', '2', 'arepa']",0
+1747,"['great', 'place', 'eat']",1
+1748,"['jalapeno', 'bacon', 'soooo', 'good']",1
+1749,"['service', 'poor', 's', 'nice']",0
+1750,"['food', 'good', 'service', 'good', 'price', 'good']",1
+1751,"['place', 'clean', 'food', 'oh', 'stale']",0
+1752,"['chicken', 'dish', 'ok', 'beef', 'like', 'shoe', 'leather']",0
+1753,"['service', 'bad']",0
+1754,['happy'],1
+1755,"['taste', 'like', 'dirt']",0
+1756,"['place', 'phoenix', 'definately']",1
+1757,"['block', 'amazing']",1
+1758,"['close', 'house', 'low', 'key', 'non', 'fancy', 'affordable', 'price', 'good', 'food']",1
+1759,"['hot', 'sour', 'egg', 'flower', 'soups', 'absolutely', '5', 'star']",1
+1760,"['sashimi', 'poor', 'quality', 'soggy', 'tasteless']",0
+1761,"['great', 'time', 'family', 'dinner', 'sunday', 'night']",1
+1762,"['food', 'tasty', 'real', 'traditional', 'hunan', 'style']",0
+1763,"['bother', 'slow', 'service']",0
+1764,"['flair', 'bartender', 'absolutely', 'amazing']",1
+1765,"['frozen', 'margarita', 'way', 'sugary', 'taste']",0
+1766,"['good', 'order', 'twice']",1
+1767,"['nutshell', '1', 'restaraunt', 'smell', 'like', 'combination', 'dirty', 'fish', 'market', 'sewer']",0
+1768,"['girlfriend', 'veal', 'bad']",0
+1769,"['unfortunately', 'good']",0
+1770,"['pretty', 'satifying', 'experience']",1
+1771,"['join', 'club', 'awesome', 'offer', 'email']",1
+1772,"['perfect', 'like', 'beer', 'ice', 'cold', 'case', 'cold']",1
+1773,"['bland', 'flavorless', 'good', 'way', 'describe', 'barely', 'tepid', 'meat']",0
+1774,"['chain', 'fan', 'beat', 'place', 'easily']",0
+1775,['nachos'],1
+1776,['come'],0
+1777,"['word', 'place', 'pretty']",1
+1778,"['staff', 'super', 'nice', 'quick', 'crazy', 'crowd', 'downtown', 'jury', 'lawyer', 'court', 'staff']",1
+1779,"['great', 'atmosphere', 'friendly', 'fast', 'service']",1
+1780,"['receive', 'pita', 'huge', 'lot', 'meat', 'thumb']",1
+1781,"['food', 'arrive', 'meh']",0
+1782,"['pay', '7.85', 'hot', 'dog', 'fry', 'look', 'like', 'come', 'kid', 'meal', 'wienerschnitzel', 'idea', 'good', 'meal']",0
+1783,"['classic', 'maine', 'lobster', 'roll', 'fantastic']",1
+1784,"['brother', 'law', 'work', 'mall', 'eat', 'day', 'guess', 'sick', 'night']",0
+1785,"['good', 'review', 'place', 'twice', 'hereas', 'tribute', 'place', 'tribute', 'event', 'hold', 'night']",1
+1786,"['chip', 'salsa', 'good', 'salsa', 'fresh']",1
+1787,"['place', 'great']",1
+1788,"['mediocre', 'food']",0
+1789,"['inside', 'impress', 'place']",1
+1790,"['super', 'pissd']",0
+1791,"['service', 'super', 'friendly']",1
+1792,"['sad', 'little', 'vegetable', 'overcooked']",0
+1793,"['place', 'nice', 'surprise']",1
+1794,"['golden', 'crispy', 'delicious']",1
+1795,"['high', 'hope', 'place', 'burger', 'cook', 'charcoal', 'grill', 'unfortunately', 'taste', 'fall', 'flat', 'way', 'flat']",0
+1796,"['eat', 'bruschetta', 'day', 'devine']",1
+1797,"['single', 'employee', 'come', 'ok', 'need', 'water', 'refill', 'finally', 'serve', 'food']",0
+1798,"['lastly', 'mozzarella', 'stick', 'good', 'thing', 'order']",1
+1799,"['time', 'come', 'amazing', 'experience', 'tell', 'people', 'awesome', 'duck']",1
+1800,"['server', 'negligent', 'need', 'feel', 'unwelcome', '...', 'suggest', 'place']",0
+1801,"['service', 'terrible']",0
+1802,"['place', 'overprice', 'consistent', 'boba', 'overpriced']",0
+1803,['pack'],0
+1804,"['dessert', 'yummy']",1
+1805,"['seasonal', 'fruit', 'fresh', 'white', 'peach', 'puree']",1
+1806,"['bad', 'bad', 'officially']",0
+1807,"['place', 'honestly', 'blow']",0
+1808,"['definitely', 'eat']",0
+1809,"['waste', 'money']",0
+1810,"['love', 'food', 'nice', 'plastic', 'container', 'oppose', 'cram', 'little', 'paper', 'takeout', 'box']",1
+1811,"['crêpe', 'delicate', 'thin', 'moist']",1
+1812,"['awful', 'service']",0
+1813,[],0
+1814,"['food', 'quality', 'horrible']",0
+1815,"['price', 'think', 'place']",0
+1816,"['service', 'fair']",0
+1817,"['love', 'sushi', 'find', 'kabuki', 'price', 'hip', 'service']",0
+1818,"['favor', 'stay', 'away', 'dish']",0
+1819,"['poor', 'service']",0
+1820,"['table', 'think', 'food', 'average', 'worth', 'wait']",0
+1821,"['good', 'service', 'food', 'maria', 'server', 'good', 'friendly', 'day']",1
+1822,['excellent'],1
+1823,"['pay', 'bill', 'tip', 'feel', 'server', 'terrible', 'job']",0
+1824,"['lunch', 'great', 'experience']",1
+1825,"['bland', 'food', 'surprise', 'consider', 'article', 'read', 'focus', 'spice', 'flavor']",0
+1826,"['food', 'way', 'overprice', 'portion', 'fuck', 'small']",0
+1827,"['recently', 'try', 'caballero', 'week']",1
+1828,"['40', 'buck', 'head', 'expect', 'food']",0
+1829,"['food', 'come', 'good', 'pace']",1
+1830,"['eat', 'twice', 'visit', 'especially', 'enjoy', 'salmon', 'salad']",1
+1831,"['believe', 'dirty', 'oyster']",0
+1832,"['place', 'deserve', 'star']",0
+1833,"['fact', 'round', '4', 'star', 'awesome']",1
+1834,"['disbelief', 'dish', 'qualified', 'bad', 'version', 'food', 'taste']",0
+1835,"['bad', 'day', 'low', 'tolerance', 'rude', 'customer', 'service', 'people', 'job', 'nice', 'polite', 'wash', 'dish']",0
+1836,"['potato', 'great', 'biscuit']",1
+1837,['probably'],0
+1838,"['flavorful', 'perfect', 'heat']",1
+1839,"['price', 'reasonable', 'service', 'great']",1
+1840,"['wife', 'hate', 'meal', 'coconut', 'shrimp', 'friend', 'enjoy', 'meal']",0
+1841,"['fella', 'huevos', 'ranchero', 'look', 'appealing']",0
+1842,"['happy', 'hour', 'great', 'list', 'wine']",1
+1843,"['buffet', 'pricey', 'think', 'pay', 'place', 'lot']",1
+1844,"['probably', 'come']",0
+1845,"['bad', 'food', 'service']",0
+1846,"['place', 'pretty', 'good', 'nice', 'little', 'vibe', 'restaurant']",1
+1847,"['talk', 'great', 'customer', 'service', 'course']",1
+1848,"['hot', 'dish', 'hot', 'cold', 'dish', 'close', 'room', 'temp', 'watch', 'staff', 'prepare', 'food', 'bare', 'hand', 'glove', 'deep', 'fry', 'oil']",0
+1849,"['love', 'fry', 'bean']",1
+1850,"['pleasure', 'deal']",1
+1851,"['plethora', 'salad', 'sandwich', 'try', 'seal', 'approval']",1
+1852,"['place', 'awesome', 'want', 'light', 'healthy', 'summer']",1
+1853,"['sushi', 'strip', 'place']",1
+1854,"['service', 'great', 'manager', 'come', 'help', 'table']",1
+1855,"['feel', 'dining', 'room', 'college', 'cooking', 'course', 'high', 'class', 'dining', 'service', 'slow']",0
+1856,"['start', 'review', 'star', 'edit']",0
+1857,"['bad', 'sushi', 'eat', 'costco']",0
+1858,"['excellent', 'restaurant', 'highlight', 'great', 'service', 'unique', 'menu', 'beautiful', 'setting']",1
+1859,"['boyfriend', 'sit', 'bar', 'completely', 'delightful', 'experience']",1
+1860,"['weird', 'vibe', 'owner']",0
+1861,"['hardly', 'meat']",0
+1862,"['bagel', 'grocery', 'store']",0
+1863,"['place', 'gyros']",1
+1864,"['love', 'owner', 'chef', 'authentic', 'japanese', 'cool', 'dude']",1
+1865,"['burger', 'good', 'pizza', 'use', 'amazing', 'doughy', 'flavorless']",0
+1866,"['find', 'inch', 'long', 'piece', 'wire', 'salsa']",0
+1867,"['service', 'terrible', 'food', 'mediocre']",0
+1868,"['definately', 'enjoy']",1
+1869,"['order', 'albondigas', 'soup', 'warm', 'taste', 'like', 'tomato', 'soup', 'frozen', 'meatball']",0
+1870,"['different', 'occasion', 'ask', 'medium', 'time', 'bloody', 'piece', 'meat', 'plate']",0
+1871,"['bite', 'refuse', 'eat', 'anymore']",0
+1872,"['service', 'extremely', 'slow']",0
+1873,"['20', 'minute', 'wait', 'table']",0
+1874,"['seriously', 'killer', 'hot', 'chai', 'latte']",1
+1875,"['allergy', 'warning', 'menu', 'waitress', 'absolutely', 'clue', 'meal', 'contain', 'peanut']",0
+1876,"['boyfriend', 'try', 'mediterranean', 'chicken', 'salad', 'fall', 'love']",1
+1877,"['rotate', 'beer', 'tap', 'highlight', 'place']",1
+1878,"['pricing', 'bit', 'concern', 'mellow', 'mushroom']",0
+1879,"['bad', 'thai']",0
+1880,"['stay', 'vegas', 'breakfast']",1
+1881,"['want', 'server', 'great', 'perfect', 'service']",1
+1882,"['pizza', 'selection', 'good']",1
+1883,"['strawberry', 'tea', 'good']",1
+1884,"['highly', 'unprofessional', 'rude', 'loyal', 'patron']",0
+1885,"['overall', 'great', 'experience']",1
+1886,"['spend', 'money']",0
+1887,"['regular', 'toasted', 'bread', 'equally', 'satisfying', 'occasional', 'pat', 'butter', '...', 'mmmm', '...']",1
+1888,"['buffet', 'bellagio', 'far', 'anticipate']",0
+1889,"['drink', 'weak', 'people']",0
+1890,"['-my', 'order', 'correct']",0
+1891,"['feel', 'like', 'chip', 'buy', 'house']",0
+1892,"['disappointing', 'dinner', 'dessert']",0
+1893,"['chip', 'sal', 'amazing']",1
+1894,['return'],0
+1895,"['new', 'fav', 'vegas', 'buffet', 'spot']",1
+1896,"['seriously', 'believe', 'owner', 'unexperienced', 'employee', 'run', 'like', 'chicken', 'head', 'cut']",0
+1897,['sad'],0
+1898,"['feel', 'insulted', 'disrespect', 'talk', 'judge', 'human', 'like']",0
+1899,"['steakhouse', 'properly', 'cook', 'steak', 'understand']",0
+1900,"['impressed', 'concept', 'food']",0
+1901,"['thing', 'crazy', 'guacamole', 'like', 'puréed']",0
+1902,"['postinos', 'hope', 'experience']",0
+1903,"['food', 'poisoning', 'buffet']",0
+1904,"['bring', 'fresh', 'batch', 'fry', 'think', 'yay', 'warm']",0
+1905,"['hilarious', 'yummy', 'christmas', 'eve', 'dinner', 'remember', 'big', 'fail', 'entire', 'trip']",0
+1906,"['needless', 'anytime', 'soon']",0
+1907,"['place', 'disgusting']",0
+1908,"['time', 'eat', 'caring', 'teamwork', 'professional', 'degree']",1
+1909,"['ri', 'style', 'calamari', 'joke']",0
+1910,"['garlic', 'fondue', 'barely', 'edible']",0
+1911,"['barely', 'stomach', 'meal', 'complain', 'business', 'lunch']",0
+1912,"['bad', 'lose', 'heart', 'finish']",0
+1913,"['forever', 'bring', 'check', 'ask']",0
+1914,"['scene', 'restaurant', '...', 'definitely', 'lose', 'love']",0
+1915,"['disappointing', 'experience']",0
+1916,"['food', 'par', 'denny', 'good']",0
+1917,"['want', 'wait', 'mediocre', 'food', 'downright', 'terrible', 'service', 'place']",0
+1918,"['waaaaaayyyyyyyyyy', 'rate']",0
+1919,[],0
+1920,"['place', 'fairly', 'clean', 'food', 'simply', 'worth']",0
+1921,"['place', 'lack', 'style']",0
+1922,"['sangria', 'half', 'glass', 'wine', '12', 'ridiculous']",0
+1923,"['bother', 'come']",0
+1924,"['meat', 'pretty', 'dry', 'sliced', 'brisket', 'pull', 'pork']",0
+1925,"['building', 'pretty', 'neat', 'bathroom', 'pretty', 'trippy', 'eat']",0
+1926,"['equally', 'awful']",0
+1927,"['probably', 'hurry']",0
+1928,"['slow', 'seat', 'reservation']",0
+1929,"['good', 'stretch', 'imagination']",0
+1930,"['cashew', 'cream', 'sauce', 'bland', 'vegetable', 'undercooke']",0
+1931,"['chipolte', 'ranch', 'dipping', 'sause', 'tasteless', 'thin', 'water', 'heat']",0
+1932,"['bit', 'sweet', 'spicy', 'lack', 'flavor']",0
+1933,['disappointed'],0
+1934,"['place', 'horrible', 'way', 'overprice']",0
+1935,"['maybe', 'vegetarian', 'fare', 'twice', 'think', 'average']",0
+1936,"['busy', 'know']",0
+1937,"['table', 'outside', 'dirty', 'lot', 'time', 'worker', 'friendly', 'helpful', 'menu']",0
+1938,"['ambiance', 'feel', 'like', 'buffet', 'setting', 'douchey', 'indoor', 'garden', 'tea', 'biscuit']",0
+1939,"['con', 'spotty', 'service']",0
+1940,"['fry', 'hot', 'burger']",0
+1941,"['come', 'cold']",0
+1942,"['food', 'come', 'disappointment', 'ensue']",0
+1943,"['real', 'disappointment', 'waiter']",0
+1944,"['husband', 'rude', '...', 'apologize', 'bad', 'food']",0
+1945,"['reason', 'eat', 'fill', 'night', 'binge', 'drink', 'carb', 'stomach']",0
+1946,"['insult', 'profound', 'deuchebaggery', 'outside', 'smoke', 'break', 'serve', 'solidify']",0
+1947,"['order', 'taco', 'think', 'customer', 'service', 'ask', 'combo', 'ala', 'cart']",0
+1948,"['disappointed', 'blame', 'need', 'place', 'door']",0
+1949,"['rave', 'review', 'wait', 'eat', '......', 'disappointment']",0
+1950,"['del', 'taco', 'pretty', 'nasty', 'avoid', 'possible']",0
+1951,"['hard', 'decent', 'hamburger']",0
+1952,['like'],0
+1953,['hell'],0
+1954,"['service', 'pizza', 'place', 'door', 'service', 'receive', 'restaurant']",0
+1955,"['know', 'big', 'deal', 'place', ""ya'all""]",0
+1956,"['immediately', 'want', 'talk', 'manager', 'want', 'talk', 'guy', 'shot', 'fireball', 'bar']",0
+1957,['ambiance'],0
+1958,"['unfortunately', 'set', 'disapppointment', 'entree']",0
+1959,"['food', 'good']",0
+1960,"['server', 'suck', 'wait', 'correction', 'server', 'heimer', 'suck']",0
+1961,"['happen', 'pretty', '....']",0
+1962,"['bad', 'cause', 'know', 'family', 'want', 'like', 'place']",0
+1963,['overprice'],0
+1964,"['vomit', 'bathroom', 'mid', 'lunch']",0
+1965,"['look', 'time', 'soon', '35', 'minute', 'food']",0
+1966,"['place', 'eat', 'circumstance', 'return', 'list']",0
+1967,"['start', 'tuna', 'sashimi', 'brownish', 'color', 'obviously', 'fresh']",0
+1968,"['food', 'average']",0
+1969,"['sure', 'beat', 'nachos', 'movie', 'expect', 'little', 'bit', 'come', 'restaurant']",0
+1970,"['ha', 'long', 'bay', 'bit', 'flop']",0
+1971,"['problem', 'charge', '11.99', 'sandwich', 'big', 'subway', 'sub', 'offer', 'vegetable']",0
+1972,"['shrimp-', 'unwrap', 'live', '1/2', 'mile', 'brushfire', 'literally', 'ice', 'cold']",0
+1973,"['lack', 'flavor', 'undercooked', 'dry']",0
+1974,"['impressive', 'place', 'close']",0
+1975,"['avoid', 'place', 'stay', 'mirage']",0
+1976,"['refried', 'bean', 'come', 'meal', 'dry', 'crusty', 'food', 'bland']",0
+1977,"['spend', 'money', 'time', 'place']",0
+1978,"['lady', 'table', 'find', 'live', 'green', 'caterpillar', 'salad']",0
+1979,"['presentation', 'food', 'awful']",0
+1980,"['tell', 'disappointed']",0
+1981,"['think', 'food', 'flavor', 'texture', 'lack']",0
+1982,"['appetite', 'instantly']",0
+1983,"['overall', 'impressed']",0
+1984,"['experience', 'underwhelming', 'think', 'ninja', 'sushi', 'time']",0
+1985,"['waste', 'life', 'pour', 'salt', 'wound', 'draw', 'time', 'bring', 'check']",0
+1986,"['slow', 'aimless', 'movie', 'distressed', 'drift', 'young', 'man']",0
+1987,"['sure', 'lose', 'flat', 'character', 'audience', 'nearly', 'half', 'walk']",0
+1988,"['attempt', 'artiness', 'black', 'white', 'clever', 'camera', 'angle', 'movie', 'disappoint', 'ridiculous', 'acting', 'poor', 'plot', 'line', 'non', 'existent']",0
+1989,"['little', 'music', 'speak']",0
+1990,"['good', 'scene', 'movie', 'gerardo', 'try', 'find', 'song', 'run', 'head']",1
+1991,"['rest', 'movie', 'lack', 'art', 'charm', 'meaning', '...', 'emptiness', 'work', 'guess']",0
+1992,"['waste', 'hour']",0
+1993,"['movie', 'today', 'think', 'good', 'effort', 'good', 'message', 'kid']",1
+1994,"['bit', 'predictable']",0
+1995,"['love', 'casting', 'jimmy', 'buffet', 'science', 'teacher']",1
+1996,"['baby', 'owl', 'adorable']",1
+1997,"['movie', 'lot', 'florida', 'good', 'look', 'appealing']",1
+1998,"['songs', 'good', 'muppets', 'hilarious']",1
+1999,['cool'],1
+2000,"['right', 'case', 'movie', 'deliver', 'right', 'face']",1
+2001,"['average', 'acting', 'main', 'person', 'low', 'budget', 'clearly']",0
+2002,"['review', 'long', 'overdue', 'consider', 'tale', 'sisters', 'single', 'great', 'film']",1
+2003,"['gem', 'movie', 'term', 'screenplay', 'cinematography', 'acting', 'post', 'production', 'editing', 'directing', 'aspect', 'film', 'making']",1
+2004,"['practically', 'perfect', '\x96', 'true', 'masterpiece', 'sea', 'faux', 'masterpiece']",1
+2005,"['structure', 'film', 'easily', 'tightly', 'construct', 'history', 'cinema', '1', 'think', 'film', 'vitally', 'important', 'occur', 'minute', '1', 'word', 'content', 'level', 'film', 'easily', 'fill', 'dozen', 'film', '1', 'right', 'mind', 'ask', 'movie', '1', 'simply', 'high', 'superlative', 'form', 'cinema', 'imaginable', '1', 'yes', 'film', 'require', 'significant', 'puzzle', 'solving', 'piece', 'fit', 'create', 'beautiful', 'picture', '1', 'short', 'film', 'certainly', 'pull', 'punch', '0', 'graphic', 'far', 'good', 'game', '0', 'number', 'good', 'th', 'game', 'series', '1', 'deserve', 'strong', 'love', '1', 'insane', 'game', '1', 'massive', 'level', 'massive', 'unlockable', 'character', '...', 'massive', 'game', '1', 'waste', 'money', 'game', '1', 'kind', 'money', 'waste', 'properly', '1', 'actually', 'graphic', 'good', 'time', '1', 'today', 'graphic', 'crap', '0', 'canada', 'fun', 'game', 'aye', '1', 'game', 'rock', '1', 'buy', 'play', 'enjoy', 'love', '1', 'pure', 'brilliance', '1', 'flick', 'doom', 'conception', '0', 'idea', 'lame', 'minor', 'character', 'mediocre', 'pg-13', 'film', 'complete', 'non', 'sequel', 'change', 'tone', 'pg', 'rate', 'family', 'movie', '0', 'bit', 'interested', '0', 'confirm', 'film', 'unfunny', 'generic', 'manage', 'away', 'entire', 'movie', 'exaggerate', 'moment', 'plot', 'point', 'joke', 'tell', 'trailer', '0', 'funny', '0', 'talented', 'carrell', 'save', '0', 'co', 'star', 'fare', 'people', 'like', 'morgan', 'freeman', 'jonah', 'hill', 'ed', 'helms', 'waste', '0', 'story', 'predictable', 'lazy', '0', 'real', 'effect', 'work', 'presence', 'animal', 'integration', 'scene', 'bad', 'obvious', 'blue', 'green', 'screen', 'work', '0', 'cost', 'translate', 'quality', 'sure', '0', 'film', 'succeed', 'despite', 'obviously', 'meagre', 'budget', '1', 'glad', 'film', 'obvious', 'choice', 'film', 'certainly', '1', 'addition', 'lovely', 'song', 'write', 'french', 'cancan', 'boast', 'cut', 'leading', 'lady', 'grace', 'screen', '1', 'hard', 'fall', 'head', 'heel', 'love', 'girl', '1', 'negative', 'insipid', 'cause', 'regret', '2', 'hour', 'life', 'waste', 'screen', '0', 'long', 'whiny', 'pointless', '0', 'recommend', 'wait', 'future', 'effort', 'let', '0', 'excellent', 'cast', 'story', 'line', 'performance', '1', 'totally', 'believable', '1', 'anne', 'heche', 'utterly', 'convincing', '1', 'sam', 'shepard', 'portrayal', 'gung', 'ho', 'marine', 'sober', '1', 'sat', 'rivet', 'tv', 'screen', '1', 'resounding', '9', '10', '1', 'think', 'tom', 'hanks', 'good', 'actor', '1', 'enjoyed', 'read', 'book', 'child', 'little', '1', 'disappointed', 'movie', '0', 'character', 'totally', 'annoying', 'voice', 'feeling', 'fingernail', 'chalkboard', '0', 'totally', 'unnecessary', 'train', 'roller', 'coaster', 'scene', '0', 'absolutely', 'warmth', 'charm', 'scene', 'character', '0', 'movie', 'totally', 'grate', 'nerve', '0', 'performance', 'improve', 'improvisation', 'actor', 'twice', 'worry', 'deliver', 'line', 'line', 'good', '0', 'honestly', 'good', '0', 'dialogue', 'follow', 'line', 'fit', 'surrounding', '0', 'crackle', 'unpredictable', 'youthful', 'energy', 'honestly', 'find', 'hard', 'follow', 'concentrate', 'meander', 'badly', '0', 'generally', 'great', 'thing', '1', 'worth', '2', 'hour', 'time', '0', 'suspense', 'builder', 'good', 'cross', 'line', 'g', 'pg', '1', 'especially', 'like', 'non', 'cliche', 'choice', 'parent', 'movie', 'predict', 'dialog', 'verbatim', 'writing', 'movie', 'selection', '1', 'want', 'movie', 'gross', 'chill', 'great', 'choice', '1', 'alexander', 'nevsky', 'great', 'film', '1', 'amazing', 'film', 'artist', 'important', 'live', '1', 'glad', 'pretentious', 'piece', 's', 'plan', 'dodge', 'stratus', 'big', 'shots', '...', 'help', 'movie', 'maker', 'restrain', 'movie', 'business', 'québec']",0
+2006,"['movie', '10', 'year']",1
+2007,"['movie', 'need', 'word', 'mouth', 'promote']",1
+2008,"['overall', 'film', 'interesting', 'think', 'provoking']",1
+2009,"['plus', 'pace', 'suit', 'relatively', 'short', 'run', 'time']",1
+2010,['look'],1
+2011,['10'],1
+2012,"['wind', 'lion', 'write', 'superbly', 'act']",1
+2013,"['true', 'classic']",1
+2014,"['actually', 'turn', 'pretty', 'decent', 'far', 'b', 'list', 'horror', 'suspense', 'film']",1
+2015,"['definitely', 'worth', 'check']",1
+2016,"['problem', 'script']",0
+2017,['horrendous'],0
+2018,['believable'],0
+2019,"['suspense', 'feel', 'frustration', 'retarded', 'girl']",0
+2020,"['manna', 'heaven', 'terrific', 'film', 'predictable', 'unpredictable', 'time']",1
+2021,"['scene', 'funny', 'occasionally', 'touch', 'character', 'evaluate', 'life']",1
+2022,"['cast', 'veteran', 'actor', 'nostalgia', 'trip']",1
+2023,"['ursula', 'burton', 'portrayal', 'nun', 'touching', 'funny', 'time', 'fun', 'nun', 'church']",1
+2024,"['look', 'movie', 'terrific', 'cast', 'good', 'music(including', 'shirley', 'jones', 'rendition', 'way', 'look', 'tonight', 'uplift', 'ending', 'try']",1
+2025,"['think', 'disappoint']",1
+2026,"['frankly', 'cotton', 'club', 'unfaithful', 'kind', 'embarrassing', 'watch', 'lane', 'gere', 'film', 'bad']",0
+2027,"['acting', 'bad', 'dialog', 'extremely', 'shallow', 'insincere']",0
+2028,"['predictable', 'chick', 'flick']",0
+2029,"['politically', 'correct']",0
+2030,['disappointing'],0
+2031,"['thing', 'worth', 'watch', 'scenery', 'house', 'beautiful']",1
+2032,"['love', 'lane', 'movie', 'lousy']",0
+2033,"['hour', 'half', 'wish', 'bring']",0
+2034,"['term', 'writing', 'fresh', 'bold']",1
+2035,"['acting', 'help', 'writing', 'maybe', 'idiot', 'savant', 'sister', 'play', 'real', 'joy', 'watch']",1
+2036,"['directing', 'cinematography', 'good']",0
+2037,"['movie', 'boring', 'find', 'occupy', 'peaking', 'paper', 'instead', 'watch', 'happen', 'columbo', 'movie']",0
+2038,"['embarrassing', 'look', 'away']",0
+2039,"['directing', 'pretentious']",0
+2040,"['scene', 'oh', 'mature', 'neighbour', 'girl', 'misplace']",0
+2041,"['generally', 'line', 'plot', 'weak', 'average', 'episode']",0
+2042,"['scene', 'debate', 'sack', 'trumpeter', 'falsely', 'accuse', 'murder', 'pure', 'horror', 'stupid']",0
+2043,"['applause', 'prelude']",1
+2044,['like'],1
+2045,"['great', 'film', 'great', 'director']",1
+2046,"['movie', 'edge', 'seat', 'somewhat', 'afraid', 'car', 'end', 'night']",1
+2047,"['music', 'film', 'nice']",1
+2048,['advise'],1
+2049,['brilliant'],1
+2050,['10/10'],1
+2051,"['like', 'movie', 'way']",1
+2052,"['problem', 'think', 'actor', 'play', 'villain', 'low', 'rent', 'michael', 'ironside']",0
+2053,"['rock', 'world', 'certainly', 'social', 'physical', 'outlet']",1
+2054,"['fact', 'overall', 'tremendously', 'boring', 'movie']",0
+2055,"['chemistry', 'ben', 'affleck', 'sandra', 'bullock', 'film', 'understand', 'consider', 'leave', 'wife', 'chick', 'supposedly', 'knock']",0
+2056,"['moment', 'movie', 'need', 'excruciatingly', 'slow']",0
+2057,"['poor', 'remake', 'best', 'friend', 'wedding']",0
+2058,"['great', 'disappointment']",0
+2059,"['believe', 'actor', 'agree', 'film']",0
+2060,"['stand', 'watch', 'long', 'fear', 'lose', 'i.q.']",0
+2061,"['guess', 'network', 'air', 'dribble', 'watch']",0
+2062,"['imdb', 'rating', 'low', '1', 'awful', 'time', 'negative', 'number', 'case']",0
+2063,"['mirrormask', 'night', 'unsatisfactory', 'experience']",0
+2064,"['unfortunately', 'inexperience', 'direction', 'mean', 'scene', 'scene', 'pass', 'little', 'way', 'dramatic', 'tension', 'conflict']",0
+2065,"['central', 'theme', 'film', 'handle', 'ineptly', 'stereotypically', 'depth', 'imagination']",0
+2066,"['pretty', 'picture', 'world', 'piece', 'work', 'flawed', 'core']",0
+2067,"['hour', 'half', 'waste', 'time', 'follow', 'bunch', 'pretty', 'high', 'schooler', 'whine', 'cry', 'life']",0
+2068,"['relate', 'hell', 'barely', 'understand']",0
+2069,"['definitely', 'cult', 'classic', 'worth', 'view', 'share']",1
+2070,"['movie', 'pure', 'disaster', 'story', 'stupid', 'editing', 'bad', 'confuse', 'incredibly']",0
+2071,"['fish', 'badly', 'underwater', 'shot', 'repeat', 'thousand', 'time', 'film']",0
+2072,"['truly', 'truly', 'bad', 'film']",0
+2073,"['acting', 'terrible', 'writing', 'bad']",0
+2074,"['possible', 'way', 'movie', 'redeem', 'mst3', 'k', 'fodder']",0
+2075,['pay'],0
+2076,"['real', 'treat', 'anthony', 'quinn', 'play', 'crazy', 'horse']",1
+2077,['boring'],0
+2078,"['plot', 'whatsoever']",0
+2079,['plot'],0
+2080,['horrible'],0
+2081,"['bad', 'hour', 'half', 'life!oh', 'gosh']",0
+2082,"['walk', 'theatre', 'minute', 'relief']",0
+2083,"['hate', 'movie', 'like']",0
+2084,"['yeah', 'movie', 'pretty', 'suck']",0
+2085,"['plot', 'storyline']",0
+2086,"['movie', 'bring', 'pillow', 'girlfriend', 'boyfriend', 'occupy']",0
+2087,['awful'],0
+2088,"['think', 'movie', 'dislike']",0
+2089,"['good', 'thing', 'ticket', 'cost', 'dollar', 'mad', 'pay', '7.50', 'crap']",0
+2090,"['identify', 'character', 'cardboard', 'cutout', 'stereotype', 'predictably', 'reverse', 'stereotype']",0
+2091,"['bad', 'film', 'bad', 'writing', 'good', 'actor', '....', 'ugly', 'cartoon', 'craft', 'paul', 'haggis', 'people', 'handle', 'bold', 'stroke', 'storytelle', '....', 'picture', 'paint', 'crayon']",0
+2092,"['crash', 'depressing', 'little', 'provoke', 'emotion', 'teach', 'know', 'racism', 'prejudice', 'bad', 'thing']",0
+2093,"['like', 'movie', 'empowerment', 'woman', 'movie', 'like']",1
+2094,"['brain', 'attempt', 'shut', 'primal', 'impulse', 'self', 'preservation']",0
+2095,"['leave', 'shatter', 'experience', 'watch', 'film', 'good', 'hour', 'fully', 'recover']",0
+2096,"['movie', 'join', 'revenge', 'boogeyman', 'zombiez', 'hellish', 'trinity', 'horror', 'film']",0
+2097,"['certainly', 'mean', 'distinction', 'good', 'way']",0
+2098,"['mean', 'terrible', 'way']",0
+2099,"['film', 'redeem', 'feature']",0
+2100,['appal'],0
+2101,"['artless', 'camera', 'work', 'endlessly', 'present', 'ugly', 'setting', 'imaginable', 'i.e.']",0
+2102,"['story', 'stupid']",0
+2103,"['script', 'script']",0
+2104,"['kid', 'annoying']",0
+2105,"['lead', 'man', 'charisma', 'free']",0
+2106,"['utterly', 'merit', 'level', 'akin', 'torture']",0
+2107,"['\x96', 'torture']",0
+2108,"['maybe', 'reasonable', 'explanation', 'atrocity']",0
+2109,"['pleasant', 'voyage', 'self', 'discovery']",0
+2110,"['highly', 'unrecommended']",0
+2111,"['premise', 'sound', 'stupid']",0
+2112,"['yes', 'bad']",0
+2113,['recommend'],0
+2114,"['excellent', 'performance', 'ms.']",1
+2115,"['garbo', 'right', 'bat', 'talent', 'carry', 'silent', 'era', 'want', 'silent', 'work', 'netflix', 'stock']",1
+2116,"['great', 'renowned', 'silent', 'screenwriter', 'frances', 'marion', 'miss', 'step', 'silent', 'sound']",1
+2117,"['movie', 'suffer', 'writing', 'need', 'suspense']",0
+2118,['close'],0
+2119,"['movie', 'drag', 'hero', 'work', 'freedom']",0
+2120,"['movie', 'definitely', 'average', 'rent']",0
+2121,"['love', '1', 'movie', 'bad', '0', 'bad', '0', 'film', 'way', 'long', '0', 'definitely', 'bad', '0', 'movie', 'receive', 'great', 'quality', 'film', 'age', '1', 'john', 'wayne', 'incredible', 'job', 'young', 'movie', 'industry', '1', 'screen', 'presence', 'shine', 'think', 'senior', 'actor', 'screen', '1', 'think', 'old', 'john', 'wayne', 'film', '1', 'enjoy', 'movie', '0', 'think', 'movie', 'half', 'boring', 'self', 'indulgent', 'piece', 'junk', '0', 'probably', 'director', 'spend', 'movie', 'showcase', 'art', 'work', 'noteworthy', '0', 'thing', 'like', 'character', 'got', 'punch', 'face', 'gallon', 'blood', 'spew', 'forth', 'soon', '0', 'jamie', 'foxx', 'absolutely', 'ray', 'charles', '1', 'performance', 'simply', 'genius', '1', 'film', 'spacek', 'coal', 'miner', 'daughter', 'quaid', 'great', 'balls', 'fire']",1
+2122,"['fact', 'hard', 'remember', 'ray', 'charles', 'act', 'play', 'man', '1', 'ray', 'charles', 'legendary', '1', 'ray', 'charles', 'life', 'provide', 'excellent', 'biographical', 'material', 'film', 'movie', 'musician', '1', 'hitchcock', 'great', 'director', '1', 'ironically', 'find', 'film', 'total', 'waste', 'time', 'watch', '0', 'secondly', 'hitchcock', 'pretty', 'perfect', 'thriller', 'chase', 'movie', '1', 'pandering', 'audience', 'sabotage', 'film', '0', 'story', 'lack', 'certain', 'energy', '0', 'plot', 'simply', 'rumble', 'like', 'machine', 'desperately', 'depend', 'addition', 'new', 'scene', '0', 'usual', 'hitchcock', 'logic', 'flaw', '0', 'mishima', 'extremely', 'uninteresting', '0', 'chilly', 'unremarkable', 'movie', 'author', 'live', 'work', 'chilly', 'abstruse', 'culture', '0', 'flat', 'reenactment', 'hold', 'attention', 'emotionally', 'adrift', 'stagy', '0', 'rest', 'sit', 'awful', '...', 'soldier', 'singe', 'song', 'masculinity', 'pledge', 'hairsplitte', 'purity', 'admiration', 'sword', 'etc', '0', 'bore', 'piece', 'kill', 'momentum', 'movie', 'quick', '0', 'schrader', 'resume', 'lousy', 'amateurish', 'film', '0', 'watch', 'movie', '80', 'love', '1', 'totally', 'fascinated', 'music', 'dancing', '...', '1', 'recently', 'watch', 'thing', 'dvd', 'completely', 'strike', 'extremely', 'stupid', 'storyline', 'contain', 'hole', 'inconsistency', 'frankly', 'lot', 'crap', 'horrid', 'dancing', '0', 'mean', 'realistic', 'world', 'ballet', 'repertory', '...', 'thing', 'pathetic', '0', 'character', 'development', 'lack', 'depth', '0', 'woa', 'talk', 'awful', '0', 'waste', 'time', '0', 'horrible', '0', 'bad', 'sappiest', 'dialogue', '...', '0', 'unwatchable', 'direction', '0', 'poor', 'actor', '0', 'tell', 'talent', 'pathetic', 'line', 'speak', 'director', 'action', '0', 'check', 'director', 'filmography', 'site', 'film', 'chance', '0', 'good', 'tv', 'flick', '0', 'good', 'intention', 'film', 'great', 'film', 'great', 'film', '1', 'film', 'great', 'actor', 'master', 'director', 'significant', 'theme', '--', 'significant', 'theme', 'undertone', 'existential', 'world', 'weariness', 'aerial', 'scene', 'ought', 'thrill', 'sense', 'imagination', 'character', 'deeply', 'care', '1', 'regrettably', 'film', 'fail', '0', 'movie', 'lack', 'visual', 'interest', 'drama', 'expression', 'feeling', 'celebration', 'patriotism', 'underline', 'narrative', '0', 'actress', 'worse', 'use', 'june', 'allison', 'movie', '0', 'enjoy', 'watch', '1', 'unfortunately', 'bad', 'movie', 'plain', 'bad', '0', 'bad', 'script', 'bad', 'direction', 'horrible', 'acting', 'plain', 'bad', '0', 'dialogue', 'suck', '0', 'cinematography', 'suck', '0', 'soundtrack', 'suck', '0', 'acting', 'suck', '0', 'concert', 'sequence', 'suck', '0', 'nice', '1', 'funny', '1', 'funny', '1', 'overall', 'movie', 'cheap', 'trash', '0', 'movie', 'funny', 'consider', 'ridiculousness', '0', 'come', 'feel', 'angry', '0', 'spoilers', 'surface', 'superbly', 'craft', '1', 'cinematography', 'simply', 'stunning', 'fx', 'state', 'art', '1', 'conceptually', 'offer', 'little', 'bit', 'everything-', 'everybody', 'parent', 'kid', 'fantasy', 'and/or', 'fx', 'fans', '1', 'single', 'sour', 'note', 'strike', 'acting', 'wise', 'surprisingly', 'solid', 'casting', '1', 'thing', 'consider', 'job', '1', 'thank', 'good', 'movie', 'like', 'release', '1', 'good', 'mexican', 'movie', 'understand', 'mexican', 'matter', 'identify', 'feel', '1', 'rank', 'highly', 'great', 'noir', 'crime', 'drama', 'incredible', 'performance', 'belmondo', 'lino', 'ventura', '1', 'attention', 'character', 'complex', 'psychological', 'portrayal', 'detail', 'loyalty', 'treachery', 'love', 'hope', 'tremendous', '1', 'excellent', 'drama', 'excellent', 'thriller', 'excellent', 'film', '1', 'good', 'melville', '1', 'film', 'simply', 'incredible', '1', 'truly', 'journey', 'eye', 'soul', 'child', '1', 'black', 'water', 'thriller', 'manage', 'completely', 'transcend', 'limitation', 'indie', 'flick', 'continually', 'subvert', 'expectation', 'emerge', 'intense', 'experience', '1', 'performance', 'real', 'gripping', 'crocdodile', 'extremely', 'black', 'water', 'website', 'believe', 'use', 'real', 'croc', 'swamp', 'location', 'fabulous', '1', 'thoroughly', 'enjoy', 'christopher', 'eccleston', 'control', 'tardis', 'continuation', 'series', '1', 'sure', 'try', 'film', '0', 'turn', 'good', 'day', 'feel', 'night', 'disturb', 'memory', 'guess', 'succeed', '0', 'lot', 'beautiful', 'place', '1', 'force', 'like', 'movie', '0', 'lame', '0', 'movie', 'pi**ed', '0', 'start', 'jerky', 'camerawork', '0', 'theater', 'think', 'sick', '0', 'summary', 'witticism', 'witty', '0', 'plot', 'let', '0', 'acting', 'bad', '0', 'bad', '0', 'billy', 'bob', 'rise', 'script', 'bad', '0', 'camerawork', 'bad', '0', 'rating', '1', '10', '0', 'amazing', 'finale', 'possibly', 'best', 'trilogy', 'time', '1', 'kieslowski', 'cease', 'amaze', '1', 'favourite', 'director', 'talented', 'director', 'history', 'cinema', '1', 'use', 'colour', 'french', 'flag', 'film', 'short', 'incredible', 'shot', 'scene', 'like', 'work', 'art', '1', 'visually', 'appealing', 'movie', '1', 'subtle', 'connection', 'film', 'awesome', '1', 'mention', 'huge', 'spoiler', 'love', 'ending', 'character', 'film', 'remain', 'survivor', 'ferry', 'disaster', 'valentine', 'young', 'judge', 'old', 'man', 'watch', 'tv', 'solidify', 'happiness', 'suffering', 'deal', 'year', '1', 'think', 'way', 'end', 'film', 'smile', 'face', 'great', 'way', 'wrap', 'amazing', 'film', 'trilogy', '1', 'recommend', 'love', 'film', 'movie', '...', 'work', 'art', '1', '10', '10', 'movie', 'trilogy', '1', 'literally', 'vomit', 'watch', 'film', '0', 'think', 'people', 'find', 'roth', 'pearl', '1', 'performance', 'award', 'stunning', '1', 'story', 'tell', 'eloquently', 'francis', 'ford', 'coppola', '25', 'year', 'early', 'unfold', 'gradually', 'leave', 'room', 'character', 'develop', '1', 'wonderful', 'location', 'lie', 'story', 'contrast', '1', 'beautiful', 'direct', 'film', 'nicola', 'roeg', 'wih', 'sublime', 'cast', '1', 'translate', 'movie', 'living', 'movie', '5', 'year', 'working', 'experience', 'find', 'offensive', 'intelligence', '0', 'strive', 'greatness', 'poetry', 'deliver', 'muddle', 'ridiculous', 'story', 'bunch', 'disparate', 'scene', 'pretentious', 'dialogue', '...', 'bad', 'kind', 'movie', 'reviewer', 'accurately', 'define', 'pretentious', 'crap']",0
+2123,"['find', 'movie', 'intelligent', 'masterful', 'intelligence', 'imagination', 'obviously', 'use', 'try', 'sense', 'pitiful', 'attempt', 'human', 'nature', 'try', 'sense', 'thing']",0
+2124,"['thing', 'tolerate', 'political', 'incorrectness', 'artistic', 'freedom', 'suspension', 'disbelief', 'slavic', 'female', 'character']",0
+2125,"['fun', 'funny', 'movie']",1
+2126,"['highly', 'entertaining', 'angle']",1
+2127,"['feature', 'outlandish', 'array', 'memorable', 'psychotic', 'lovable', 'nut']",1
+2128,"['enjoyment', 'run', 'play', 'game', 'dangerous']",1
+2129,"['sweet', 'moment']",1
+2130,"['telephone', 'repair', 'man', 'funny', 'reaction', 'nuts', 'bitchy', 'boss', 'truly', 'genuine']",1
+2131,"['character', 'film', 'tremendously', 'play']",1
+2132,"['find', 'funny']",1
+2133,"['actually', 'smart', 'movie']",1
+2134,"['brilliant', 'twist', 'ending']",1
+2135,"['love', '1', 'ending', 'perfect', '...', 'shed', 'tear', '1', 'thrilled', 'movie', 'like', '1', 'forget', '1', 'cult', '...', 'cult', 'classic', '1', 'depth', 'character', 'man', 'underneath', '0', 'malta', 'setting', 'dry', 'barren', 'dialogue', '0', 'movie', 'terrible', '0', 'hockey', 'scene', 'terrible', 'defenseman', 'play', 'like', '5', 'year', 'old', 'goalie', 'diving', 'shot', '10', 'foot', 'wide', 'net', 'etc', '0', 'waste', 'time', '0', 'movie', 'drama', 'ridiculous', '0', 'start', 'watch', 'believe', 'character', '0', 'particular', 'relationship', 'bakery', 'assistant', 'waitress', 'work', '0', 'superficial', 'movie', 'feeling', 'watch', 'play', 'film', '0', 'character', 'stagey', 'storyline', 'lot', 'like', 'stage', 'farce', '0', 'time', 'pyromaniac', 'waylay', 'assistant', 'bored', 'care', 'happen', 'switch', '0', 'glad', 'pay', '0', 'laugh', 'smile', '0', 'big', 'yawn', '...', '0', 'good', 'watch', '1', 'educational', 'child', '1', '8', 'year', 'old', '1', 'barney', 'definitely', 'super', 'de', 'duper', '1', 'pretty', 'funny', '1', 'babie', 'bop', 'cute', '1', 'kid', 'cool', '1', 'storm', 'trooper', 'bad', 'list', 'wonderfully', 'terrible', 'movie']",0
+2136,['lame'],0
+2137,"['guy', 'dialogue', 'potted', 'plant', 'right']",0
+2138,"['movie', 'stupid']",0
+2139,"['love', 'bad', 'movie', 'watch', 'movie']",0
+2140,['shameful'],0
+2141,"['television', 'series', '10', 'plus']",1
+2142,"['writer', 'smack', 'think', 'good', 'actor', 'actress', 'bonus', 'character', 'real']",1
+2143,"['tape', 'episode', 'find', 'watch']",1
+2144,"['know', '10']",1
+2145,"['know', 'exactly', 'movie', 'latch', 'endear', 'movie', 'special', 'family', 'memory']",1
+2146,"['totally', 'absolutely', 'recommend', 'movie', 'like', 'good', 'wholesome', 'family', 'movie', 'exactly']",1
+2147,"['thing', 'kid', 'absolutely', 'hilarious', 'watch']",1
+2148,"['good', 'movie', 'strong', 'sibling', 'bond']",1
+2149,"['interesting', 'action', 'suspense', 'unneeded', 'controversy']",1
+2150,"['act', 'cinematography', 'solid']",1
+2151,"['damian', 'talented', 'versatile', 'way', 'write', 'portray', 'different', 'character', 'screen']",1
+2152,"['movie', 'cut', 'edge']",1
+2153,"['pleased', 'know', 'modern', 'day', 'genius', 'let', 'passion', 'art', 'drive', 'audience']",1
+2154,"['new', 'character', 'memorable', 'find', 'forget']",0
+2155,"['feel', 'ireland', 'absolutely', 'whatsoever']",0
+2156,"['scared', 'horrified', 'sympathetic', 'character', 'simply', 'annoying']",0
+2157,"['jerky', 'camera', 'movement', 'annoying']",0
+2158,"['plot', 'pretty', 'cheap', 'horror']",0
+2159,"['pathetic', 'attempt', 'character', 'depth', 'work', 'rest', 'plot']",0
+2160,"['guess', 'suppose', 'clever', 'twist', 'shed', 'light', 'situation', 'stupid']",0
+2161,"['probably', 'leave', 'shelf']",0
+2162,"['elias', 'koteas', 'jack', 'palance', 'play', 'good', 'role', 'angelina', 'hot', 'naked', 'billy', 'drago', 'appear', 'cool', 'usual', 'cameo', 'sven', 'ole', 'thorsen', 'help', 'enjoyable', 'movie', 'good', 'acting', 'decent', 'budget']",1
+2163,"['awesome', 'movie', 'buy', 'ebay']",1
+2164,"['love', 'story', 'line', 'pol', 'bear', 'kinda', 'cute', 'question', 'fort', 'steele', 'ask', 'away', ':)']",1
+2165,"['totally', 'unfunny', 'movie', 'pathetic', 'unrealistic', '90', 'minute', 'utter', 'torture', 'probably', 'look', 'watch', '70000', 'time']",0
+2166,"['lucy', 'bell', 'high', 'crap', 'sink', 'low', 'depressing']",0
+2167,"['movie', 'sick', 'watch', 'slacker', 'excuse', 'stupid', 'action', '90', 'minute']",0
+2168,"['god', '90', 'minute']",0
+2169,"['think', 'wonderful', 'literally', 'wonder', 'excerpt', 'work']",1
+2170,"['set', 'especially', 'design', 'work', 'camera', 'amazing', '....', 'stylize', 'beautiful', 'effective']",1
+2171,"['use', 'exemplar', 'set', 'designer']",1
+2172,"['story', 'powerful', 'exploration', 'nature', 'man', 'art']",1
+2173,"['watch', 'film', 'want', 'learn', 'work', 'artist']",1
+2174,"['highly', 'recommend', 'movie', 'interested', 'art', 'poetry', 'theater', 'politic', 'japanese', 'history']",1
+2175,"['wind', 'lion', 'wonderful', 'rendering', 'america', 'imperial', 'age']",1
+2176,"['story', 'different', 'terrific', 'production', 'value', 'faultless', 'photography', 'composition', 'editing', 'terrific', 'casting', 'underappreciated', 'brian', 'keith', 'play', 'bully', 'teddy', 'vivid', 'history']",1
+2177,"['wind', 'lion', 'tell', 'largely', 'eye', 'son', 'member', 'family', 'identify', 'character', 'sean', 'connery', 'noble', 'brigand', 'candace', 'bergen', 'feisty', 'heroine', 'john', 'huston', 'wily', 'john', 'hay', 'steve', 'kanaly', 'spiffy', 'radiant', 'ruthless', 'lieutenant', 'roosevelt', 'big', 'stick']",1
+2178,"['high', 'adventure', 'good']",1
+2179,"['think', 'robert', 'ryans', 'good', 'film', 'portray', 'like', 'father', 'schizophrenic', 'real', 'life,(my', 'father', 'murder', 'affect', 'second', 'world', 'war', 'bad']",1
+2180,"['humour', 'day', 'apt']",1
+2181,"['mother', 'brother', 'this)when', 'robert', 'ryan', 'portray', 'type', 'man', 'good', 'imitation', 'type', 'individual', 'impressed']",1
+2182,"['song', 'cover', 'girl', 'old', 'fashioned', 'tuneful']",0
+2183,"['annoying', 'thing', 'cover', 'girl', 'way', 'rita', 'hayworth', 'pedestal']",0
+2184,"['unfortunately', 'cover', 'girl', 'example', 'hollywood', 'use', 'exploit', 'woman', 'financial', 'gain']",0
+2185,"['non', 'linear', 'narration', 'flashback', 'articulate']",1
+2186,"['good', 'cinematography', 'monica', 'bellucci', 'look', 'beautiful']",1
+2187,"['good', 'commentary', 'today', 'love', 'undoubtedly', 'film', 'worth']",1
+2188,"['people', 'timer', 'film', 'making', 'think', 'excellent', 'job']",1
+2189,"['popular', 'cinema', 'good', 'house', 'good', 'reaction', 'plenty', 'laugh']",1
+2190,"['feel', 'good', 'film', 'feel', 'come', 'cinema']",1
+2191,"['northern', 'humour', 'positive', 'community', 'represent']",1
+2192,['enjoy'],1
+2193,['like'],1
+2194,['seriously'],0
+2195,"['create', 'unique', 'feeling']",1
+2196,"['vivian', 'schilling', 'excellent', 'job', 'script']",1
+2197,"['world', '95', 'garbage', 'theatre', 'today']",1
+2198,"['role', 'play']",1
+2199,"['screamy', 'masculine', 'right']",1
+2200,"['camera', 'like', 'movie']",1
+2201,"['cast', 'role', 'ready', 'script']",1
+2202,"['european', 'movie', 'nice', 'throwback', 'time', 'student', '1980', 'experience', 'live', 'abroad', 'interact', 'nationality', 'circumstance', 'slightly', 'different']",1
+2203,"['fan', '...', 'movie', 'suck', 'bad']",0
+2204,"['bad', 'ticker']",0
+2205,"['movie', 'bad']",0
+2206,"['like', '3', '4', 'building', 'use', 'couple', 'location', 'maybe', 'poor', 'hummh']",0
+2207,['blow'],0
+2208,"['movie', 'excellent!angel', 'beautiful', 'scamp', 'adorable!his', 'little', 'yelp', 's', 'scared', 'funniest', 'scamp', 'catch', 'curtain', 'angel', 'scamp', 'singe', 've', 'feel', ""before'"", 'totally', 'recommend', 'movie', 'come', 'special', 'edition', 'june', '20.the', 'cover', 'scamp', 'garbage', 'angel', 'underneath', 'lid']",1
+2209,"['explain', 'movie', 'romantic', 'charming', 'hilarious', 'adorable', 'junkyard', 'scene', 'funny', 'junkyard', 'dog', 'special', 'funny', 'laugh', 'kid', 'love', 'buy', 'come', 'new', 'feature']",1
+2210,"['choose', 'torture', 'disgusting', 'piece', 'blatant', 'american', 'propaganda']",0
+2211,"['americans', 'stupid', 'hatred', 'cliché', 'admit']",0
+2212,"['involve', 'return', 'school', 'acting', 'utterly', 'predictable', 'bad', 'script', 'pile', 'garbage', 'round']",0
+2213,"['wish', 'enter', 'negative', 'value', 'admin']",0
+2214,"['set', 'bad', 'look', 'place', 'thunderbirds', 'episode']",0
+2215,"['use', 'slow', 'motion', 'needlessly', 'repeat', 'movie', 'bad', 'acting', 'bad', 'kind', 'word', 'continuity', 'scene', 'throw', 'reason', 'whatsoever', 'vehicle', 'look', 'like', 'corn', 'flakes', 'box', 'directorial', 'style', 'border', 'stupidity']",0
+2216,"['oh', 'yeah', 'storyline', 'pathetic']",0
+2217,"['hate', 'write', 'bad', 'review', 'film', 'especially', 'like', 'star', 'film', 'bad', 'believe', 'second', 'proud']",0
+2218,"['filmmaker', 'director', 'hide', 'head', 'sand', 'spend', 'money', 'time', 'movie']",0
+2219,"['short', 'monumental', 'waste', 'time', 'energy', 'recommend', 'film']",0
+2220,"['come', 'free', 'dvd', 'player', 'buy', 'turn', 'thing', 'halfway', 'embarrassed', 'howell']",0
+2221,"['1/10', 'setting', '0/10']",0
+2222,"['interesting', 'premise', 'billy', 'drago', 'good', 'dangerous', 'nut', 'bag', 'note', 'love', 'drago', 'stephen', 'mchattie', 'lance', 'hendrikson', 'flick', 'talk', 'rage', 'cheekbone']",1
+2223,"['soundtrack', 'terrible']",1
+2224,"['act', '--', 'professional', 'drago', 'debbie', 'rochon', '--', 'terrible', 'directing', 'bad', 'contributory', 'dialog', 'chimp', 'like', 'camera', 'work', 'barely', 'tolerable']",0
+2225,"['sets', 'big', '10', 'oy', 'vey', 'scale']",1
+2226,"['yes', 'simplify', 'thing', 'sake', 'brevity', 'core', 'problem', 'film', 'real', 'fulfilling', 'explanation']",0
+2227,"['good', 'job', 'amusing']",1
+2228,"['convoluted', 'plot', 'convince', 'film', 'watch', 'weird', 'question', 'glance']",0
+2229,"['let', 'girlfriend', 'talk', 'bad', 'idea', 'hate']",0
+2230,"['15', 'minute', 'movie', 'bad']",1
+2231,"['bela', 'lugosi', 'totally', 'extraneous', 'intone', 'odd', 'line']",0
+2232,"['acting', 'decidely', 'wooden', 'bad', 'period', 'universal', 'b', 'movie']",0
+2233,"['like', 'armand', 'assante', 'cable', 'company', 'summary', 'sound', 'interesting', 'watch', 'twice', 'probably']",1
+2234,"['believe', 'screenwriter', 'good', 'job', 'tie', 'loose', 'end']",1
+2235,"['8/10', 'score', 'plot']",1
+2236,"['like', 'spoiler', 'want', 'believe', 'film', 'worth', 'time']",1
+2237,"['wow', 'bad', 'film']",0
+2238,"['frightening', 'barely', 'comprehensible']",0
+2239,"['plot', 'hang', 'acting', 'absolutely', 'appalling']",0
+2240,"['good', 'camp', 'value']",0
+2241,"['expect', 'oscar', 'material']",0
+2242,"['iq', 'particularly', 'stupid', 'mollusk', 'come']",0
+2243,"['film', 'use', 'word', 'loosely', 'insult', 'movie', 'public']",0
+2244,"['involve', 'know', 'stre', 'narrative']",0
+2245,"['1', '10', 'simply', 'low']",0
+2246,"['watch', 'recently', 'fox', 'movie', 'channel', 'disappointed']",0
+2247,"['know', 'contract', 'player', 'little', 'control', 'script', 'acting', 'bad', 'script']",0
+2248,"['victor', 'mclaglen', 'bad', 'brian', 'donlevy', 'unrecognizable']",0
+2249,"['consider', 'relation', 'screen', 'taylor', 'stanwyck', 'surprising', 'little', 'chemistry', 'screen']",0
+2250,"['premise', 'film', 'ridiculous', 'president', 'u.s.']",0
+2251,"['death', 'row', 'scene', 'entirely', 'unmove']",0
+2252,"['thing', 'bad', 'taylor', 'acting', 'stanwyck', 'singing']",0
+2253,"['producer', 'miss', 'entirely']",0
+2254,"['deeply', 'impressed', 'character', 'play']",1
+2255,"['know', 'film', 'great', 'thing', 'come', 'gifted', 'actor']",1
+2256,"['cheap', 'cheerless', 'heist', 'movie', 'poor', 'characterisation', 'lot', 'underbite', 'style', 'stoic', 'emoting', 'think', 'chow', 'yun', 'fat', 'better', 'tomorrow', 'cheesy', 'clichés', 'throw', 'abandon', 'factory', 'ready', 'poorly', 'execute', 'fly', 'judo', 'roll', 'la', 'john', 'woo']",0
+2257,"['squibs', 'look', 'awful']",0
+2258,"['point', 'proceeding', 'look', 'remotely', 'like', 'america']",0
+2259,"['plot', 'derivative', 'predictable', 'ending', 'like', 'mercy', 'killing']",0
+2260,"['awful', 'dialogue', 'hopeless', 'overacting', 'gets', 'shoot', 'real', 'waste', 'space', 'time']",0
+2261,"['uneasy', 'bad', 'movie', 'scared']",0
+2262,"['dialogue', 'compose', 'thing', 'little', 'sense']",0
+2263,"['30', 'minute', 'footage', 'waste', 'mediocre', 'elderly', 'actor', 'awkwardly', 'babble', 'overwrought', 'pseudo', 'satanic', 'gibberish', 'corny', 'teen', 'goth', 'blush', 'olde', 'english', 'latin', 'word']",0
+2264,"['directing', 'sloppy']",0
+2265,"['hackneyed', 'writing', 'certainly', 'bad', 'bad', 'directing']",0
+2266,"['course', 'acting', 'blah']",0
+2267,"['acting', 'cast', 'scale', 'balance', 'perfectly', 'overacting', 'underacting']",0
+2268,"['finally', 'ending', 'great', 'handle', 'competent', 'people', 'jerry', 'falwell']",0
+2269,"['love', 'movie', 'great', 'portrayal', 'family', 'share', 'end', 'know', 'special', 'love']",1
+2270,"['movie', 'star', 'jaclyn', 'smith', 'god', 'good', 'come', '12', 'year', 'ago']",1
+2271,"['movie', 'contain', 'star', 'cast', 'love', 'open', 'eye', 'actor']",1
+2272,"['movie', 'kind', 'long', 'length', 'enjoy', 'minute']",1
+2273,"['overall', 'rate', 'movie', '10', '1', '10', 'scale']",1
+2274,"['lifetime', 'air', 'know', 'store', 'sell', 'let', 'know']",1
+2275,"['particularly', 'remember', 'sense', 'assault', 'strident', 'cord', 'music', 'blare', 'little', 'warning', 'meaning']",0
+2276,"['sort', 'pap', 'screen', 'afternoon', 'punish', 'unemployed', 'job']",0
+2277,"['totally', 'different', 'load', 'understatement', 'black', 'comedy', 'film', 'remember']",1
+2278,"['movie', 'create', 'universe', 'fascinating', 'way']",1
+2279,['movie'],1
+2280,[],1
+2281,"['hope', 'team', 'movie', 'movie', 'continue', 'kinda', 'weird', 'style']",1
+2282,"['forgot', 'cast', 'superb', 'trond', 'fausa', 'aurvåg', 'perfect', 'role', 'bothersome', 'man', 'understand']",1
+2283,"['movie', 'good', 'humorous', 'comment', 'life', '2006']",1
+2284,"['find', 'beautiful', 'enjoyable', 'uplifting']",1
+2285,"['initially', 'local', 'site', 'film', 'film', 'buffalo', 'intrigue']",1
+2286,"['later', 'find', 'lose', 'power', 'film']",1
+2287,"['entire', 'audience', 'applaud', 'conclusion', 'film']",1
+2288,"['leave', 'theater', 'lilt', 'step', 'joy', 'heart', 'hope', 'human', 'race']",1
+2289,"['duris', 'wholesome', 'appearance', 'fine', 'performance']",1
+2290,"['rest', 'cast', 'play']",1
+2291,"['cinematography', 'noteworthy', 'include', 'fine', 'view', 'barcelona', 'famed', 'gaudi', 'tower']",1
+2292,"['minute', 'film', 'start', 'second', 'thought']",0
+2293,"['half', 'way', 'film', 'start', 'dislike']",0
+2294,"['time', 'film', 'end', 'dislike', 'despise']",0
+2295,"['film', 'lack', 'convincing', 'script']",0
+2296,"['script', 'look', 'rough', 'draft', 'write', 'shoot', 'begin', 'finished', 'script', 'complete']",0
+2297,"['thing', 'happen', 'character', 'personality', 'change', 'plot', 'twist', 'occur', 'real', 'reason', 'script']",0
+2298,"['cast', 'good']",1
+2299,"['worth', 'check']",1
+2300,"['probably', 'irritate', 'entire', 'life']",0
+2301,"['indescribably', 'annoying', 'idiotic']",0
+2302,['bad'],0
+2303,"['understand', 'kind', 'idiot', 'produce', 'mess', 'place', 'mention', 'season']",0
+2304,"['script', 'bad', 'bad', '\x96', 'contain', 'cheesiness', 'unethical', 'joke', 'normally', 'rate', 'r', 'nc-17', 'movie']",0
+2305,"['casting', 'horrible', 'cause', 'bad', 'actors', 'period']",0
+2306,"['final', 'word', 'real', 'torture']",0
+2307,"['zillion', 'time', 'away', 'reality']",0
+2308,"['watch', 'washing', 'machine', 'twirl', 'hurt', 'eye']",0
+2309,"['rating', '0/10', 'grade', 'z', 'note', 'bad', 'mother', 'cast', 'pull', 'daughter']",0
+2310,"['20th', 'century', 'fox', 'road', 'house', '1948', 'silly', 'noir', 'implausible', 'unmitigated', 'bore', 'movie']",0
+2311,"['unconvincing', 'cardboard', 'character', 'blandly', 'write', 'edward', 'chodorov', 'produce', 'surprisingly', 'direct', 'jean', 'negulesco', 'expect', 'great', 'deal']",0
+2312,"['widmark', 'character', 'turn', 'unintentionally', 'comical']",0
+2313,"['lose', 'marble', 'early', 'proceeding', 'totally', 'implausible', 'unconvincing']",0
+2314,"['mess', 'movie', 'picture', 'mar', 'constant', 'use', 'studio', 'set', 'indoor', 'exterior']",0
+2315,"['prompt', 'documentary']",0
+2316,"['spoiler', 'movie', 'huge', 'disappointment']",0
+2317,"['problem', 'know', 'start']",0
+2318,"['cast', 'great']",1
+2319,"['steve', 'martin', 'deliver', 'funny', 'performance', 'middle', 'aged', 'upper', 'class', 'uptight', 'white', 'guy']",1
+2320,"['add', 'betty', 'white', 'jean', 'smart', 'great', 'cast', 'play']",1
+2321,"['movie', 'lot', 'mistake']",0
+2322,"['racial', 'stereotype', 'racial', 'joke', 'offend']",0
+2323,"['movie', 'litter', 'overt', 'racial', 'slur', 'black', 'cast', 'member', 'return', 'white', 'depict', 'moron', 'boob']",0
+2324,"['race', 'card', 'aside', 'let', 'look', 'major', 'flaw', 'film', 'destroy', 'latifa', 'character']",0
+2325,"['real', 'plot']",0
+2326,"['movie', 'free']",0
+2327,"['steamboat', 'willie', 'amazingly', 'important', 'film', 'cinema', 'history']",1
+2328,"['second', 'appearance', 'mickey', 'mouse', 'follow', 'silent', 'plane', 'crazy', 'early', 'year', 'probably', 'famous', 'film', '--', 'ground', 'breaking']",1
+2329,"['hear', 'mickey', 'speak', 'ton', 'sound', 'effect', 'music', 'film', '--', 'grant', 'huge', 'crowd', 'pleaser', '1928']",1
+2330,"['short', '25', 'year', 'amazed', 'timeless', 'film', 'actually']",1
+2331,"['adorable', 'mickey', 'play', 'turkey', 'straw', 'highly', 'imaginative', 'occasionally', 'cruel', 'way']",1
+2332,"['clever', 'real', 'crowd', 'pleaser', '--', 'film', 'rank', 'mickey', 'good', 'film', '80', 'wonderful', 'year']",1
+2333,"['bipolarity', 'ruthless', 'thug', 'minute', 'ruthless', 'killer', 'minute', 'luv', 'diaper', 'commercial', 'completely', 'unconvincing']",0
+2334,"['terribly', 'disappointed', 'film', 'receive', 'award', 'accolade', 'especially', 'far', 'deserving', 'work', 'film']",0
+2335,"['original', 'body', 'soul', '1947', 'masterpiece']",1
+2336,"['john', 'garfield', 'ann', 'revere', 'lilli', 'plmer', 'william', 'conrad', 'canada', 'lee', '...', 'film', 'great', 'cinematographer', 'grace', 'screen', '..', 'james', 'wong', 'howe']",1
+2337,"['think', 'redeem', 'quality', 'remake']",0
+2338,"['bad', 'film']",0
+2339,"['bad', '...', '...', 'bad']",0
+2340,"['movie', 'solid', 'example', 'bad', 'plot', 'bad', 'idea', 'way']",0
+2341,"['shame', 'good', 'actor', 'like', 'thomerson', 'james', 'living', 'mess', 'like']",0
+2342,"['think', 'bad']",0
+2343,"['film', 'terrible', 'credit', '1986', 'version', 'watchable']",0
+2344,"['let', 'start', 'problems\x97the', 'acting', 'especially', 'lead', 'professor', 'bad']",0
+2345,"['script', 'big', 'flawed', 'mess']",0
+2346,"['good', 'example', 'dumb', 'writing', 'establish', 'turn', 'zombie', 'student', 'human', 'remove', 'necklace', 'contain', 'piece', 'meteorite']",0
+2347,"['director', 'paul', 'matthews', 'write', 'direct', 'weak', '1995', 'monster', 'movie', 'grim', 'clearly', 'know', 'pace', 'film']",0
+2348,"['movie', 'terribly', 'boring', 'place']",0
+2349,"['lighting', 'awful']",0
+2350,"['film', 'look', 'cheap', 'bland']",0
+2351,"['disappointing', 'aspect', 'lack', 'notable', 'gore']",0
+2352,"['convention', 'work', 'past', 'certainly', 'work']",0
+2353,"['visual', 'effect', 'awful']",0
+2354,"['cg', 'opening', 'sequence', 'space', 'look', 'like', 'create', 'microsoft', 'slideshow', 'god', 'sake']",0
+2355,"['explosion', 'gas', 'tank', 'end', 'awful']",0
+2356,"['okay', 'like', 'consider', 'fair', 'critic', 'credit', 'credit', '--', 'creature', 'effect', 'actually', 'pretty', 'cool']",1
+2357,"['got', 'love', 'close', 'slimy', 'drool', 'tooth']",1
+2358,"['sum', 'film', 'breeders', 'terrible', 'cheaply', 'horror', 'movie', 'avoid', 'like', 'ebola', 'virus']",0
+2359,['recommend'],0
+2360,"['unbearable', 'watch', 'screen', 'little', 'charisma', 'terrible', 'comedic', 'timing']",0
+2361,"['aside', 'terrible', 'lead', 'film', 'load', 'debit']",0
+2362,"['understand', 'suppose', 'cheap', 'popcorn', 'comedy', 'mean', 'completely', 'insult', 'intelligence', 'write', 'incredibly', 'hackneyed', 'border', 'offensive']",0
+2363,"['lewis', 'black', 'considerable', 'talent', 'waste', 'incendiary', 'unrestrained', 'pg-13', 'rating', 'certainly', 'allow']",0
+2364,"['film', 'sole', 'bright', 'spot', 'jonah', 'hill', 'look', 'unrecognizable', 'fan', 'recent', 'superbad', 'weight', 'lose', 'interim']",1
+2365,"['originality', 'freshness', 'movie', 'spend', 'remake', 'little', 'offer']",0
+2366,"['budget', 'evidently', 'limited']",0
+2367,"['reflect', 'cast', 'par', 'script', 'borrow', 'early', 'classic']",0
+2368,"['decent', 'acting', 'action', 'location', 'work', 'balance', 'thing']",0
+2369,"['filmiing', 'expansive']",0
+2370,"['fail', 'convey', 'broad', 'sweep', 'landscape', 'great', 'original']",0
+2371,"['generally', 'lack', 'imagination']",0
+2372,"['possible', 'movie', 'bad']",0
+2373,"['plot', 'place']",0
+2374,"['woman', 'finally', 'sign', 'improvement', 'expect', 'thing', 'happen', 'time', 'film', 'far', 'asleep']",0
+2375,"['beware', 'trashy', 'cult', 'movie', 'trash', '-period']",0
+2376,"['believe', 'sequel']",0
+2377,"['precisely', 'bad', 'review']",0
+2378,"['90', 'child', 'truly', 'enjoy', 'proudly', 'enjoy', 'big', 'time', 'classical', 'wb', 'cartoon']",1
+2379,"['tiny', 'toons', '90', 'vibe', 'deliver', 'popular', 'funny', 'underrated', 'cartoon', 'create']",1
+2380,"['memory', 'murky', 'enjoy', 'single', 'episode', 'product', 'relate']",1
+2381,"['easily', 'cartoon', 'laugh', 'tender', 'way', 'dark', 'sitcom', 'orient', 'teenager']",1
+2382,"['character', 'funny', 'peculiarity', 'true', 'lead', 'character']",1
+2383,"['single', 'character', 'hilarious', 'deserve', 'lead']",1
+2384,"['element', 'story', 'excessively', 'phony', 'contrive', 'painful', 'sit']",0
+2385,"['line', 'write', 'year', 'old', 'try', 'oh', 'hard', 'sound', 'like', 'year', 'old', 'um', 'know', '...', 'talk']",0
+2386,"['perabo', 'nice', 'energy', 'level', 'obviously', 'comfortable', 'camera']",1
+2387,"['simply', 'excuse', 'poorly']",0
+2388,"['movie', 'think', 'stupid', 'movie']",0
+2389,"['stupid', 'think', 'idea', 'volcano', 'los', 'angeles']",0
+2390,"['honest', 'unbelievable', 'nonsense', 'foolish']",0
+2391,"['conclusion', 'bother', 'movie', 'volcano', 'los', 'angeles', 'nonsense']",0
+2392,"['story', 'line', 'awful']",0
+2393,['painful'],0
+2394,"['accent', 'absolutely', 'abysmal']",0
+2395,"['hypocrisy', 'film', 'vomit']",0
+2396,"['waste', 'time', 'watch', 'rubbish', 'non', 'researched', 'film']",0
+2397,"['believe', 'pitch', 'black']",1
+2398,"['character', 'interesting', 'want', 'find', 'long', 'movie', 'think', 'people', 'surprise']",1
+2399,['watch'],1
+2400,"['omit', 'watch']",0
+2401,['funny'],1
+2402,"['rating', '3', '10']",0
+2403,"['character', 'interesting', 'care']",1
+2404,"['instant', 'classic', 'great', 'soundtrack', 'catchy', 'song', 'end', 'credit']",1
+2405,['miss'],1
+2406,"['masterful', 'piece', 'film', 'making', 'theme', 'simmer', 'occasionally', 'boil', 'wart', 'study', 'poet', 'bohemian', 'self', 'indulgent', 'wartime', 'year', 'span', 'aerial', 'bombardment', 'london', 'outward', 'tranquillity', 'welsh', 'coastal', 'retreat', 'borderline', 'friendship', 'lust', 'love', 'dedication', 'art', 'experience', 'versus', 'practical', 'concern', 'jealousy', 'rivalry', 'cowardice', 'egotism', 'versus', 'heroism', 'self', 'sacrifice']",1
+2407,"['mature', 'subtle', 'script', 'suggest', 'occasionally', 'bring', 'dramatic', 'focus', 'underlie', 'tension', 'serve', 'perfect', 'performance', 'apart', 'odd', 'inappropriate', 'smile', 'keira', 'knightley', 'prone', 'direction', 'time', 'character', 'mention']",1
+2408,"['exquisite', 'visual', 'composition', 'moment', 'inventive', 'elegant', 'use', 'close', 'camera', 'angle', 'lighting', 'include', 'pointillistic', 'faux', 'home', 'movie', 'footage', 'wonder', 'joy', 'behold']",1
+2409,"['continuously', 'beautiful', 'look', 'bertolucci', 'relationship', 'convincing', 'narrative', 'engaging', 'master', 'work']",1
+2410,"['basic', 'premise', 'waste', 'sideline', 'inexplicable', 'focus', 'documentary', 'crew']",0
+2411,"['regardless', 'film', 'fail', 'level']",0
+2412,"['avoid', 'cost']",0
+2413,"['film', 'christmas', 'great', 'film']",1
+2414,"['think', 'errol', 'flynn', 'brilliant', 'custer', 'favourite', 'actor']",1
+2415,"['acting', 'alongside', 'olivia', 'de', 'havilland', 'brilliant', 'ending', 'fantastic']",1
+2416,"['know', 'errol', 'flynn', 'brilliant', 'actor', 'dad', 'favourite', 'actor', 'grow', 'watch', 'film', 'child']",1
+2417,"['watch', 'film', 'realise', 'great', 'actually']",1
+2418,"['film', '10', '10']",1
+2419,"['know', 'jim', ""o'connor"", 'energetic', 'george', 'dull']",0
+2420,"['want', 'host', 'voice', 'monotonous', 'involve', 'guest']",0
+2421,"['lovely', 'little', 'thriller', 'hitchcock', 'lot', 'nice', 'shenanigan', 'surround', 'murder', 'spy', 'kidnapped', 'child', 'nasty', 'church', 'foreign', 'plot', 'random', 'taxidermist']",1
+2422,"['jimmy', 'stewart', 'great', 'hero', 'hitchcock', 'story', 'rip', 'cool', 'climax', 'embassy', 'function', 'lack', 'brood', 'menace', 'hitchcock', 'black', 'white', 'low', 'budget', 'original']",1
+2423,"['wonderful', 'film', 'great', 'master', 'stable']",1
+2424,"['film', 'excellently', 'produce', 'rating', 'typical', 'sci', 'fi', 'film']",1
+2425,"['excellently', 'produce', 'sci', 'fi', 'good', 'producer', 'scot', 'vandiver']",1
+2426,"['entertaining', 'nonetheless']",1
+2427,"['campy', 'sort', 'film', 'joy', 'watch']",1
+2428,"['barely', 'boring', 'moment', 'film', 'plenty', 'humorous']",1
+2429,"['cast', 'entertaining', 'usual']",1
+2430,"['overall', 'delight']",1
+2431,"['movie', 'mind', 'bendingly', 'awful', 'create']",0
+2432,"['film', 'lack', 'real', 'scare', 'tension', 'medical', 'terminology', 'use', 'bit', 'iffy', 'insulin', 'dependant', 'diabetic']",0
+2433,['act'],0
+2434,"['movie', 'excellent', 'job', 'reveal', 'complexity', 'task', 'incredible', 'challenge', 'face', 'south', 'africa']",1
+2435,"['believe', 'movie', 'think', 'people', 'outside', 'south', 'africa', 'understand', 'past', 'attempt', 'truth', 'reconciliation', 'process']",1
+2436,"['short', 'magnificent', 'photography', 'cinematography', 'film']",1
+2437,"['acting', 'fantastic', 'story', 'seamlessly', 'weave', 'dog', 'splendid', '.............', 'rent', 'view']",1
+2438,"['afraid', 'subtitle', '........', 'worth', 'little', 'aversion', 'therapy', '10/10']",1
+2439,"['excellent', 'performance']",1
+2440,"['good', 'actor']",1
+2441,"['great', 'directing', 'photography']",1
+2442,"['true', 'shakespear', 'shakespear', 'fan']",1
+2443,"['macbeth', 'jason', 'connery', 'tear', 'final', 'monolog', 'brief', 'candle', 'out)he', 'sphere', 'moral', 'decay', 'dark', 'force', 'human', 'face', 'interesting']",1
+2444,"['helen', 'baxendale', 'credible', 'lady', 'macbeth', 'cheerfull', 'time', 'look', 'like', 'naughty', 'girl', 'deadly', 'taste', 'blood', 'evil']",1
+2445,"['love', 'death', 'decay', 'shakespears', 'lyric', '...']",1
+2446,"['witty', 'delightful', 'adaptation', 'dr', 'seuss', 'book', 'brilliantly', 'animate', 'upa', 'fine', 'thoroughly', 'deserving', 'academy', 'award']",1
+2447,"['special', 'mention', 'superb', 'music', 'score', 'sound', 'effect', 'integral', 'element', 'help', 'memorable', 'enjoyable', 'cartoon']",1
+2448,"['paul', 'schrader', 'film', 'mishima', 'superb', 'complex']",1
+2449,"['notable', 'john', 'bailey', 'fine', 'crisp', 'beautifully', 'colored', 'cinematography', 'great', 'production', 'design', 'costume', 'eiko', 'ishioka', 'memorable', 'costume', 'coppola', 'dracula', 'receive', 'deserved', 'oscar']",1
+2450,"['allow', 'poor', 'production', 'value', 'time', '1971', 'format', 'kind', 'mini', 'series', 'baaaaaad']",0
+2451,"['visually', 'collect', 'extant', 'film', 'austen', 'work', 'skip']",0
+2452,"['watch', 'small', 'consolation', 'actress', 'play', 'anne', 'sister', 'wonderful', 'job', 'role']",1
+2453,['good'],0
+2454,"['speak', 'music', 'unbearably', 'predictably', 'kitchy']",0
+2455,"['film', 'drop', 'ball']",0
+2456,"['stunning', 'movie']",1
+2457,"['raw', 'sublimely']",1
+2458,"['feel', 'like', 'gripping', 'intelligent', 'stage', 'play', 'overly', 'theatrical', 'feeling', 'actually', 'watch', 'people', 'stage', 'play', 'terror', 'white', 'lie', 'escalate', 'monstrous', 'consequence']",1
+2459,"['main', 'player', 'mesmerise']",1
+2460,"['tom', 'wilkinson', 'break', 'heart', 'end', '...', 'judge', 'fumble', 'hankie', 'hand', 'face', 'male', 'female', 'alike']",1
+2461,"['julian', 'fellowes', 'triumph']",1
+2462,"['national', 'treasure']",1
+2463,[],1
+2464,"['excellent', 'film']",1
+2465,"['aerial', 'scene']",1
+2466,"['right', 'balance', 'war', 'love']",1
+2467,"['film', 'meaning', 'phrase', 'history', 'human', 'conflict', 'owe']",1
+2468,"['kris', 'kristoffersen', 'good', 'movie', 'difference']",1
+2469,"['good', 'film', 'great', 'director']",1
+2470,"['definitely', 'documentary', 'look', 'family', 'relationship', 'marriage']",1
+2471,"['continuity', 'error', 'user', 'comment', 'different', 'car', 'garage', 'joe', 'glass', '...', 'fact', 'joe', 'facial', 'hair', 'configuration', 'change', 'scene', 'scene']",0
+2472,"['great', 'movie']",1
+2473,"['10', '10', 'star']",1
+2474,"['movie', 'inspiration', 'come', 'overcome', 'fear', 'rejection']",0
+2475,"['bad', 'actually', 'worth', 'reason']",0
+2476,"['punishment', 'park', 'brilliant', 'piece', 'cinema']",1
+2477,"['shoot', 'southern', 'california', 'desert', 'use', 'patent', 'faux', 'documentary', 'style', 'watkins', 'create', 'film', 'like']",1
+2478,"['peter', 'watkins', 'accessible', 'film']",1
+2479,"['advise', 'look']",1
+2480,['regret'],1
+2481,"['highly', 'recommend', 'a+']",1
+2482,"['...', 'think', 'bad']",0
+2483,"['mediocre', 'miserable', 'hollow', 'laughable', 'predictable', 'piece', 'garbage']",0
+2484,"['case', 'bad', 'laughable']",0
+2485,"['bad', 'performance', 'play', 'angela', 'bennett', 'computer', 'expert', 'home', 'time']",0
+2486,"['film', 'pretext', 'ridiculous', 'action', 'scene']",0
+2487,['awful'],0
+2488,"['bad', 'actress', 'repeat', 'robotic', 'face', 'picture']",0
+2489,"['result', 'shame']",0
+2490,"['delete', 'film', 'mind']",0
+2491,"['bad', 'time']",0
+2492,"['begin', 'smart', 'ass', 'ed', 'comment', 'totally', 'wall', 'uncalled']",0
+2493,"['fat', 'computer', 'geek', 'unbelievable', 'bible', 'thumper', 'bad', 'ass', 'girl', 'actor']",0
+2494,"['hear', 'cole', 'totally', 'unbelievable']",0
+2495,"['time', 'open', 'mouth', 'expect', 'hear', 'kid', '...', 'pull', 'plug', 'mercy', 'kill', 'horrible']",0
+2496,"['story', 'unbelievable', 'actor']",0
+2497,"['lame', 'good', 'way', 'describe']",0
+2498,"['stanwyck', 'morgan', 'perfectly', 'cast', 'way', 'modern', 'equivalent', 'dickens', 'christmas', 'carol', 'sensibility']",1
+2499,"['success', 'film', 'depend', 'casting', 'sydney', 'greenstreet', 'alexander', 'yardley', 'character']",1
+2500,"['attractive', 'set', 'use', 'film', 'eye', 'pleasing', 'gem']",1
+2501,"['m', 'big', 'fan', 'rpg', 'game', 'movie', 'disgrace', 'self', 'respect', 'rpger']",0
+2502,"['line', 'cut', 'audio', 'wrong']",0
+2503,"['find', 'movie', 'youtube']",0
+2504,"['line', 'waste', 'time', 'money', 'bad', 'come']",0
+2505,"['lassie', 'movie', 'sleep', '....', 'forever']",0
+2506,"['describe', 'painfully', 'dreary', 'time', 'waster', 'film']",0
+2507,"['mediocre', 'aspect', 'dull', 'uninteresting', 'mess', 'forgettable', 'movie']",0
+2508,"['achievement', 'bad', ""it's"", 'good', 'bad', ""it's"", 'memorable', 'movie']",0
+2509,"['hollow', 'shell', 'movie']",0
+2510,"['seriously', 'worth', 'waste', 'kid', 'time']",0
+2511,"['avoid', 'avoid', 'avoid']",0
+2512,"['drive', 'bark', 'mad']",0
+2513,"['transfer', 'good']",1
+2514,"['nice', 'relax', 'late', 'night', 'viewing']",1
+2515,"['movie', 'wonderful', 'dancing', 'title']",1
+2516,"['great', 'music', 'terrific', 'scenery']",1
+2517,"['handle', 'tough', 'issue', 'dignity', 'grace', 'course', 'shock', 'spoiler']",1
+2518,"['happy', 'wonderful', 'feel', 'good', 'ending']",1
+2519,"['point', 'journey', 'journey', 'touch', 'member', 'family']",1
+2520,"['movie', 'need', 'come', 'tv', '...', 'mind', 'fact', 'memorize']",1
+2521,['new'],0
+2522,"['second', 'movie']",0
+2523,"['movie', 'action', 'scene', 'little', 'comedy']",0
+2524,"['plot', 'hole', 'pair', 'fishnet', 'stocking', 'direction', 'editing', 'astonishingly', 'ham', 'fisted']",0
+2525,"['earth', 'iron', 'film']",0
+2526,"['film', 'recommend']",1
+2527,"['good', 'plot', 'hold', 'complete', 'attention', 'acting', 'superb', 'tom', 'wilkinson', 'fantastic', 'emily', 'watson', 'good']",1
+2528,"['good', 'film', 'great', 'unconditional', 'love']",1
+2529,"['tom', 'wilkinson', 'character', 'man', 'prepare', 'ordeal', 'begin', 'matter', 'hand', 'story', 'progress', 'great', 'actor', 'performance', 'feel', 'character', 'anguish', 'suffering']",1
+2530,"['emily', 'watson', 'character', 'strong', 'quick', 'glance', 'understand']",1
+2531,"['despite', 'pan', 'reviewer', 'like', 'movie']",1
+2532,"['fact', 'like', 'interview', 'vampire', 'like', 'lestat', 'stuart', 'townsend', 'cruise', 'attempt']",1
+2533,"['aailiyah', 'pretty', 'good', 'akasha', 'place', 'compelling', 'entrance', 'mini', 'dance', 'scene']",1
+2534,"['big', 'fan', 'series', 'anne', 'rice', 'style', 'sensitivity', 'treatment']",1
+2535,"['guess', 'like', 'detail', 'dysfunction', '--', 'believable']",1
+2536,"['football', 'scene', 'end', 'perplex']",0
+2537,"['think', 'acting', 'skilled']",1
+2538,"['meredith', 'm', 'right']",1
+2539,"['charming', 'film', 'wonderful', 'sentiment', 'heart']",1
+2540,"['rare', 'film', 'maker', 'time', 'tell', 'worthy', 'moral', 'tale', 'care', 'love', 'fall', 'trap', 'overly', 'syrupy', 'indulgent']",1
+2541,"['truly', 'lovely', 'film']",1
+2542,"['early', 'film', 'future', 'goremeister', 'lucio', 'fulci', 'good', 'addition', 'giallo', 'sub', 'genre']",1
+2543,"['good', 'italian', 'thriller', 'early', '70']",1
+2544,"['standout', 'scene']",1
+2545,"['scene', 'strong', 'unpleasant']",0
+2546,"['technically', 'film', 'impressive', 'camera', 'work', 'solid', 'act', 'effective', 'music', 'riz', 'ortolani', '\x96', 'particularly', 'good', 'recur', 'unaccompanied', 'female', 'vocal', 'sound', 'like', 'come', 'distant', 'hill']",1
+2547,"['wild', 'stuff', 'highly', 'recommend', 'fan', 'giallo', 'cinema']",1
+2548,"['movie', 'interesting', 'begin', 'end']",1
+2549,"['like', 'way', 'dustin', 'hoffman', 'character', 'ready', 'stay', 'son']",1
+2550,"['movie', 'reveal']",1
+2551,"['personally', 'think', 'people', 'learn', 'find', 'compromise', 'self', 'involve', 'people', 'issue']",1
+2552,['boring'],0
+2553,"['tired', 'clichés', 'lazy', 'writing', 'come', 'thick', 'fast']",0
+2554,"['ps', 'scene', 'movie', 'cool', 'central', 'character', 'find', 'room', 'blow']",1
+2555,"['fresh', 'subtle', 'sublime', 'effect']",1
+2556,"['italian', 'reviewer', 'small', 'great', 'film', 'right']",1
+2557,"['actor', 'wonderful', 'performance', 'especially', 'jennifer', 'rubin', 'jamie', 'harris', 'change', 'nervous', 'starlet', 'beginning', 'strange', 'event', 'cool', 'star']",1
+2558,"['learn', 'lot', 'real', 'inside', 'emotion', 'people', 'movie', 'lot', 'movie', 'business']",1
+2559,"['movie', 'movie', 'situation', 'beginning', 'game', 'play', 'act', 'coach', 'fascinating']",1
+2560,"['music', 'mark', 'snow', 'possibly', 'good', 'score', 'hear']",1
+2561,"['forget', 'movie']",1
+2562,['film'],0
+2563,"['film', 'ultra', 'cheap', 'look']",0
+2564,"['result', 'film', 'look', 'right']",0
+2565,"['engage', 'exciting']",0
+2566,"['plot', 'nonsense', 'interest', 'slight', 'way', 'uniqueness']",0
+2567,"['foreigner', 'worth', 'second', 'time']",0
+2568,"['child', 'tv', '1973', 'stranger', 'love']",1
+2569,"['duet', 'astronaut', 'doctor', 'beginning', 'movie', 'perfect', 'exchange', 'consider', 'movie', 'cold', 'war', 'astronaut', 'big', 'fear', 'crash', 'ussr']",1
+2570,"['movie', 'awesome']",1
+2571,"['love', 'scary']",1
+2572,"['love', 'scream', 'movie', 'horror', 'movie', 'rank', 'way']",1
+2573,"['want', 'real', 'scare', 'rent']",1
+2574,"['extraordinary', 'film']",1
+2575,"['courtroom', 'drama', 'compelling', 'indictment', 'american', 'justice', 'system', 'frightening']",1
+2576,"['film', 'highlight', 'fundamental', 'flaw', 'legal', 'process', 'discover', 'guilt', 'innocence', 'present', 'court']",1
+2577,"['film', 'pace', 'understate', 'good', 'courtroom', 'documentary']",1
+2578,"['routine', 'fact', 'base', 'tv', 'drama', 'boost', 'fine', 'performance', 'cole']",1
+2579,"['predictable', 'bad', 'watch']",1
+2580,"['clear', 'range', 'ability', 'pull']",1
+2581,"['carry', 'movie']",1
+2582,"['constantine', 'right', 'intensity', 'good', 'understanding', 'underlying', 'psychological', 'motivation']",1
+2583,"['wonderful', 'inspiring', 'watch', 'hope', 'gets', 'release', 'video', 'dvd']",1
+2584,"['piece', 'trash', 'release', 'acting', 'story', 'character', 'supposedly', 'special', 'effect', 'etc', '...', 'wrong']",0
+2585,"['fact', 'stinker', 'smell', 'like', 'direct', 'video', 'release']",0
+2586,"['avoid', 'cost']",0
+2587,"['star', 'trek', 'v', 'final', 'frontier', 'bad', 'series']",0
+2588,"['acting', 'involved', 'include', 'like', 'shatner', 'nimoy', 'bad', 'wash', 'old', 'look', 'real', 'life', 'special', 'effect', 'tacky', 'like', 'spock', 'rescue', 'kirk', 'jet', 'pack', 'fall', 'mountain']",0
+2589,"['attempt', 'humor', 'pitiful', 'story', 'awful', ""dosen't"", 'bear', 'think', 'basically', 'involve', 'vulcan', 'steal', 'enterprise', 'find', 'god', 'seriously', 'care', 'film', 'oh', 'mention', 'uhura', 'belly', 'dance', 'distract', 'male', 'guard']",0
+2590,"['place', 'good', 'film', 'garbage']",0
+2591,"['bad', 'series']",0
+2592,"['edit', 'editing', 'film', 'phenomenal', 'opinion']",1
+2593,"['song', 'explain', 'emotion', 'subject', 'jay', 'adams', 'unfortunate', 'life', 'subject', 'talk', 'song', 'old', 'man', 'neil', 'young', 'play', 'evoke', 'emotion']",1
+2594,"['cinematography', 'film', 'shoot', 'interesting', 'way']",1
+2595,"['course', 'footage', '70', 'grainy', 'enhance', 'film']",1
+2596,"['film', 'offer', 'delight', 'surprise']",1
+2597,"['achille', 'philippa', 'beautifully', 'sing', 'duet', 'don', 'giovanni', 'perfectly', 'describe', 'situation', 'movie', 'appreciate', 'subtle', 'layer', 'excellent', 'film']",1
+2598,"['story', 'unfold', '18th', 'century', 'jutland', 'use', 'period', 'music', 'play', 'period', 'instrument', 'fine', 'touch']",1
+2599,"['share', 'general', 'loewenhielm', 'exquisite', 'joy', 'partaking', 'cailles', 'en', 'sarcophage', 'watch', 'movie', 'wish', 'small', 'sample', 'savor']",1
+2600,"['understated', 'film', 'leave', 'impression']",1
+2601,"['warmth', 'generate', 'contrast', 'austere', 'backdrop']",1
+2602,"['leave', 'theater', 'want', 'dance', 'star']",1
+2603,"['acting', 'expect', 'cast', 'notch']",1
+2604,"['character', 'flesh', 'surprisingly', 'particularly', 'grimes', 'blake', 'actor', 'deliver', 'sharply', 'script', 'line', 'right', 'deadpan', 'tongue', 'cheek', 'dialogue', 'hilarious', 'realistic']",1
+2605,"['angus', 'scrimm', 'turn', 'good', 'performance', 'somewhat', 'brief', 'memorable', 'role', 'gently', 'menacing', 'violin', 'play', 'anatomist', 'doctor', 'quinn']",1
+2606,"['conclusion', 'love']",1
+2607,"['long', 'time', 'entertain', 'movie']",1
+2608,"['struggle', 'find', 'bad']",1
+2609,"['mark', 'word', 'cult', 'film', 'like', 'evil', 'dead', '2', 'phantasm', 'people', 'discover', 'fall', 'love', '20', '30', '40', 'year', 'line']",1
+2610,"['pretty', 'surprising', 'wonderful', 'film', '1949', 'hollywood', 'generally', 'collective', 'head', 'sand', 'concern', 'black', 'white', 'issue', 'time']",1
+2611,"['film', 'deserve', 'strong', 'kudo', 'stand', 'exceptional', 'act', 'lesser', 'know', 'cast', 'super', 'intelligent', 'script', 'insult', 'audience', 'easy', 'way', 'come', 'white', 'racism']",1
+2612,"['plus', 'movie', 'modest', 'budget', 'fast', 'running', 'time', 'amazing', 'job']",1
+2613,"['juano', 'hernandez', 'exceptional', 'actor', 'play', 'support', 'role', 'film', 'era', 'proud', 'black', 'man', 'accuse', 'murder', 'white', 'man', 'south']",1
+2614,"['trumbull', 'love', 'lucy']",1
+2615,"['kid', 'chance', '--', 'open', 'amazing', 'dialog', 'far', 'race', 'relation', 'come', '50', 'year']",1
+2616,['film'],1
+2617,"['year', 'remind', 'huston', 'game', 'evince', 'faithful', 'adaptation', 'james', 'joyce', 'acclaim', 'novella', 'dead']",1
+2618,"['feeling', 'thought', '...', 'gabriel', 'discomfort', 'dance', '...', 'intangible', 'leap', 'life', 'come', 'viewer', 'grasp', 'huston', 'portrayal']",1
+2619,"['disappointed', 'wonder', 'oscar', 'shortlist']",0
+2620,['slow'],0
+2621,"['lot', 'hole', 'plot', 'emperor', 'spend', '20', 'year', 'childhood', 'mature', 'age']",0
+2622,"['waste', 'time']",0
+2623,"['end', 'days', 'bad', 'big', 'budget', 'action', 'movie']",0
+2624,"['surely', 'know', 'coherent', 'action', 'movie', 'screenwriter', 'air', 'force', 'oblige', 'write', 'script', 'big', 'sum', 'money']",0
+2625,"['bad', 'film']",0
+2626,"['try', 'bad']",0
+2627,"['movie', 'possibly', 'creative', 'work', 'horror']",1
+2628,"['want', '...', 'suspense', 'drama', 'comedy', 'confusing', 'subplot', 'native', 'americans', 'brain', 'eating', '...', 'look', 'end', 'brainsucke', 'movie', 'look', 'far']",1
+2629,"['great', 'sound', 'effect', 'impressive', 'special', 'effect', 'recommend', 'movie', '1', 'nut', 'think', 'good', 'movie', '1', 'great', 'character', 'actor', 'telly', 'savalas', 'peter', 'boyle', '1', '1', 'hour', '54', 'minute', 'sheer', 'tedium', 'melodrama', 'horrible', 'acting', 'mess', 'script', 'sink', 'feeling', 'good', 'lord', 'think', '0', 'lot', 'hole', 'script', '0', 'like', 'bad', 'hour', 'tv', 'movie', '0', 'imagine', 'single', 'decision', 'wrong', '0', 'dialogue', 'atrocious', '0', 'acting', 'abysmal', '0', 'stink', '0', 'trouble', 'writing', 'directing', 'impossible', 'establish', 'thing', 'movie', 'watchable', 'like', 'character', 'story', 'theme', '0', 'bad', 'incredibly', 'weak', 'sub', 'plot', 'throw', 'follow', 'little', 'band', 'day', 'mansonites', 'reporter', 'work', 'story', 'anniversary', 'killing', '0', 'dumb', 'pointless', 'complete', 'waste', 'time', '0', 'short', 'bother', 'movie', '0', 'spoil', 'ending', 'pretty', 'amazing', '1', 'good', 'scene', 'movie', 'end', 'spoil', '1', 'indication', 'writer', 'director', 'ability', 'meld', 'highly', 'volatile', 'temperament', 'seamless', 'union', 'creativity', '1', 'result', 'powerhouse', 'achievement', 'timely', 'culture', 'disturb', 'fascination', 'celebrity', 'distorted', 'interpretation', 'fame', '1', 'film', 'easily', 'forget', '1', 'kevin', 'spacey', 'excellent', 'verbal', 'tsunami', 'buddy', 'ackerman', '\x96', 'totally', 'believable', 'great', 'actor', '1', 'scripting', 'subtle', 'comedy', 'unmatched', 'movie', 'recent', 'year', '1', 'character', 'interesting', 'bit', 'predictable', '1', 'highly', 'recommend', 'age', 'young', 'set', 'probably', 'appreciate', 'subtle', 'reference', 'certainly', 'appreciate', 'galley', 'scene', 'particular', '1', 'great', 'movie', '1', 'story', 'acting', 'weak', '0', '4', 'pm', 'buy', '8', 'pm', 'start', 'watch', '8.15pm', 'fast', 'forward', 'remain', 'film', 'leave', 'watchable', 'human', 'brain', '...', '0', 'way', 'suck', '0', 'script', 'horrendously', 'stupid', '0', 'story', 'start', 'fast', 'absolutely', 'suspense', 'build', 'slight', '0', 'captain', 'howdy', 'laughable', 'plain', 'stupid', '0', 'hell', 'kind', 'crap', '0', 'plot', 'hole', '0', 'drive', 'semi', 'truck', 'hole', '0', 'linda', 'cardellini', 'thing', 'good', 'film', '1', 'poise', 'amazing', '1', 'dee', 'snider', 'plain', 'suck', '0', 'act', 'scary', 'villain', 'write', 'write', 'damn', 'movie', 'sleep', '0', 'bored', 'damn', 'thing', '0', 'acting', 'suck', 'music', 'suck', 'script', 'suck', 'pacing', 'suck', 'special', 'fx', 'suck', 'directing', 'suck', '...', 'basically', 'movie', 'suck', '0', 'film', 'try', 'sophisticated', 'thriller', 'horror', 'flick', 'fail', 'miserably', '0', 'probably', 'effective', 'utterly', 'unoriginal', 'film', 'entire', 'life', '0', 'piece', 'cinematic', 'garbage', 'capture', 'celluloid', '0', 'avoid', 'cost', '0', 'rate', 'film', 'stink', 'funny', 'fulci', 'stay', 'giallo', 'supernatural', 'zombie', 'movie', '0', 'avoid', 'film', 'cost', '0', 'know', 'happen', 'season', 'mess', '0', 'consistent', 'thread', 'hold', 'series', 'amazing', 'performance', 'leni', 'parker', 'anita', 'laselva', 'taelon', 'quiet', 'idealogical', 'conflict', '0', 'movie', 'dislike', '0', 'boring', 'horror', 'movie', '90', 'mainly', 'start', 'slow', 'center', 'boring', 'atmosphere', '0', 'puppet', 'look', 'cheesy', 'good', 'way', 'like', 'puppet', 'master', '80', 'flick', '0', 'story', 'lame', 'interesting', 'explain', 'sinister', 'origin', 'puppet', '0', 'death', 'scene', 'like', 'previous', 'movie', 'f', 'x', 'terrible', '0', 'feel', 'asleep', 'time', 'watch', 'recommend', 'insomniac', '0', 'fact', 'film', 'wonderful', 'heartwarming', 'tale', 'people', 'chase', 'dream', '1', 'good', 'nurse', 'betty', 'unpredictability']",1
+2630,"['director', 'neil', 'labute', 'use', 'brutal', 'violence', 'seperate', 'dream', 'reality', 'touching', 'drama', 'hilarious', 'comedy', 'tell', 'happen']",1
+2631,"['waste', 'time']",0
+2632,"['fail', 'create', 'real', 'suspense']",0
+2633,"['killer', 'expect', 'original', 'remotely', 'frightening']",0
+2634,"['pretty', 'good', 'acting', 'type', 'film']",1
+2635,"['sorry', 'recommend']",0
+2636,"['boring', 'pointless', 'movie']",0
+2637,"['secondary', 'plot', 'line', 'incomprehensible', 'relation', 'primary', 'plot', 'line', 'mystify']",0
+2638,['hate'],0
+2639,"['bad', 'sandra', 'bullock', 'movie', 'speed', '2', 'bad']",0
+2640,"['understand', 'garbage', 'shelf', 'movie', 'store', 'real', 'movie']",0
+2641,"['highly', 'doubt', 'like', 'trash']",0
+2642,"['movie', 'making']",0
+2643,"['acting', 'like', 'watch', 'wooden', 'puppet', 'read', 'book', 'bad']",0
+2644,"['warn', '--', 'rent', 'movie', 'dumb', 'thing']",0
+2645,"['short', 'film', 'hbo', 'day', 'absolutely', 'love']",1
+2646,"['realize', 'wonderful', 'short', 'scene']",1
+2647,"['excellent', 'short', 'film']",1
+2648,"['hopefully', 'director', 'james', 'cox', 'turn', 'short', 'feature', 'length', 'film', 'cast', 'win', 'new', 'film']",1
+2649,"['agree', 'jessica', 'movie', 'pretty', 'bad']",0
+2650,"['character', 'dimensional', 'good', 'guy', 'especially', 'bad', 'guy']",0
+2651,"['story', 'line', 'totally', 'predictable']",0
+2652,"['dialogue', 'music', 'film', 'shoot', 'elaborately', 'aesthetically', 'like', 'sculpture']",1
+2653,"['soap', 'opera', 'intelligent', 'movie']",0
+2654,"['bad', 'character', 'bad', 'story', 'bad', 'acting']",0
+2655,['awful'],0
+2656,"['easy', 'watch']",0
+2657,"['funny', 'clever', 'hip', 'like', 'pray', 'previous', 'film', 'hype']",1
+2658,"['long', 'time', 'charismatic', 'actor', 'screen']",1
+2659,"['paolo', 'sorrentino', 'write', 'wonderful', 'story', 'loneliness', 'tony', 'build', 'unforgettable', 'character', 'movie', 'recent', 'year']",1
+2660,"['movie', 'completely', 'perfect', 'titta', 'di', 'girolamo', 'stay', 'long', 'time', 'vision', 'movie']",1
+2661,"['rate', 'movie', '9/10']",1
+2662,"['know', 'emilio', 'estevez', 'directorial', 'debut', 'pacing', 'interplay', 'development', 'character', 'clever', 'camera', 'work', 'surround', 'character', 'estevez', 'play', 'suggest', 'natural', 'eye']",1
+2663,"['interplay', 'martin', 'emilio', 'contain', 'wonderful', 'chemistry', 'wall', 'street', 'martin', 'charlie']",1
+2664,"['kathy', 'bates', 'wonderful', 'character', 'subtle', 'desperation', 'escapism', 'variation', 'character', 'play', 'fields', 'lord']",1
+2665,"['reader', 'miyazaki', 'film', 'form', 'worthwhile', 'experience']",1
+2666,"['condescend', 'character', 'good', 'genuine', 'heart', 'believable', 'problem']",1
+2667,"['main', 'character', 'believable', 'child', 'screen']",1
+2668,"['easy', 'love', 'easy', 'identify']",1
+2669,"['movie', 'great', '--', 'especially', 'enjoy', 'visual', 'art']",1
+2670,"['scenery', 'daughter', 'paint', 'photograph', 'beautiful']",1
+2671,"['story', 'funny', 'poignant', 'time']",1
+2672,"['people', 'like', 'european', 'film', 'art', 'movie', 'like', 'movie']",1
+2673,"['truly', 'art', 'movie', '--', 'actually', 'lot', 'art']",1
+2674,['rent'],1
+2675,"['finally', 'watch', 'film', 'realize', 'closed', 'mind', 'brilliance', 'depict', 'find', 'watch']",1
+2676,"['movie', 'cease', 'interest', 'simply', 'alert', 'try', 'attempt', 'decipher', 'meaning']",1
+2677,['brilliance'],1
+2678,"['like', 'movie', 'like', 'matrix', 'sequel', 'think', 'appreciate', 'thought', 'provoke', 'mindblowing', 'experience', 'film']",1
+2679,"['think', 'film', 'like', 'dream']",1
+2680,"['simply', 'beautiful']",1
+2681,"['rickman', 'stowe', 'play', 'role', 'hilt', 'tale', 'children', 'book', 'writer', 'who--', 'maybe?--', 'write', 'subversive', 'tract']",1
+2682,"['gloriously', 'fun', 'fast', 'pace', 'fairly', 'accurate', 'portrayal', 'night', 'raver']",1
+2683,"['present', 'idyllic', 'portrayal', 'character', 'live']",1
+2684,"['avoid', 'groove', 'antithesis', 'good', 'human', 'traffic']",0
+2685,"['bad', 'involve', 'share', 'crowe', 'level', 'dedication', 'quality', 'far', 'film', 'hand', 'sub', 'par', 'mess']",0
+2686,"['movie', 'little', 'slow']",0
+2687,"['pick', 'speed', 'right', 'point']",1
+2688,"['exactly', 'government', 'scientist', 'argue', 'humanity', 'reason', 'gadget']",1
+2689,['enjoy'],1
+2690,"['recommend', 'friend']",1
+2691,"['particularly', 'pleased', 'act', 'ability', 'dwight', 'schultz']",1
+2692,"['actor', 'truly', 'understand', 'particular', 'character', 'deliver', 'convincing', 'sincere', 'performance']",1
+2693,"['screen', 'chemistry', 'critical', 'entire', 'film', 'genuine']",1
+2694,"['film', 'dialogue', 'natural', 'real', 'life']",1
+2695,"['writer', 'gorman', 'bechard', 'undoubtedly', 'homework', 'reference', 'industry', 'character', 'age', 'appropriate']",1
+2696,"['incredible', 'soundtrack', 'truly', 'capture', 'essence', 'film']",1
+2697,"['track', 'command', 'sentiment', 'actually', 'contribute', 'scene', 'character']",1
+2698,"['definitely', 'worth', 'sort', 'thought', 'provoke', 'film', 'force', 'question', 'threshold', 'loneliness']",1
+2699,"['hayao', 'miyazaki', 'late', 'eighth', 'film', 'studio', 'ghibili', 'gake', 'ue', 'ponyo', 'ponyo', 'cliff', 'sea', 'wonderfully', 'fun', 'imaginative', 'look', 'childhood']",1
+2700,"['time', 'film', 'animation', 'dominate', 'disney', 'pixar', 'cgi', 'masterpiece', 'refreshing', 'comforting', 'know', 'miyazaki', 'rely', 'traditional', 'hand', 'draw', 'animation', 'tell', 'charming', 'enchanting', 'story']",1
+2701,"['remarkable', 'animation', 'film']",1
+2702,"['art', 'style', 'appearance', 'crayon', 'pencil', 'drawing', 'wonderfully', 'colorful', 'fanciful']",1
+2703,"['act', 'film', 'glad', 'drift', 'away', 'earth', 'far', 'possible']",0
+2704,"['want', 'surf', 'small', 'wave', 'space', 'movie', '1998', 'deep', 'impact', 'armageddon', 'fail']",0
+2705,"['choke', 'vomit', 'end', 'cheap', 'drama', 'worthless', 'dialogue', 'bore', 'death', 'waste', 'time']",0
+2706,"['super', 'ending', 'depict', 'great', 'sea', 'vessel', 'mighty', 'frost']",1
+2707,"['consider', 'excellent', 'story', 'solid', 'acting', 'look', 'film', 'add', 'bonus']",1
+2708,"['instead', 'bore', 'f', 'whiny', 'spoiled', 'brat', 'babysitting']",0
+2709,"['watch', 'sunday', 'ago', 'march', '20th', '2005', 'begin', 'enjoy', 'time', 'tape', 'entire', 'thing']",1
+2710,"['act', 'tv', 'movie']",1
+2711,"['judith', 'light', 'favorite', 'actress', 'think', 'superb', 'job', 'film']",1
+2712,['watch'],1
+2713,"['sad', 'movie', 'good']",1
+2714,"['movie', 'definitely', 'recommend']",1
+2715,"['lovely', 'usual', 'cutie']",1
+2716,"['interesting', 'entertaining', 'follow']",1
+2717,"[';)', 'recommend', 'confidence']",1
+2718,"['movie', 'balance', 'comedy', 'drama', 'thoroughly', 'enjoy']",1
+2719,"['riot', 'hugo', 'weaving', 'play', 'sex', 'obsess', 'gay', 'real', 'estate', 'salesman', 'use', 'client', 'house', 'tryst', 'flame', 'darren', 'tom', 'hollander']",1
+2720,"[':)', 'plot', 'flow', 'smoothly', 'male', 'bond', 'scene', 'hoot']",1
+2721,"['opening', 'sequence', 'gem', 'classic', 'cat', 'n', 'mouse', 'game', 'follow', 'delight', 'watch']",1
+2722,"['fan', 'genre', 'heaven']",1
+2723,"['lange', 'great', 'actress']",1
+2724,"['look', 'like', 'wonderful', 'story']",1
+2725,"['walk', 'movie', 'fast']",0
+2726,"['bored', 'watch', 'jessice', 'lange', 'clothe']",0
+2727,"['unfortunately', 'virtue', 'film', 'production', 'work', 'lose', 'regrettable', 'script']",0
+2728,"['word', 'embarrassing']",0
+2729,"['exceptionally', 'bad']",0
+2730,"['insult', 'intelligence', 'huge', 'waste', 'money']",0
